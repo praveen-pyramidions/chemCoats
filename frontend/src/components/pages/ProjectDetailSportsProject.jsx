@@ -62,7 +62,7 @@ class ProjectDetailSportsProject extends Component {
                                 data-smobile={60}
                               />
                               <div className="detail-inner-wrap">
-                                <SidebarSportsProject />
+                                {/* <SidebarSportsProject /> */}
                                 <ContentProjectSportsProject />
                               </div>
                               <div

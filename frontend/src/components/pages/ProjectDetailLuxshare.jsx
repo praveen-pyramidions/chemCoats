@@ -62,7 +62,7 @@ class ProjectDetailLuxshare extends Component {
                                 data-smobile={60}
                               />
                               <div className="detail-inner-wrap">
-                                <SidebarLuxshare />
+                                {/* <SidebarLuxshare /> */}
                                 <ContentProjectLuxshare />
                               </div>
                               <div

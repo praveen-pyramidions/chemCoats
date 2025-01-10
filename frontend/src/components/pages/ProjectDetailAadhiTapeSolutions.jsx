@@ -62,7 +62,7 @@ class ProjectDetailAadhiTapeSolutions extends Component {
                                 data-smobile={60}
                               />
                               <div className="detail-inner-wrap">
-                                <SidebarAadhiTapeSolutions />
+                                {/* <SidebarAadhiTapeSolutions /> */}
                                 <ContentProjectAadhiTapeSolutions />
                               </div>
                               <div

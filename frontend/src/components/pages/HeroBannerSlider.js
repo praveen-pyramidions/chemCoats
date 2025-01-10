@@ -16,7 +16,7 @@ const HeroBanner = () => {
         // emulateTouch={true}
       >
         <div>
-          <img src="assets/img/epoxy-flooring.jpg" alt="Epoxy-flooring" title="Epoxy-flooring" />
+          <img src="assets/banners/banner1.png" alt="Epoxy-flooring" title="Epoxy-flooring" />
           <div className="legend">
             <div className="WelcomeTextHeroBanner">WELCOME TO CHEMCOATS</div>
             <div className="WelcomeTextMainHeroBanner">
@@ -36,7 +36,7 @@ const HeroBanner = () => {
         </div>
         <div>
           <img
-            src="assets/img/types-of-epoxy-flooring-services-2-scaled.jpg"
+            src="assets/banners/banner2.png"
             alt="Epoxy-flooring"
             title="Epoxy-flooring"
           />
@@ -59,7 +59,7 @@ const HeroBanner = () => {
         </div>
         <div>
           <img
-            src="assets/img/Celebrating-17year-in-epoxy-flooring2.jpg"
+            src="assets/banners/banner3.png"
             alt="Epoxy-flooring"
             title="Epoxy-flooring"
           />

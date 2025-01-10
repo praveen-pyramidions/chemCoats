@@ -729,7 +729,7 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <i className="fa fa-check-circle" />
                       </span>
                       <span className="text">
-                        15 years of Industrial Polyurethane flooring services in
+                        17 years of Industrial Polyurethane flooring services in
                         India
                       </span>
                     </span>

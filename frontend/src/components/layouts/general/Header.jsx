@@ -1,7 +1,11 @@
 import React, { Component } from "react";
 import { Link, withRouter } from "react-router-dom";
 import menus from "../menu";
+  // import logo from '../../../../chemcoatslogo.png'
+
 class Header extends Component {
+
+
   render() {
     const { location } = this.props;
     return (

@@ -3025,6 +3025,7 @@ body.page #main-content {
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  display: none;
 }
 #scroll-top:before {
   z-index: -1;

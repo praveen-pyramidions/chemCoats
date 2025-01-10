@@ -62,7 +62,7 @@ class ProjectDetailFlex extends Component {
                                 data-smobile={60}
                               />
                               <div className="detail-inner-wrap">
-                                <SidebarFlex />
+                                {/* <SidebarFlex /> */}
                                 <ContentProjectFlex />
                               </div>
                               <div

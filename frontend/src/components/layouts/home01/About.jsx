@@ -105,16 +105,17 @@ class About extends Component {
                   data-smobile={35}
                 />
                 <div className="elm-button">
-                  <Link
-                    to="#"
-                    onClick={() => {
-                      window.location.href = "/contact";
-                    }}
+                  <a
+                    href="https://wa.me/+919962699888"
+                    // onClick={() => {
+                    //   window.location.href = "/contact";
+                    // }}
                     className="themesflat-button bg-white"
                     title="Learn more about Us"
+                    target="_blank"
                   >
                     GET IN TOUCH
-                  </Link>
+                  </a>
                 </div>
               </div>
               <div

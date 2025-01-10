@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter, Route } from "react-router-dom";
 import routes from "./components/pages/index";
+import SocialLinks from "./components/common/SocialLinks";
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
           key={idx}
         ></Route>
       ))}
+      <SocialLinks />
+
     </BrowserRouter>
   );
 }

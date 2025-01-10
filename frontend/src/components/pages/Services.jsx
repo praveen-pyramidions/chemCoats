@@ -37,14 +37,14 @@ class Services extends Component {
               ))}
             </div>
             {this.state.banners.map((data) => (
-              <BannerTitle key={data.id} data={data} />
+              <BannerTitle key={data.id} data={data} /> 
             ))}
             <div id="main-content" className="site-main clearfix">
               <div id="content-wrap">
                 <div id="site-content" className="site-content clearfix">
                   <div id="inner-content" className="inner-content-wrap">
                     <div className="page-content">
-                      <ServiceSlide />
+                      <ServiceSlide /> 
                     </div>
                   </div>
                 </div>

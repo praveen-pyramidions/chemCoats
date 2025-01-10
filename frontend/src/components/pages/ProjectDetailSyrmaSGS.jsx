@@ -62,7 +62,7 @@ class ProjectDetailSyrmaSGS extends Component {
                                 data-smobile={60}
                               />
                               <div className="detail-inner-wrap">
-                                <SidebarSyrmaSGS />
+                                {/* <SidebarSyrmaSGS /> */}
                                 <ContentProjectSyrmaSGS />
                               </div>
                               <div
