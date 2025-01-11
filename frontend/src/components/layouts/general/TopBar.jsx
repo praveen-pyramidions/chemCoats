@@ -34,6 +34,9 @@ class TopBar extends Component {
                   <Link to="#" title="RSS">
                     <i className="fa fa-rss" />
                   </Link>
+                  <a href="https://www.linkedin.com/company/chemcoats/" title="linkedIn" target="_blank">
+                    <i className="fa fa-linkedin" />
+                  </a>
                 </span>
               </div>
             </div>
