@@ -55,7 +55,7 @@ export default function ContentBlog() {
                 <div className="post-media data-effect-item has-effect-icon offset-v-25 offset-h-24clerafix">
                   <Link
                     onClick={() => {
-                      window.location.href = `/blogtype/${blogitem._id}`;
+                      window.location.href = `/blog/${slug}`;
                     }}
                   >
                     <img
