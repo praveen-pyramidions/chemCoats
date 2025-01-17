@@ -132,7 +132,8 @@ export default function SidebarBlog() {
                         <h3>
                           <Link
                             onClick={() => {
-                              window.location.href = `/blogtype/${blogitem._id}`;
+                              const slug = blogitem.title.toLowerCase().split(" ").join("-");
+                              window.location.href = `/blog/${slug}`;
                             }}
                           >
                             {blogitem.title.slice(0, 40)}...
