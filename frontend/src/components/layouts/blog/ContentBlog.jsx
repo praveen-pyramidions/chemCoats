@@ -56,6 +56,8 @@ export default function ContentBlog() {
                   <Link
                     onClick={() => {
                       window.location.href = `/blog/${slug}`;
+                      localStorage.setItem('blogid', blogitem._id);
+
                     }}
                   >
                     <img
