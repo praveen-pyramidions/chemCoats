@@ -59,30 +59,30 @@ const routes = [
   { path: "/home-02", component: Home02 },
   { path: "/about-us", component: AboutUs },
   { path: "/about-detail", component: AboutDetails },
-  { path: "/about-team", component: AboutTeam },
-  { path: "/about-carees", component: AboutCarres },
+  // { path: "/about-team", component: AboutTeam },
+  // { path: "/about-carees", component: AboutCarres },
   { path: "/services", component: Services },
   { path: "/epoxy-flooring", component: ServiceDetail },
   { path: "/project", component: Projects },
   { path: "/project-full-width", component: ProjectFullWidth },
   { path: "/esd-protection-systems", component: ProjectDetail },
-  { path: "/page-testimonial", component: Testimonial },
-  { path: "/page-pricing", component: PricePage },
+  // { path: "/page-testimonial", component: Testimonial },
+  // { path: "/page-pricing", component: PricePage },
   { path: "/blog", component: Blog },
   { path: "/login", component: Login },
   // { path: "/blog-single", component: BlogSingle },
-  { path: "/:blogtype/:id", component: BlogSingle },
+  { path: "/:blog/:id", component: BlogSingle },
   //{ path: "/createblog", component: CreateBlog },
   //{ path: "/editblog/:id", component: EditBlog },
 
-  {
-    path: "/createblog",
-    component: () => (
-      <Protect>
-        <CreateBlog />
-      </Protect>
-    ),
-  },
+  // {
+  //   path: "/createblog",
+  //   component: () => (
+  //     <Protect>
+  //       <CreateBlog />
+  //     </Protect>
+  //   ),
+  // },
 
   {
     path: "/editblog/:id",
@@ -94,9 +94,9 @@ const routes = [
   },
 
   { path: "/contact", component: Contact },
-  { path: "/contact-02", component: Contact02 },
-  { path: "/whychooseepoxy", component: WhyChooseEpoxy },
-  { path: "/imagecarosel", component: HeroBanner },
+  // { path: "/contact-02", component: Contact02 },
+  // { path: "/whychooseepoxy", component: WhyChooseEpoxy },
+  // { path: "/imagecarosel", component: HeroBanner },
 
   // Additional Route For Service
   {

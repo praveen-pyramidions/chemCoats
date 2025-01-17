@@ -45,6 +45,8 @@ export default function ContentBlog() {
             .join(" ").trim().slice(0, 160).replace(/&nbsp;/g, " ").replace(/&nbsp;/g, " ")+"....." || "";  
             
 
+            const slug =blogitem.title.toLowerCase().split(" ").join("-");
+
             return (
               <article
                 className="hentry data-effect flexmainfidn45"
@@ -91,6 +93,7 @@ export default function ContentBlog() {
                         className="newblogtitlename"
                         onClick={() => {
                           window.location.href = `/blogtype/${blogitem._id}`;
+
                         }}
                       >
                         {blogitem.title}
@@ -139,7 +142,8 @@ export default function ContentBlog() {
                       <Link
                         className="readmorebuttopnjf4"
                         onClick={() => {
-                          window.location.href = `/blogtype/${blogitem._id}`;
+                          window.location.href = `/blog/${slug}`;
+                          localStorage.setItem('blogid', blogitem._id);
                         }}
                       >
                         READ MORE

@@ -5,20 +5,23 @@ import moment from "moment";
 import { Link, useParams, useNavigate, useLocation } from "react-router-dom";
 
 export default function SingleContent() {
-  const { id } = useParams();
   const [suggestedBlogs, setSuggestedBlogs] = useState([]);
   const [blog, setBlog] = useState({});
   const [popupOpened, setPopupOpened] = useState(false);
-  // const navigate = useNavigate();
   const location = useLocation();
+  const [id, setId] = useState(localStorage.getItem("blogid")|| '');
 
   useEffect(() => {
     let isMounted = true;
 
+  
+
     const fetchBlog = async () => {
       try {
         console.log(`Fetching blog with ID: ${id}`);
+
         const response = await axios.get(`${API_URL}/blog/get/${id}`);
+        console.log(response.data);
         if (isMounted) {
           setBlog(response.data);
         }
