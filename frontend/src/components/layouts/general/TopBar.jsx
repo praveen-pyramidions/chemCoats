@@ -22,7 +22,7 @@ class TopBar extends Component {
               <div className="inner">
                 <span className="text">Follow us:</span>
                 <span className="icons">
-                  <Link to="#" title="Facebook">
+                  {/* <Link to="#" title="Facebook">
                     <i className="fa fa-facebook" />
                   </Link>
                   <Link to="#" title="Twitter">
@@ -30,7 +30,7 @@ class TopBar extends Component {
                   </Link>
                   <Link to="#" title="Pinterest">
                     <i className="fa fa-pinterest-p" />
-                  </Link>
+                  </Link> */}
                   <a href="https://www.linkedin.com/company/chemcoats/" title="linkedIn" target="_blank">
                     <i className="fa fa-linkedin" />
                   </a>
