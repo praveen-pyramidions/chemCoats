@@ -45,7 +45,7 @@ class SiteContentCarParkDeckFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/car-park-deck-flooring"
+            href="https://chemcoats.com/car-park-deck-flooring"
           />
         </Helmet>
 

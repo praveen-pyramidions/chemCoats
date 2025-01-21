@@ -31,9 +31,9 @@ class SiteContentQuartzFlooring extends Component {
   render() {
     return (
       <div id="site-content" className="site-content clearfix">
-         <Helmet>
+        <Helmet>
           <title>
-          Quartz Flooring | Quartz Epoxy Floor | Quartz Floor Coating
+            Quartz Flooring | Quartz Epoxy Floor | Quartz Floor Coating
           </title>
           <meta
             name="description"
@@ -41,10 +41,7 @@ class SiteContentQuartzFlooring extends Component {
           />
           <meta name="author" content="Chem Coats" />
           <meta name="robots" content="index, follow" />
-          <link
-            rel="canonical"
-            href=" https://www.chemcoats.com/quartz-flooring"
-          />
+          <link rel="canonical" href=" https://chemcoats.com/quartz-flooring" />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">
           <div

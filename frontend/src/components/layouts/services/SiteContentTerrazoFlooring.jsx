@@ -33,19 +33,16 @@ class SiteContentTerrazoFlooring extends Component {
       <div id="site-content" className="site-content clearfix">
         <Helmet>
           <title>
-          Terrazo Flooring | Epoxy Terrazo Flooring | Epoxy Terrazo
+            Terrazo Flooring | Epoxy Terrazo Flooring | Epoxy Terrazo
           </title>
           <meta
             name="description"
             content="Terrazzo Flooring is a highly durable, visually striking surface made from a blend of marble, glass, and epoxy. Ideal for high-traffic commercial spaces, it offers long-lasting performance, easy maintenance, and endless design possibilities."
           />
-          
+
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link
-            rel="canonical"
-            href="https://www.chemcoats.com/terrazo-flooring"
-          />
+          <link rel="canonical" href="https://chemcoats.com/terrazo-flooring" />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">
           <div

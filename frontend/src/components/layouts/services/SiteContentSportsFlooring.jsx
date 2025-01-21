@@ -32,9 +32,7 @@ class SiteContentSportsFlooring extends Component {
     return (
       <div id="site-content" className="site-content clearfix">
         <Helmet>
-          <title>
-          Sports Flooring | Sports Matting
-          </title>
+          <title>Sports Flooring | Sports Matting</title>
           <meta
             name="description"
             content="Sports Flooring provides durable, high-performance surfaces for gyms, courts, and recreational areas. Designed for safety, shock absorption, and traction, it enhances athletic performance while ensuring long-lasting durability."
@@ -45,10 +43,7 @@ class SiteContentSportsFlooring extends Component {
           />
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link
-            rel="canonical"
-            href="https://www.chemcoats.com/sports-flooring"
-          />
+          <link rel="canonical" href="https://chemcoats.com/sports-flooring" />
         </Helmet>
 
         <div id="inner-content" className="inner-content-wrap">

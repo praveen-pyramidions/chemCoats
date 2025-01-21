@@ -45,7 +45,7 @@ class SiteContentCleanRoomFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/di-clean-room-flooring"
+            href="https://chemcoats.com/di-clean-room-flooring"
           />
         </Helmet>
 

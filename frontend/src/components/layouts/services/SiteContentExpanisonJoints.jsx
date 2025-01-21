@@ -31,7 +31,7 @@ class SiteContentExpanisonJoints extends Component {
   render() {
     return (
       <div id="site-content" className="site-content clearfix">
-         <Helmet>
+        <Helmet>
           <title>Expansion Joints | Concrete Expansion Joint</title>
           <meta
             name="description"
@@ -40,7 +40,7 @@ class SiteContentExpanisonJoints extends Component {
           <meta name="author" content="Chem Coats" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/di-expanison-joints"
+            href="https://chemcoats.com/di-expanison-joints"
           />
           <meta name="robots" content="index, follow" />
         </Helmet>

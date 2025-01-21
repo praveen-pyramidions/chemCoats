@@ -32,9 +32,7 @@ class SiteContentPolyUrethaneFlooring extends Component {
     return (
       <div id="site-content" className="site-content clearfix">
         <Helmet>
-          <title>
-          Polyurethane Flooring | PU Concrete Flooring
-          </title>
+          <title>Polyurethane Flooring | PU Concrete Flooring</title>
           <meta
             name="description"
             content="Polyurethane Flooring offers a high-performance, durable solution for both commercial and industrial environments. Known for its resistance to wear, chemicals, and UV damage, it provides long-lasting protection and easy maintenance."
@@ -47,7 +45,7 @@ class SiteContentPolyUrethaneFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/polyurethane-flooring"
+            href="https://chemcoats.com/polyurethane-flooring"
           />
         </Helmet>
 

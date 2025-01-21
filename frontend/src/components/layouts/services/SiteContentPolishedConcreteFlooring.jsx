@@ -41,7 +41,7 @@ class SiteContentPolishedConcreteFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/di-polished-concrete-flooring"
+            href="https://chemcoats.com/di-polished-concrete-flooring"
           />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">

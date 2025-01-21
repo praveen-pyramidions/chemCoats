@@ -45,7 +45,7 @@ class SiteContentDiElecricFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/di-electric-flooring"
+            href="https://chemcoats.com/di-electric-flooring"
           />
         </Helmet>
 

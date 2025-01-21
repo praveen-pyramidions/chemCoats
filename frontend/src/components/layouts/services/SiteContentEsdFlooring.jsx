@@ -42,10 +42,7 @@ class SiteContentEsdFlooring extends Component {
             content="ESD Flooring, Electrostatic Discharge, Durable Flooring, Chem Coats"
           />
           <meta name="author" content="Chem Coats" />
-          <link
-            rel="canonical"
-            href="https://www.chemcoats.com/esd-flooring"
-          />
+          <link rel="canonical" href="https://chemcoats.com/esd-flooring" />
           <meta name="robots" content="index, follow" />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">

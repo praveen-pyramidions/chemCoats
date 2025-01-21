@@ -5,15 +5,15 @@ class ContentProjectSyrmaSGS extends Component {
   render() {
     return (
       <div className="detail-gallery">
-         <Helmet>
+        <Helmet>
           <title>Chemcoats Project | Syrmasgs</title>
           <meta
             name="description"
             content="Syrma SGS, a prominent motherboard and electronics manufacturing company, required a specialized ESD (Electrostatic Discharge) flooring solution that could provide a highly controlled environment to prevent static build-up, which could potentially damage sensitive electronic components during production."
-          />  
+          />
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/syrmasgs" />
+          <link rel="canonical" href="https://chemcoats.com/syrmasgs" />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

@@ -33,7 +33,7 @@ class SiteContentSelfLevelingEpoxyFlooring extends Component {
       <div id="site-content" className="site-content clearfix">
         <Helmet>
           <title>
-          Self Leveling Epoxy Flooring | Epoxy Flooring Self Leveling
+            Self Leveling Epoxy Flooring | Epoxy Flooring Self Leveling
           </title>
           <meta
             name="description"
@@ -47,7 +47,7 @@ class SiteContentSelfLevelingEpoxyFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/di-self-leveling-epoxy-flooring"
+            href="https://chemcoats.com/di-self-leveling-epoxy-flooring"
           />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">

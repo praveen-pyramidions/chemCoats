@@ -45,7 +45,7 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/anti-static-epoxy-flooring"
+            href="https://chemcoats.com/anti-static-epoxy-flooring"
           />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">

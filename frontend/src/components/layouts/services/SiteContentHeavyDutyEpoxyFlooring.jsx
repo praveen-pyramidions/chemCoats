@@ -33,7 +33,7 @@ class SiteContentHeavyDutyEpoxyFlooring extends Component {
       <div id="site-content" className="site-content clearfix">
         <Helmet>
           <title>
-          Heavy Duty Industrial Flooring | Heavy Duty Epoxy Flooring
+            Heavy Duty Industrial Flooring | Heavy Duty Epoxy Flooring
           </title>
           <meta
             name="description"
@@ -43,7 +43,7 @@ class SiteContentHeavyDutyEpoxyFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/di-heavy-duty-epoxy-flooring"
+            href="https://chemcoats.com/di-heavy-duty-epoxy-flooring"
           />
         </Helmet>
 
