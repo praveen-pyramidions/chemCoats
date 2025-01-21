@@ -5,16 +5,16 @@ class ContentProjectFlex extends Component {
   render() {
     return (
       <div className="detail-gallery">
-         <Helmet>
+        <Helmet>
           <title>Chemcoats Project | Flex</title>
           <meta
             name="description"
             content=" In the FLEX – INTEL Project, we were tasked with providing an Anti-Static Flooring solution that would meet the highest industry standards, ensuring a controlled environment for the sensitive electronics and semiconductor components being manufactured."
           />
-         
+
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/flex" />
+          <link rel="canonical" href="https://chemcoats.com/flex" />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

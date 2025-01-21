@@ -96,7 +96,7 @@ class Home01 extends Component {
 
           <meta name="author" content="Chemcoats" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/" />
+          <link rel="canonical" href="https://chemcoats.com/" />
         </Helmet>
         <div id="wrapper" className="animsition">
           <div id="page" className="clearfix">
@@ -132,7 +132,9 @@ class Home01 extends Component {
                                   data-smobile={60}
                                 />
                               </div>
-                            <h1 className="heading-h1-main">Best Epoxy Floor Coating in Chennai</h1>
+                              <h1 className="heading-h1-main">
+                                Best Epoxy Floor Coating in Chennai
+                              </h1>
                               {this.state.headingchoose1.map((data) => (
                                 <TitleHeading data={data} key={data.id} />
                               ))}

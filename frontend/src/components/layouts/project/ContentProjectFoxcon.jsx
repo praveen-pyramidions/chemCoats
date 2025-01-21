@@ -5,16 +5,16 @@ class ContentProjectFoxcon extends Component {
   render() {
     return (
       <div className="detail-gallery">
-         <Helmet>
+        <Helmet>
           <title>Chemcoats Project | Foxcon</title>
           <meta
             name="description"
             content="Foxcon, a global leader in electronics manufacturing, has implemented ESD (Electrostatic Discharge) flooring across its facilities to safeguard sensitive electronic equipment and ensure the smooth operation of high-tech production processes."
           />
-         
+
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/foxcon"/>
+          <link rel="canonical" href="https://chemcoats.com/foxcon" />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

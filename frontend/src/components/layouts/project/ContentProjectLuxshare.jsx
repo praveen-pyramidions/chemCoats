@@ -5,7 +5,7 @@ class ContentProjectLuxshare extends Component {
   render() {
     return (
       <div className="detail-gallery">
-         <Helmet>
+        <Helmet>
           <title>Chemcoats Project | Luxshare</title>
           <meta
             name="description"
@@ -13,7 +13,7 @@ class ContentProjectLuxshare extends Component {
           />
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/luxshare" />
+          <link rel="canonical" href="https://chemcoats.com/luxshare" />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"
