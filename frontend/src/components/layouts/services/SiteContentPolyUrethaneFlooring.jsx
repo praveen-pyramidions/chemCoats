@@ -76,12 +76,18 @@ class SiteContentPolyUrethaneFlooring extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Polyurethane flooring is a type of material that is widely
+                    {/* Polyurethane flooring is a type of material that is widely
                     recognized for its strength and long lasting durability. It
                     consists of layers with the layer usually made up of a
                     polyurethane coating. This coating acts as a barrier
                     shielding the floor from damage caused by use, stains and
-                    moisture.
+                    moisture. */}
+                    Polyurethane flooring is one of the most widely known
+                    materials due to its strength and durability that lasts for
+                    long. It comprises layers, where the layer is mostly made of
+                    a polyurethane coating. This coating serves as a shield that
+                    protects the floor from wear and tear due to usage, stains,
+                    and moisture.
                   </p>
                 </div>
               </div>
@@ -110,7 +116,7 @@ class SiteContentPolyUrethaneFlooring extends Component {
           <div className="flat-content-wrap style-2 clearfix">
             {/* <h5 className="title">SERVICE CONSULTANT</h5> */}
             <p>
-              Polyurethane flooring is of paramount importance due to its
+              {/* Polyurethane flooring is of paramount importance due to its
               exceptional durability, chemical resistance, and versatility. It
               safeguards industrial and commercial spaces from wear, chemical
               exposure, and moisture damage, ensuring longevity and
@@ -118,7 +124,15 @@ class SiteContentPolyUrethaneFlooring extends Component {
               healthcare and food processing facilities, contributing to a safer
               and cleaner environment. In summary, polyurethane flooring is an
               indispensable solution for industries and spaces demanding
-              longevity, resilience, and hygiene.
+              longevity, resilience, and hygiene. */}
+              It is essential because it has high durability, chemical
+              resistance, and adaptability. It protects industrial and
+              commercial premises from wear, chemical attack, and moisture
+              damage, with long-lasting and economical benefits. It provides
+              hygienic benefits in healthcare and food processing industries,
+              leading towards greater hygiene and a safer environment. Put
+              simply, polyurethane flooring is the only available solution for
+              industries requiring longevity, sustainability, and hygiene.
             </p>
           </div>
           <div
@@ -159,11 +173,16 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Durability and Resilience :{" "}
                         </span>
-                        Polyurethane flooring is renowned for its ability to
+                        {/* Polyurethane flooring is renowned for its ability to
                         withstand heavy loads, foot traffic, machinery, and
                         equipment movement without deteriorating. This
                         resilience extends its lifespan, reducing the need for
-                        frequent repairs or replacements.
+                        frequent repairs or replacements. */}
+                        Polyurethane flooring is known for its strength to
+                        withstand heavy loads, traffic, machinery, and equipment
+                        movement without erosion. This durability prolongs the
+                        lifespan of the floor, thus preventing frequent repairs
+                        or replacements.
                       </span>
                     </span>
                   </div>
@@ -178,11 +197,16 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Chemical Resistance :{" "}
                         </span>
-                        It offers exceptional resistance to a broad spectrum of
+                        {/* It offers exceptional resistance to a broad spectrum of
                         chemicals, including acids, alkalis, solvents, and oils.
                         This property is critical in environments like
                         laboratories, pharmaceutical facilities, and food
-                        processing plants, where spillages can occur.
+                        processing plants, where spillages can occur. */}
+                        It offers outstanding resistance to a very broad range
+                        of chemicals, including acids, alkalis, solvents, and
+                        oils. This property is essential in areas such as
+                        laboratories, pharmaceutical establishments, or food
+                        processing plants where spillages are possible.
                       </span>
                     </span>
                   </div>
@@ -197,11 +221,15 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Slip Resistance :{" "}
                         </span>
-                        Safety in the workplace is paramount, and polyurethane
+                        {/* Safety in the workplace is paramount, and polyurethane
                         flooring can be engineered to provide excellent slip
                         resistance. This is particularly beneficial in areas
                         prone to spills or in industries where workers are
-                        constantly on the move.
+                        constantly on the move. */}
+                        Safety is of utmost importance in the workplace, and
+                        polyurethane flooring can be engineered to offer
+                        excellent slip resistance. It's especially good in areas
+                        prone to spills or where workers are always on the move.
                       </span>
                     </span>
                   </div>
@@ -216,11 +244,16 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Hygienic and Easy to Clean :{" "}
                         </span>
-                        With the option for a seamless installation,
+                        {/* With the option for a seamless installation,
                         polyurethane floors do not harbor bacteria, dust, or
                         mold, making them ideal for sectors where cleanliness is
                         a priority. The surface is also easy to maintain and can
-                        withstand aggressive cleaning protocols.
+                        withstand aggressive cleaning protocols. */}
+                        In the event that a seamless installation is preferred,
+                        polyurethane floors do not harbor bacteria, dust, or
+                        mold, and thus they find their best fit in sectors that
+                        demand maximum hygiene. The surface also can easily
+                        stand aggressive cleaning protocols.
                       </span>
                     </span>
                   </div>
@@ -235,11 +268,15 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Aesthetic Versatility :{" "}
                         </span>
-                        Polyurethane flooring can be customized in a wide range
+                        {/* Polyurethane flooring can be customized in a wide range
                         of colors and finishes to suit the aesthetic
                         requirements of any industrial space. This allows for
                         the delineation of safety zones, walkways, and specific
-                        work areas.
+                        work areas. */}
+                        Polyurethane flooring can be customized in a very wide
+                        range of colors and finishes to suit any aesthetic
+                        requirements of an industrial space. It helps to define
+                        safety zones, walkways, and specific work areas.
                       </span>
                     </span>
                   </div>
@@ -255,11 +292,16 @@ class SiteContentPolyUrethaneFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Comfort and Ergonomics :{" "}
                       </span>
-                      The slight give in polyurethane flooring can offer a more
+                      {/* The slight give in polyurethane flooring can offer a more
                       comfortable standing experience for workers, potentially
                       reducing fatigue. This ergonomic benefit is an essential
                       consideration for facilities where employees are on their
-                      feet for long periods.
+                      feet for long periods. */}
+                      Polyurethane flooring has slight resiliency to ensure
+                      greater comfort for standing workers, which equals fatigue
+                      reduction. This ergonomic quality has to be a major
+                      consideration for those facilities where workers stand for
+                      an extended period.
                     </span>
                   </span>
                 </div>
@@ -274,10 +316,14 @@ class SiteContentPolyUrethaneFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Noise Reduction :{" "}
                       </span>
-                      The elasticity of polyurethane flooring can help absorb
+                      {/* The elasticity of polyurethane flooring can help absorb
                       sound, contributing to a quieter working environment. This
                       is beneficial in reducing noise pollution in busy
-                      industrial settings.
+                      industrial settings. */}
+                      The elasticity of polyurethane flooring is helpful for the
+                      absorption of noise and thus creates a quieter working
+                      environment. This in turn reduces noise pollution within
+                      an industrialized business.
                     </span>
                   </span>
                 </div>
@@ -292,12 +338,17 @@ class SiteContentPolyUrethaneFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Environmental Sustainability :{" "}
                       </span>
-                      Modern polyurethane floors are developed with an emphasis
+                      {/* Modern polyurethane floors are developed with an emphasis
                       on reducing environmental impact. Many options are
                       available with low volatile organic compound (VOC)
                       emissions, supporting industries in their efforts to
                       comply with green standards and ensuring healthier indoor
-                      air quality.
+                      air quality. */}
+                      New polyurethane floors are created while considering
+                      other environmental problems. There are a lot of options,
+                      which would fulfill the criteria with low VOCs and hence,
+                      help businesses comply with green standards and improve
+                      indoor air quality.
                     </span>
                   </span>
                 </div>
@@ -448,10 +499,13 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Manufacturing :{" "}
                         </span>
-                        Due to its durability and resistance to wear and tear,
+                        {/* Due to its durability and resistance to wear and tear,
                         polyurethane flooring is ideal for manufacturing plants
                         where heavy machinery and frequent foot traffic are
-                        common.
+                        common. */}
+                        Polyurethane flooring is highly suited for manufacturing
+                        plants with heavy machinery and frequent foot traffic
+                        due to its long life and wear-and-tear resistance.
                       </span>
                     </span>
                   </div>
@@ -466,10 +520,14 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Automotive :{" "}
                         </span>
-                        Automotive factories and repair shops benefit from
+                        {/* Automotive factories and repair shops benefit from
                         polyurethane floors because they resist oil, grease, and
                         chemical spills, and can withstand the weight of
-                        vehicles and equipment.
+                        vehicles and equipment. */}
+                        The automobile factories and repair shops appreciate
+                        polyurethane flooring for standing up to oil and grease
+                        spills and chemical substances, while also supporting
+                        the immense weight of vehicles and heavy machinery.
                       </span>
                     </span>
                   </div>
@@ -484,10 +542,14 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Healthcare :{" "}
                         </span>
-                        Hospitals and healthcare facilities use polyurethane
+                        {/* Hospitals and healthcare facilities use polyurethane
                         flooring because it’s easy to clean and maintain a
                         sterile environment, helping prevent the spread of
-                        infections.
+                        infections. */}
+                        Polyurethane flooring is used in hospitals and
+                        healthcare facilities because of ease of cleaning and
+                        maintenance of a sterile environment to prevent
+                        infection.
                       </span>
                     </span>
                   </div>
@@ -502,10 +564,14 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Food Processing :{" "}
                         </span>
-                        The non-porous surface of polyurethane flooring does not
+                        {/* The non-porous surface of polyurethane flooring does not
                         harbor bacteria and resists various organic acids,
                         making it suitable for meat, dairy, and other food
-                        processing plants where hygiene is paramount.
+                        processing plants where hygiene is paramount. */}
+                        It is suitable for meat and dairy processing plants
+                        where sanitation is a top priority, as the polyurethane
+                        floor is non-porous and resists different organic acids,
+                        preventing accumulation of bacteria.
                       </span>
                     </span>
                   </div>
@@ -520,10 +586,15 @@ class SiteContentPolyUrethaneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Pharmaceuticals :{" "}
                         </span>
-                        Similar to healthcare settings, pharmaceutical
+                        {/* Similar to healthcare settings, pharmaceutical
                         manufacturing requires sterile conditions, which
                         polyurethane flooring supports by being easy to clean
-                        and resistant to contaminants.
+                        and resistant to contaminants. */}
+                        Just as that of their healthcare environment,
+                        pharmaceutical manufacturing is done in a sterile
+                        environment, hence polyurethane flooring helps with easy
+                        clean-up and offers resistance against anything that
+                        could contaminate.
                       </span>
                     </span>
                   </div>
@@ -539,10 +610,14 @@ class SiteContentPolyUrethaneFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Warehousing and Logistics :
                       </span>{" "}
-                      The ability to endure heavy loads, constant forklift
+                      {/* The ability to endure heavy loads, constant forklift
                       traffic, and the weight of stacked goods makes
                       polyurethane flooring a good choice for warehouses and
-                      distribution centers.
+                      distribution centers. */}
+                      For warehouses and distribution centers, polyurethane
+                      flooring is ideal, since it can endure heavy loading,
+                      continuous forklift traffic, and the weight of stacked
+                      loads.
                     </span>
                   </span>
                 </div>
@@ -557,9 +632,13 @@ class SiteContentPolyUrethaneFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Retail and Commercial Spaces :
                       </span>{" "}
-                      Polyurethane floors are favored in retail environments and
+                      {/* Polyurethane floors are favored in retail environments and
                       commercial spaces for their aesthetic versatility, ease of
-                      maintenance, and durability under high foot traffic.
+                      maintenance, and durability under high foot traffic. */}
+                      Polyurethane floors are favored due to their aesthetic
+                      flexibility, ease of maintenance, and high durability
+                      under heavy foot traffic in retail environments and
+                      commercial spaces.
                     </span>
                   </span>
                 </div>
@@ -574,10 +653,14 @@ class SiteContentPolyUrethaneFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Educational Facilities :
                       </span>{" "}
-                      Schools and universities opt for polyurethane flooring
+                      {/* Schools and universities opt for polyurethane flooring
                       because it can be customized in various colors, is
                       comfortable to walk on, and provides good noise insulation
-                      in busy areas.
+                      in busy areas. */}
+                      Schools and universities prefer polyurethane flooring
+                      because customization in colors is offered, it is very
+                      comfortable to walk on, and it gives an excellent noise
+                      insulation in high-traffic areas.
                     </span>
                   </span>
                 </div>
@@ -592,9 +675,12 @@ class SiteContentPolyUrethaneFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Sports Facilities:
                       </span>{" "}
-                      Gyms, indoor courts, and fitness centers benefit from the
+                      {/* Gyms, indoor courts, and fitness centers benefit from the
                       shock absorption, durability, and ease of maintenance that
-                      polyurethane flooring offers.
+                      polyurethane flooring offers. */}
+                      Polyurethane flooring is shock-absorbing, durable, and
+                      easy to maintain for gyms, indoor courts, and fitness
+                      centers.
                     </span>
                   </span>
                 </div>

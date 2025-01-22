@@ -71,10 +71,16 @@ class SiteContentTerrazoFlooring extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Terrazzo epoxy flooring is a composite material consisting
+                    {/* Terrazzo epoxy flooring is a composite material consisting
                     of epoxy resin binder and aggregate chips, which are then
                     polished to create a durable and visually appealing surface
-                    for various commercial and residential applications.
+                    for various commercial and residential applications. */}
+                    Terrazzo epoxy flooring is a mixture of resin binder and
+                    aggregate matrix containing chopped (corundum, fused silica,
+                    quartz, porcelain powder and various high alumina industrial
+                    refractory materials, in powder form) aggregate, which is
+                    sometimes polished to obtain abrasion resistant and visually
+                    appealing floor for commercial and domestic purposes.
                   </p>
                 </div>
               </div>
@@ -129,11 +135,16 @@ class SiteContentTerrazoFlooring extends Component {
                           Durability :
                         </span>
                         {"  "}
-                        Terrazzo flooring is extremely durable and can withstand
+                        {/* Terrazzo flooring is extremely durable and can withstand
                         heavy foot traffic, making it a long-lasting flooring
                         solution. It is resistant to wear and tear, which is
                         especially crucial in high-traffic commercial and
-                        institutional settings.
+                        institutional settings. */}
+                        Terrazzo is highly stable, and can bear a considerable
+                        amount of weight under the foot, so it is a good choice
+                        for the floor. Because it is rugged and wears resistant,
+                        it is of considerable relevance in high-traffic urban
+                        commercial or institutional settings.
                       </span>
                     </span>
                   </div>
@@ -150,11 +161,15 @@ class SiteContentTerrazoFlooring extends Component {
                           {"  "}
                           Strength :
                         </span>
-                        Terrazzo is known for its high compressive strength,
+                        {/* Terrazzo is known for its high compressive strength,
                         making it capable of withstanding heavy loads without
                         cracking or breaking. This strength ensures its
                         resilience in environments with heavy equipment or
-                        machinery.
+                        machinery. */}
+                        It is evident that the compressive strength of Terrazzo
+                        is high and that it can handle a tremendous load without
+                        delamination or cracking. This robustness assures it can
+                        withstand very heavy loads or machines.
                       </span>
                     </span>
                   </div>
@@ -171,10 +186,15 @@ class SiteContentTerrazoFlooring extends Component {
                           Chemical Resistance :
                         </span>
                         {"  "}
-                        Terrazzo is resistant to chemicals, acids, and stains,
+                        {/* Terrazzo is resistant to chemicals, acids, and stains,
                         making it suitable for use in laboratories, industrial
                         facilities, and healthcare settings where exposure to
-                        various substances is common.
+                        various substances is common. */}
+                        It can be observed that terrazzo has good chemical and
+                        acid resistance, stain resistance, and therefore is
+                        suitable for cases where interaction with a blend of
+                        materials cannot be avoided (e.g., laboratory,
+                        industrial, and medical).
                       </span>
                     </span>
                   </div>
@@ -190,10 +210,14 @@ class SiteContentTerrazoFlooring extends Component {
                           Low Porosity :
                         </span>
                         {"  "}
-                        Terrazzo flooring is relatively low in porosity, which
+                        {/* Terrazzo flooring is relatively low in porosity, which
                         means it is less susceptible to water infiltration and
                         moisture damage. This property is essential for
-                        maintaining the structural integrity of the flooring.
+                        maintaining the structural integrity of the flooring. */}
+                        Terrazzo floor is relatively porous, so it is less prone
+                        to water penetration and wet damage. In this regard the
+                        function is of central importance when relating floor
+                        structural continuity.
                       </span>
                     </span>
                   </div>
@@ -209,10 +233,15 @@ class SiteContentTerrazoFlooring extends Component {
                           Hygienic Properties :
                         </span>
                         {"  "}
-                        Terrazzo can be formulated with antimicrobial additives,
+                        {/* Terrazzo can be formulated with antimicrobial additives,
                         enhancing its hygienic properties. This is particularly
                         important in healthcare facilities, where maintaining a
-                        sterile environment is crucial.
+                        sterile environment is crucial. */}
+                        Antimicrobial agents may be added to terrazzo
+                        formulation with good hygiene profile. Firstly, it is a
+                        subject of specific relevance to medical environments,
+                        since, for practical reasons, an unsterile environment
+                        is unacceptable.
                       </span>
                     </span>
                   </div>
@@ -229,11 +258,17 @@ class SiteContentTerrazoFlooring extends Component {
                         Customization :
                       </span>
                       {"  "}
-                      Terrazzo offers a high degree of customization in terms of
+                      {/* Terrazzo offers a high degree of customization in terms of
                       color, aggregate selection, and design patterns. This
                       flexibility allows architects and designers to create
                       unique and visually appealing flooring designs tailored to
-                      the specific needs of a space.
+                      the specific needs of a space. */}
+                      Using terrazzo, it is possible to make a high
+                      personalizability with respect to colour, choice of
+                      aggregates, and design motifs. This flexibility enables
+                      the architect and designer to build custom, appealing
+                      floor plans tailored to the specific requirements of a
+                      room space.
                     </span>
                   </span>
                 </div>
@@ -249,10 +284,14 @@ class SiteContentTerrazoFlooring extends Component {
                         Low Maintenance :
                       </span>
                       {"  "}
-                      Terrazzo requires minimal maintenance over its lifespan.
+                      {/* Terrazzo requires minimal maintenance over its lifespan.
                       Unlike some other flooring materials, it does not need
                       frequent waxing or sealing, reducing long-term maintenance
-                      costs.
+                      costs. */}
+                      Terrazzo requires minimal maintenance over its lifespan.
+                      Yet, unlike other floor coverings, it is no longer
+                      necessary to wax or seal it periodically, thus reducing
+                      the floor's maintenance in the long term.
                     </span>
                   </span>
                 </div>
@@ -269,10 +308,15 @@ class SiteContentTerrazoFlooring extends Component {
                         Environmental Sustainability :
                       </span>
                       {"  "}
-                      Terrazzo can be environmentally friendly when using
+                      {/* Terrazzo can be environmentally friendly when using
                       recycled aggregates or incorporating eco-friendly binders.
                       Its durability also contributes to sustainability by
-                      reducing the need for frequent replacements.
+                      reducing the need for frequent replacements. */}
+                      In all concrete, ecofriendly, using recycled aggregates or
+                      eco friendly binders, also referred to as ground
+                      constituents, are applicable to terrazzo. Because of its
+                      degradation resistance, in addition, it contributes to
+                      sustainability by decreasing the replacement rate.
                     </span>
                   </span>
                 </div>
@@ -288,8 +332,11 @@ class SiteContentTerrazoFlooring extends Component {
                         Fire Resistance :
                       </span>
                       {"  "}
-                      Terrazzo has inherent fire-resistant properties, making it
-                      a safe choice for spaces where fire safety is a concern.
+                      {/* Terrazzo has inherent fire-resistant properties, making it
+                      a safe choice for spaces where fire safety is a concern. */}
+                      Because of the inherent fire resisting property of
+                      terrazzo, it can be used in fire safety-equipped
+                      environments.
                     </span>
                   </span>
                 </div>
@@ -305,9 +352,11 @@ class SiteContentTerrazoFlooring extends Component {
                         Noise Reduction :
                       </span>
                       {"  "}
-                      Terrazzo can be designed to have sound-absorbing
+                      {/* Terrazzo can be designed to have sound-absorbing
                       properties, helping to reduce noise levels in commercial
-                      and public spaces.
+                      and public spaces. */}
+                      The sound absorbing performance can be engineered into the
+                      terrazzo to minimise noise in stores and public areas.
                     </span>
                   </span>
                 </div>
@@ -440,10 +489,15 @@ class SiteContentTerrazoFlooring extends Component {
                           Commercial Buildings :
                         </span>
                         {"  "}
-                        Terrazzo is a popular choice for commercial spaces,
+                        {/* Terrazzo is a popular choice for commercial spaces,
                         including office buildings, shopping malls, and
                         airports, where it can withstand heavy foot traffic
-                        while offering an elegant appearance.
+                        while offering an elegant appearance. */}
+                        Terrazzo is a robust concrete floor covering suitable to
+                        be used in large areas, such as office buildings,
+                        shopping malls and airports where it is both robust
+                        enough to withstand heavy traffic, but also very
+                        sophisticated.
                       </span>
                     </span>
                   </div>
@@ -459,10 +513,14 @@ class SiteContentTerrazoFlooring extends Component {
                           Educational Institutions :
                         </span>
                         {"  "}
-                        Schools, colleges, and universities often use terrazzo
+                        {/* Schools, colleges, and universities often use terrazzo
                         flooring in hallways, common areas, and auditoriums
                         because of its durability and low maintenance
-                        requirements.
+                        requirements. */}
+                        The use of terrazzo pavement in floors of halls, rooms,
+                        and in auditoriums in schools, colleges and universities
+                        is frequent owing to its durability and the relative
+                        simplicity with which it can be maintained.
                       </span>
                     </span>
                   </div>
@@ -478,9 +536,13 @@ class SiteContentTerrazoFlooring extends Component {
                           Healthcare Facilities :
                         </span>
                         {"  "}
-                        Terrazzo’s hygienic properties and ease of cleaning make
+                        {/* Terrazzo’s hygienic properties and ease of cleaning make
                         it a preferred flooring option in hospitals, clinics,
-                        and laboratories.
+                        and laboratories. */}
+                        As a floor covering, terrazzo has made the hygienic
+                        qualities and scrubability of its surface an option as a
+                        floor covering in medical facilities, clinics, and
+                        laboratories.
                       </span>
                     </span>
                   </div>
@@ -496,9 +558,12 @@ class SiteContentTerrazoFlooring extends Component {
                           Residential Homes :
                         </span>
                         {"  "}
-                        Terrazzo can be found in upscale residential homes,
+                        {/* Terrazzo can be found in upscale residential homes,
                         particularly in entryways, kitchens, and bathrooms,
-                        adding a touch of luxury and durability.
+                        adding a touch of luxury and durability. */}
+                        For example, terrazzo is found, e.g., in the entrance
+                        hall, the kitchen and the bathroom of luxury residential
+                        homes, and it imparts a sense of luxury and robustness.
                       </span>
                     </span>
                   </div>
@@ -514,9 +579,13 @@ class SiteContentTerrazoFlooring extends Component {
                           Public Transportation Hubs :
                         </span>
                         {"  "}
-                        Bus terminals, train stations, and airports use terrazzo
+                        {/* Bus terminals, train stations, and airports use terrazzo
                         flooring in waiting areas and concourses due to its
-                        ability to withstand heavy foot traffic.
+                        ability to withstand heavy foot traffic. */}
+                        Floor slabs made from terrazzo are used on the
+                        concourses of bus terminals, train stations and
+                        airports, and on the waiting halls of airports and
+                        railway terminals because of its strength against load.
                       </span>
                     </span>
                   </div>
@@ -533,9 +602,12 @@ class SiteContentTerrazoFlooring extends Component {
                         Restaurants and Hospitality :
                       </span>
                       {"  "}
-                      Restaurants, bars, hotels, and resorts often opt for
+                      {/* Restaurants, bars, hotels, and resorts often opt for
                       terrazzo flooring to create a visually appealing and
-                      durable environment for guests.
+                      durable environment for guests. */}
+                      Restaurants, bars, hotels and resorts,. If, for instance,
+                      people have a preference for terrazzo surfaces because
+                      those surfaces are good looking, durable, and practical.
                     </span>
                   </span>
                 </div>
@@ -551,9 +623,14 @@ class SiteContentTerrazoFlooring extends Component {
                         Retail Stores :
                       </span>
                       {"  "}
-                      Many retail establishments use terrazzo for its aesthetic
+                      {/* Many retail establishments use terrazzo for its aesthetic
                       flexibility and the ability to create unique branding
-                      through custom designs.
+                      through custom designs. */}
+                      Using of terrazzo, for example, retail shop floor has been
+                      extremely popular because of its design versatility and
+                      its potential (use of) design movement from playful
+                      aesthetics to completely new branding, both on a personal
+                      basis.
                     </span>
                   </span>
                 </div>
@@ -569,9 +646,12 @@ class SiteContentTerrazoFlooring extends Component {
                         Museums and Cultural Institutions :
                       </span>
                       {"  "}
-                      Terrazzo’s durability and customization options make it a
+                      {/* Terrazzo’s durability and customization options make it a
                       suitable choice for museums, art galleries, and cultural
-                      centers.
+                      centers. */}
+                      Due to its robustness and ease of personalisation,
+                      terrazzo is now positioned to act as a scale model,
+                      remodel museums, art galleries and cultural buildings.
                     </span>
                   </span>
                 </div>
@@ -587,9 +667,12 @@ class SiteContentTerrazoFlooring extends Component {
                         Government Buildings :
                       </span>
                       {"  "}
-                      Government offices, courthouses, and municipal buildings
+                      {/* Government offices, courthouses, and municipal buildings
                       may use terrazzo flooring due to its longevity and
-                      professional appearance.
+                      professional appearance. */}
+                      Architectural features, e.g., courthouses and municipal
+                      office structures can be tiled with terrazzo due to its
+                      toughness and aesthetic merit.
                     </span>
                   </span>
                 </div>
@@ -605,9 +688,12 @@ class SiteContentTerrazoFlooring extends Component {
                         Industrial Facilities :
                       </span>
                       {"  "}
-                      In industrial settings where durability and resistance to
+                      {/* In industrial settings where durability and resistance to
                       chemicals are essential, terrazzo flooring is chosen for
-                      manufacturing plants and warehouses.
+                      manufacturing plants and warehouses. */}
+                      Terrazzo flooring is chosen for use in production
+                      facilities and storage facilities due to its need for
+                      toughness and chemical resistance.
                     </span>
                   </span>
                 </div>
@@ -623,9 +709,14 @@ class SiteContentTerrazoFlooring extends Component {
                         Sports Facilities :
                       </span>
                       {"  "}
-                      Some sports facilities and gymnasiums use terrazzo
+                      {/* Some sports facilities and gymnasiums use terrazzo
                       flooring in entryways and common areas for its durability
-                      and low maintenance requirements.
+                      and low maintenance requirements. */}
+                      The need for stable floor cover and a straightforward
+                      maintenance routine has led to an exponential increase in
+                      the number of sport facility and gymnasium floor coverings
+                      using terrazzo flooring in entrance, lobby and common
+                      areas.
                     </span>
                   </span>
                 </div>
@@ -641,9 +732,12 @@ class SiteContentTerrazoFlooring extends Component {
                         Hotels and Resorts :
                       </span>
                       {"  "}
-                      Terrazzo can be found in upscale hotels and resorts, often
+                      {/* Terrazzo can be found in upscale hotels and resorts, often
                       in lobbies, corridors, and spa areas, to create a
-                      luxurious and inviting atmosphere.
+                      luxurious and inviting atmosphere. */}
+                      Terrazzo is actually very common in luxury hotels and
+                      resorts, often as the flooring in lobbies, corridors and
+                      spa areas to create a luxurious and welcoming atmosphere.
                     </span>
                   </span>
                 </div>
@@ -660,10 +754,14 @@ class SiteContentTerrazoFlooring extends Component {
                         Public Spaces :
                       </span>
                       {"  "}
-                      Terrazzo is sed in various public spaces, including
+                      {/* Terrazzo is sed in various public spaces, including
                       libraries, community centers, and convention centers, due
                       to its ability to withstand heavy use and its aesthetic
-                      appeal.
+                      appeal. */}
+                      Terrazzo is located in a variety of public spaces,
+                      including libraries, community halls, and convention
+                      centers, due to its durability to heavy traffic, and is a
+                      visual pleasure.
                     </span>
                   </span>
                 </div>

@@ -71,11 +71,17 @@ class SiteContentPolishedConcreteFlooring extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Polished concrete is a choice, for flooring because it
+                    {/* Polished concrete is a choice, for flooring because it
                     offers both durability and visual appeal. Achieved by
                     grinding and polishing surfaces this process creates a sleek
                     and shiny finish that not only enhances the overall
-                    appearance but also extends the lifespan of the material.
+                    appearance but also extends the lifespan of the material. */}
+                    Polished concrete is a solution for flooring, providing both
+                    strength and aesthetics. Accomplished by the grinding and
+                    polishing of the surfaces this processing provides a smooth
+                    and shiny surface finish, not only improving the general
+                    aesthetics but also improving the durability of the
+                    material.
                   </p>
                 </div>
               </div>
@@ -146,9 +152,13 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           Surface Strength :
                         </span>
                         {"  "}
-                        Polished concrete significantly increases the surface
+                        {/* Polished concrete significantly increases the surface
                         strength of the flooring material, making it more
-                        resistant to cracking, chipping, and abrasion.
+                        resistant to cracking, chipping, and abrasion. */}
+                        The surface hardness of floor material is substantially
+                        enhanced by using polished concrete, thus the floor is
+                        improved in terms of resistance to cracking and
+                        chipping, as well as abrasion.
                       </span>
                     </span>
                   </div>
@@ -164,10 +174,14 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           Dust Reduction :
                         </span>
                         {"  "}
-                        The polishing process includes the use of densifiers
+                        {/* The polishing process includes the use of densifiers
                         that harden the concrete, reducing dusting and
                         minimizing the release of concrete particles into the
-                        air.
+                        air. */}
+                        Polishing process is accompanied by the application of
+                        densifiers that harden the concrete, where they reduce
+                        dusty effects and the emission of concrete particles
+                        into the atmosphere.
                       </span>
                     </span>
                   </div>
@@ -183,10 +197,14 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           Chemical Resistance :
                         </span>
                         {"  "}
-                        Polished concrete is highly resistant to chemical damage
+                        {/* Polished concrete is highly resistant to chemical damage
                         from acids, oils, and other substances, making it
                         suitable for environments where chemical spills may
-                        occur.
+                        occur. */}
+                        Polished concrete is very durable against attack of
+                        acids, oils and similar aggressive materials and is
+                        therefore indicated for areas of potential contamination
+                        by chemicals.
                       </span>
                     </span>
                   </div>
@@ -202,9 +220,13 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           {"  "}
                           Reflectivity :
                         </span>
-                        The glossy finish of polished concrete enhances light
+                        {/* The glossy finish of polished concrete enhances light
                         reflection, reducing the need for artificial lighting
-                        and contributing to energy savings.
+                        and contributing to energy savings. */}
+                        The sheen produced in polished concrete by its surface
+                        finish adds to the light reflected, thus decreasing the
+                        use of artificial light, and, as a consequence, from
+                        electricity and energy use.
                       </span>
                     </span>
                   </div>
@@ -220,9 +242,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           Longevity :
                         </span>
                         {"  "}
-                        When properly installed and maintained, polished
+                        {/* When properly installed and maintained, polished
                         concrete can last for many years, providing a durable
-                        and cost-effective flooring solution.
+                        and cost-effective flooring solution. */}
+                        Polished concrete can last a very long time if properly
+                        installed and maintained and offers a strong
+                        cost-effective solution for floor covering.
                       </span>
                     </span>
                   </div>
@@ -239,9 +264,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Cost-Effective :
                       </span>
                       {"  "}
-                      Polishing existing concrete surfaces eliminates the need
+                      {/* Polishing existing concrete surfaces eliminates the need
                       for additional flooring materials, reducing both material
-                      costs and installation time.
+                      costs and installation time. */}
+                      Sanding off the surface of existing concrete removes the
+                      need for new flooring materials, therefore lowering the
+                      cost of materials, as well as time of installation.
                     </span>
                   </span>
                 </div>
@@ -257,9 +285,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Sustainability :
                       </span>
                       {"  "}
-                      Polished concrete promotes sustainability by repurposing
+                      {/* Polished concrete promotes sustainability by repurposing
                       existing concrete slabs, reducing waste, and often
-                      incorporating eco-friendly products and practices.
+                      incorporating eco-friendly products and practices. */}
+                      Polished concrete contributes to sustainability by reusing
+                      existing concrete slabs, minimizing waste, and frequently
+                      using sustainable materials and procedures.
                     </span>
                   </span>
                 </div>
@@ -275,9 +306,13 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Customization :
                       </span>
                       {"  "}
-                      It offers various design options, including different
+                      {/* It offers various design options, including different
                       levels of sheen, decorative scoring, and the ability to
                       incorporate colors or aggregates to achieve specific
+                      aesthetics. */}
+                      It provides several design possibilities, such as varying
+                      levels of gloss, decorative embossing, and the possibility
+                      of adding colors or aggregates to realize different
                       aesthetics.
                     </span>
                   </span>
@@ -294,9 +329,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Enhanced Safety :
                       </span>
                       {"  "}
-                      Polished concrete can be treated with anti-slip additives,
+                      {/* Polished concrete can be treated with anti-slip additives,
                       making it a safe flooring option even in areas prone to
-                      moisture or spills.
+                      moisture or spills. */}
+                      Anti-slip agents can be applied to polished concrete,
+                      giving the flooring a safe surface for areas in contact
+                      with humidity or spills.
                     </span>
                   </span>
                 </div>
@@ -312,8 +350,11 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Temperature Control :
                       </span>
                       {"  "}
-                      It has thermal mass properties, which can help regulate
-                      indoor temperatures, contributing to energy efficiency.
+                      {/* It has thermal mass properties, which can help regulate
+                      indoor temperatures, contributing to energy efficiency. */}
+                      It also has thermal mass characteristics that can be used
+                      for indoor temperature control, thus leading to an
+                      increase in energy efficiency.
                     </span>
                   </span>
                 </div>
@@ -329,8 +370,10 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Indoor Air Quality :
                       </span>
                       {"  "}
-                      Polished concrete does not trap allergens, dust mites, or
-                      mold, promoting better indoor air quality.
+                      {/* Polished concrete does not trap allergens, dust mites, or
+                      mold, promoting better indoor air quality. */}
+                      Polished concrete does not retain allergens, dust mites
+                      and mould and contributes to cleaner indoor air.
                     </span>
                   </span>
                 </div>
@@ -346,6 +389,9 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Versatility :
                       </span>
                       {"  "}
+                      {/* Suitable for a wide range of applications, including
+                      residential, commercial, industrial, and institutional
+                      settings. */}
                       Suitable for a wide range of applications, including
                       residential, commercial, industrial, and institutional
                       settings.
@@ -364,9 +410,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Quick Installation :
                       </span>
                       {"  "}
-                      Polishing concrete is often faster than installing other
+                      {/* Polishing concrete is often faster than installing other
                       flooring types, minimizing downtime during renovations or
-                      construction.
+                      construction. */}
+                      Concrete polishing is generally a quicker process than
+                      installing other flooring materials, thereby providing a
+                      reduction in renovation or construction downtime.
                     </span>
                   </span>
                 </div>
@@ -382,9 +431,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         LEED Certification :
                       </span>
                       {"  "}
-                      Polished concrete can contribute to LEED (Leadership in
+                      {/* Polished concrete can contribute to LEED (Leadership in
                       Energy and Environmental Design) certification points due
-                      to its sustainable qualities.
+                      to its sustainable qualities. */}
+                      Polished concrete can gain LEED (Leadership in Energy and
+                      Environmental Design) certification points owing to its
+                      sustainability properties.
                     </span>
                   </span>
                 </div>
@@ -529,9 +581,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           Residential Flooring :
                         </span>
                         {"  "}
-                        Polished concrete is increasingly popular as a stylish
+                        {/* Polished concrete is increasingly popular as a stylish
                         and low-maintenance flooring option in homes, offering a
-                        sleek and modern look.
+                        sleek and modern look. */}
+                        Polished concrete is becoming mainstream as a stylish
+                        and hard-wearing floor covering in homes due to its
+                        smooth and stylish appearance.
                       </span>
                     </span>
                   </div>
@@ -547,6 +602,9 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           Commercial Spaces :
                         </span>
                         {"  "}
+                        {/* It is commonly used in retail stores, offices,
+                        restaurants, and hotels for its durability, ease of
+                        maintenance, and attractive appearance. */}
                         It is commonly used in retail stores, offices,
                         restaurants, and hotels for its durability, ease of
                         maintenance, and attractive appearance.
@@ -565,10 +623,14 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           Industrial Facilities :
                         </span>
                         {"  "}
-                        Polished concrete is ideal for warehouses, manufacturing
+                        {/* Polished concrete is ideal for warehouses, manufacturing
                         plants, and distribution centers due to its ability to
                         withstand heavy machinery, forklift traffic, and
-                        chemical exposure.
+                        chemical exposure. */}
+                        Polished concrete is appropriate for warehouses, factory
+                        environments, and distribution facilities because of its
+                        capability to endure heavy equipment traffic, forklift
+                        traffic, and chemical contamination.
                       </span>
                     </span>
                   </div>
@@ -584,8 +646,10 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           Garages and Automotive Workshops :
                         </span>
                         {"  "}
-                        It provides a resilient, easy-to-clean surface that can
-                        resist oil, grease, and tire marks.
+                        {/* It provides a resilient, easy-to-clean surface that can
+                        resist oil, grease, and tire marks. */}
+                        It offers a durable, slip-resistant cleaning surface
+                        that can be resistant to oil, grease and tire mark.
                       </span>
                     </span>
                   </div>
@@ -601,9 +665,13 @@ class SiteContentPolishedConcreteFlooring extends Component {
                           Educational Institutions :
                         </span>
                         {"  "}
-                        Polished concrete is found in schools, universities, and
+                        {/* Polished concrete is found in schools, universities, and
                         other educational facilities for its longevity and the
-                        low maintenance required in high-traffic areas.
+                        low maintenance required in high-traffic areas. */}
+                        Polished concrete is used throughout schools,
+                        universities, and such learning institutions because of
+                        its long-lasting nature and minimal maintenance in high
+                        usage places.
                       </span>
                     </span>
                   </div>
@@ -620,6 +688,9 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Healthcare Facilities :
                       </span>
                       {"  "}
+                      {/* Hospitals and medical centers use polished concrete in
+                      corridors, waiting areas, and patient rooms due to its
+                      clean and hygienic properties. */}
                       Hospitals and medical centers use polished concrete in
                       corridors, waiting areas, and patient rooms due to its
                       clean and hygienic properties.
@@ -638,9 +709,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Public Spaces :
                       </span>
                       {"  "}
-                      Polished concrete is used in museums, art galleries,
+                      {/* Polished concrete is used in museums, art galleries,
                       libraries, and municipal buildings, where its aesthetic
-                      qualities and durability are valued.
+                      qualities and durability are valued. */}
+                      Polished concrete is in use in museums, art centres,
+                      library, and municipal offices where the aesthetic
+                      features and the robustness of concrete are desirable.
                     </span>
                   </span>
                 </div>
@@ -656,9 +730,13 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Sports and Recreation :
                       </span>
                       {"  "}
-                      Indoor sports facilities, gymnasiums, and recreation
+                      {/* Indoor sports facilities, gymnasiums, and recreation
                       centers often choose polished concrete for its resilience
-                      and ability to accommodate line markings
+                      and ability to accommodate line markings */}
+                      Due to its durability and suitability for line markings,
+                      polished concrete is selected by many indoor, sports
+                      facilities (e.g., gymnasiums, recreation centers) that use
+                      it to demarcate areas.
                     </span>
                   </span>
                 </div>
@@ -674,9 +752,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Restaurants and Food Service :
                       </span>
                       {"  "}
-                      Polished concrete floors are both stylish and easy to
+                      {/* Polished concrete floors are both stylish and easy to
                       clean, making them suitable for commercial kitchens and
-                      dining areas.
+                      dining areas. */}
+                      Polished concrete floors are both chic and low
+                      maintenance, and therefore appropriate for commercial
+                      kitchens and restaurants.
                     </span>
                   </span>
                 </div>
@@ -692,9 +773,11 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Exhibition and Event Spaces :
                       </span>
                       {"  "}
-                      Trade show venues and event centers appreciate the
+                      {/* Trade show venues and event centers appreciate the
                       durability and ease of maintenance of polished concrete
-                      flooring.
+                      flooring. */}
+                      Trade show halls and convention centers value the strength
+                      and ease of care of polished concrete floor.
                     </span>
                   </span>
                 </div>
@@ -710,8 +793,10 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Aircraft Hangars :
                       </span>
                       {"  "}
-                      Polished concrete can withstand the heavy loads and wear
-                      associated with aircraft maintenance and storage.
+                      {/* Polished concrete can withstand the heavy loads and wear
+                      associated with aircraft maintenance and storage. */}
+                      Polished concrete can resist heavy loads and wear that
+                      occur in the aircraft maintenance and storage process.
                     </span>
                   </span>
                 </div>
@@ -727,8 +812,11 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Retail Showrooms :
                       </span>
                       {"  "}
-                      Many high-end retail showrooms and boutiques use polished
-                      concrete to create a modern and upscale ambiance.
+                      {/* Many high-end retail showrooms and boutiques use polished
+                      concrete to create a modern and upscale ambiance. */}
+                      A number of high-end retail showrooms and boutiques have
+                      been constructed with polished concrete as a means to give
+                      a modern and sophisticated atmosphere.
                     </span>
                   </span>
                 </div>
@@ -744,9 +832,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Data Centers :
                       </span>
                       {"  "}
-                      Polished concrete can be found in data centers where it
+                      {/* Polished concrete can be found in data centers where it
                       helps with static control and provides a clean environment
-                      for sensitive equipment.
+                      for sensitive equipment. */}
+                      In data centres, polished concrete serves as a support for
+                      static control and as an uncluttered space for working
+                      with delicate equipment.
                     </span>
                   </span>
                 </div>
@@ -762,6 +853,9 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Residential Garages :
                       </span>
                       {"  "}
+                      {/* Homeowners often choose polished concrete for their garage
+                      floors due to its resilience and resistance to automotive
+                      fluids. */}
                       Homeowners often choose polished concrete for their garage
                       floors due to its resilience and resistance to automotive
                       fluids.
@@ -780,9 +874,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Outdoor Spaces :
                       </span>
                       {"  "}
-                      In addition to indoor applications, polished concrete can
+                      {/* In addition to indoor applications, polished concrete can
                       be used for patios, pool decks, and other outdoor areas
-                      when properly sealed.
+                      when properly sealed. */}
+                      Besides areas for indoor use, polished concrete has wider
+                      uses in outdoor areas such as patios, pool decks and so
+                      forth, provided it is sealed properly.
                     </span>
                   </span>
                 </div>
@@ -798,6 +895,9 @@ class SiteContentPolishedConcreteFlooring extends Component {
                         Green Building Projects :
                       </span>
                       {"  "}
+                      {/* Polished concrete is considered a sustainable flooring
+                      option and is used in eco-friendly and LEED-certified
+                      building projects. */}
                       Polished concrete is considered a sustainable flooring
                       option and is used in eco-friendly and LEED-certified
                       building projects.
@@ -812,9 +912,12 @@ class SiteContentPolishedConcreteFlooring extends Component {
                       <i className="fa fa-check-circle" />
                     </span>
                     <span className="text">
-                      These diverse applications highlight the adaptability and
+                      {/* These diverse applications highlight the adaptability and
                       popularity of polished concrete as a flooring solution in
-                      both residential and commercial settings.
+                      both residential and commercial settings. */}
+                      These various uses demonstrate the versatility and
+                      popularity of finished concrete as a floor covering in
+                      domestic and commercial applications.
                     </span>
                   </span>
                 </div>

@@ -75,11 +75,16 @@ class SiteContentHygieneFlooring extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Hygiene flooring is engineered with non-porous materials and
+                    {/* Hygiene flooring is engineered with non-porous materials and
                     seamless installation to prevent the infiltration of
                     contaminants, ensuring a sanitary and easy-to-clean surface,
                     making it ideal for healthcare facilities and food
-                    processing plants.
+                    processing plants. */}
+                    Hygiene flooring is engineered with non-porous material and
+                    seamless installation to prevent any infiltration of
+                    contaminants, thus maintaining a sanitary and clean surface.
+                    In fact, the surface is ideal for healthcare facilities as
+                    well as food processing plants.
                   </p>
                 </div>
               </div>
@@ -154,13 +159,20 @@ class SiteContentHygieneFlooring extends Component {
                         <span
                           style={{ fontWeight: "500", color: "#000" }}
                         ></span>
-                        Hygiene flooring plays a crucial role in various
+                        {/* Hygiene flooring plays a crucial role in various
                         industries and settings, offering a range of technical
                         benefits that contribute to maintaining clean and safe
                         environments. Whether in healthcare facilities, food
                         processing plants, laboratories, or even residential
                         kitchens, hygiene flooring is designed to meet stringent
-                        standards and deliver essential technical advantages.
+                        standards and deliver essential technical advantages. */}
+                        Hygiene flooring applications are paramount in numerous
+                        industries and areas where it offers technical benefits
+                        to ensure a clean and safe environment. Whether a
+                        healthcare facility, food processing plant, laboratory,
+                        or a residential kitchen, hygiene flooring is designed
+                        to meet the highest standards and deliver those
+                        essential technical advantages.
                       </span>
                     </span>
                   </div>
@@ -177,11 +189,17 @@ class SiteContentHygieneFlooring extends Component {
                           {" "}
                           Antimicrobial Properties :
                         </span>{" "}
-                        Hygiene flooring materials are often engineered with
+                        {/* Hygiene flooring materials are often engineered with
                         antimicrobial additives. These additives inhibit the
                         growth of bacteria, mold, and fungi, helping to prevent
                         the spread of infections and illnesses. In healthcare
-                        settings, this is particularly vital for patient safety.
+                        settings, this is particularly vital for patient safety. */}
+                        Hygiene flooring materials are frequently designed with
+                        antimicrobial additives. These additives help prevent
+                        the growth of bacteria, molds, and fungi, aiding in the
+                        prevention of spreading infections and diseases. In the
+                        healthcare institutions, this is particularly critical
+                        for patient safety.
                       </span>
                     </span>
                   </div>
@@ -197,13 +215,22 @@ class SiteContentHygieneFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Easy to Clean and Maintain :
                         </span>{" "}
-                        Hygiene flooring is designed to be easily cleaned and
+                        {/* Hygiene flooring is designed to be easily cleaned and
                         sanitized. Its smooth, non-porous surface prevents dirt
                         and contaminants from getting trapped, allowing for
                         efficient cleaning with standard disinfectants and
                         cleaning agents. This is essential for meeting hygiene
                         and sanitation standards in healthcare, food processing,
-                        and pharmaceutical industries.
+                        and pharmaceutical industries. */}
+                        Hygiene flooring has been designed explicitly so that
+                        cleaning and sanitizing are easy. Because the surface is
+                        smooth and non-porous, dirt and contaminants are not
+                        entrapped and can be cleaned very conveniently using
+                        common disinfectants and cleaning agents.This is very
+                        important when it comes to meeting hygiene and
+                        sanitation standards within institutions related to
+                        healthcare, food processing, and pharmaceutical
+                        industries.
                       </span>
                     </span>
                   </div>
@@ -220,11 +247,16 @@ class SiteContentHygieneFlooring extends Component {
                           {" "}
                           Chemical Resistance :
                         </span>{" "}
-                        Many hygiene flooring materials are resistant to a wide
+                        {/* Many hygiene flooring materials are resistant to a wide
                         range of chemicals, including harsh disinfectants and
                         cleaning agents. This makes them suitable for
                         environments where chemical spills are common, such as
-                        laboratories and industrial facilities.
+                        laboratories and industrial facilities. */}
+                        Most hygiene flooring materials have some degree of
+                        resistance to a wide range of chemicals, including harsh
+                        disinfectants and cleaning agents. They can thus be
+                        suitably applied in environments where chemical spills
+                        are common, such as labs and industries.
                       </span>
                     </span>
                   </div>
@@ -241,11 +273,16 @@ class SiteContentHygieneFlooring extends Component {
                           {" "}
                           Seamless Installation :
                         </span>{" "}
-                        Hygiene flooring can be installed seamlessly, minimizing
+                        {/* Hygiene flooring can be installed seamlessly, minimizing
                         the number of joints and seams where dirt and bacteria
                         can accumulate. This is crucial in environments where
                         cleanliness is paramount, as it reduces the risk of
-                        contamination.
+                        contamination. */}
+                        Hygiene flooring can be laid down seamlessly, thus
+                        reducing the number of joints and seams where dirt and
+                        bacteria can flourish. This is critical for areas where
+                        cleanliness is of utmost concern as this reduces the
+                        risk of contamination.
                       </span>
                     </span>
                   </div>
@@ -262,12 +299,18 @@ class SiteContentHygieneFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Slip Resistance :
                       </span>{" "}
-                      A technical aspect often overlooked is slip resistance.
+                      {/* A technical aspect often overlooked is slip resistance.
                       Hygiene flooring is designed to provide a safe and secure
                       footing, even in wet or greasy conditions. This is
                       particularly important in commercial kitchens and food
                       processing areas, where slip and fall accidents can be a
-                      significant hazard.
+                      significant hazard. */}
+                      Slip resistance is a technical property frequently
+                      neglected. Hygiene flooring is designed to give a good
+                      anti-slip surface roof on which to walk during wet or
+                      greasy conditions. This is especially important in
+                      commercial kitchens and food processing areas, where falls
+                      could be a major hazard.
                     </span>
                   </span>
                 </div>
@@ -284,10 +327,14 @@ class SiteContentHygieneFlooring extends Component {
                         {" "}
                         Durability :
                       </span>{" "}
-                      Hygiene flooring is built to withstand heavy foot traffic,
+                      {/* Hygiene flooring is built to withstand heavy foot traffic,
                       machinery, and equipment, ensuring long-term durability.
                       It can resist wear and tear, maintaining its hygienic
-                      properties over time.
+                      properties over time. */}
+                      Hygiene flooring allows heavy foot traffic, machines, and
+                      equipment, standing the test of time. It resists all forms
+                      of wear and tear while still maintaining hygiene
+                      attributes over time.
                     </span>
                   </span>
                 </div>
@@ -304,12 +351,16 @@ class SiteContentHygieneFlooring extends Component {
                         {" "}
                         Compliance with Regulations :
                       </span>{" "}
-                      Many industries are subject to stringent regulations and
+                      {/* Many industries are subject to stringent regulations and
                       standards governing hygiene and sanitation. Hygiene
                       flooring is engineered to meet or exceed these
                       requirements, providing a technical solution that helps
                       businesses and organizations stay in compliance with the
-                      law.
+                      law. */}
+                      Most sectors have specific regulations and standards on
+                      hygiene and sanitation. Hygiene flooring is tailored to
+                      meet the requirements, which would thus technically help
+                      organizations and businesses be compliant with the law.
                     </span>
                   </span>
                 </div>
@@ -326,11 +377,16 @@ class SiteContentHygieneFlooring extends Component {
                         {" "}
                         Thermal Stability :
                       </span>{" "}
-                      In certain settings, hygiene flooring needs to withstand
+                      {/* In certain settings, hygiene flooring needs to withstand
                       extreme temperature variations, such as in industrial
                       kitchens or cold storage facilities. Specialized hygiene
                       flooring materials can maintain their integrity and
-                      hygiene properties in these conditions.
+                      hygiene properties in these conditions. */}
+                      Hygiene floors must remain impervious to variations in
+                      temperature in certain environments, such as in industrial
+                      kitchens or cold operates. Special hygienic floor
+                      coverings are designed to hold their integrity and
+                      hygienic properties in those conditions.
                     </span>
                   </span>
                 </div>
@@ -347,10 +403,14 @@ class SiteContentHygieneFlooring extends Component {
                         {" "}
                         Aesthetic Options :
                       </span>{" "}
-                      Hygiene flooring doesn’t have to sacrifice aesthetics for
+                      {/* Hygiene flooring doesn’t have to sacrifice aesthetics for
                       functionality. It comes in a variety of colors and
                       designs, allowing businesses to create visually appealing
-                      spaces while maintaining high hygiene standards.
+                      spaces while maintaining high hygiene standards. */}
+                      Hygiene flooring does not have to forego aesthetics for
+                      functionality. It has various colors and layouts, allowing
+                      businesses to build visually attractive spaces while
+                      keeping up high standards of hygiene.
                     </span>
                   </span>
                 </div>

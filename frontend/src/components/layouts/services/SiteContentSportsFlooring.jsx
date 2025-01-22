@@ -73,10 +73,15 @@ class SiteContentSportsFlooring extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Sports flooring typically consists of high-density
+                    {/* Sports flooring typically consists of high-density
                     polyurethane or rubber surfaces designed to provide optimal
                     shock absorption, traction, and durability, meeting the
                     specific performance requirements of various sports and
+                    athletic activities. */}
+                    To provide for efficient shock absorption, traction, and
+                    durability, sports flooring normally consists of either
+                    high-density polyurethane or rubber surfaces designed for
+                    the specific performance needs of diverse sports and
                     athletic activities.
                   </p>
                 </div>
@@ -106,7 +111,7 @@ class SiteContentSportsFlooring extends Component {
           <div className="flat-content-wrap style-2 clearfix">
             {/* <h5 className="title">SERVICE CONSULTANT</h5> */}
             <p>
-              Sports flooring is crucial in sports facilities as it directly
+              {/* Sports flooring is crucial in sports facilities as it directly
               impacts athletes’ performance and safety. Properly designed sports
               flooring, optimized for shock absorption and traction, reduces the
               risk of injuries while enhancing athletes’ agility. Additionally,
@@ -114,7 +119,16 @@ class SiteContentSportsFlooring extends Component {
               activities. Investing in quality sports flooring not only enhances
               gameplay but also extends the lifespan of the facility, making it
               an essential consideration for sports facility managers and
-              organizers.
+              organizers. */}
+              Sports flooring is of great importance to sports facilities since
+              the greatest selection of their sports flooring is responsible for
+              the athletes' performance and safety factors. Some flooring that
+              allows for a good enough shock absorption and traction lowers the
+              risk of injury, increases an athlete's agility, and decreases wear
+              and tear on his body during high-impact exercises. Good sports
+              flooring does not only enhance the game-play but also elongates
+              the lifespan of the facility, which makes it worth an investment
+              among sports facility managers and organizers.
             </p>
           </div>
           <div
@@ -156,9 +170,12 @@ class SiteContentSportsFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Impact Absorption :{" "}
                         </span>
-                        Sports flooring provides excellent shock absorption,
+                        {/* Sports flooring provides excellent shock absorption,
                         reducing the risk of impact-related injuries for
-                        athletes.
+                        athletes. */}
+                        Very effective impact absorption capabilities of the
+                        sports floor decrease the risk of injuries due to impact
+                        and shock.
                       </span>
                     </span>
                   </div>
@@ -173,9 +190,11 @@ class SiteContentSportsFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Traction Control :{" "}
                         </span>
-                        It offers a consistent and reliable surface with
+                        {/* It offers a consistent and reliable surface with
                         controlled friction, ensuring athletes maintain stable
-                        footing during play.
+                        footing during play. */}
+                        These provide a controlled friction surface on which
+                        athletes will enjoy stable footing during play.
                       </span>
                     </span>
                   </div>
@@ -190,8 +209,10 @@ class SiteContentSportsFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Performance Enhancement :{" "}
                         </span>
-                        Proper flooring can enhance athletes’ performance by
-                        allowing them to move smoothly and confidently.
+                        {/* Proper flooring can enhance athletes’ performance by
+                        allowing them to move smoothly and confidently. */}
+                        Specific flooring permits smooth and confident movement
+                        for the athlete, by which performance may be increased.
                       </span>
                     </span>
                   </div>
@@ -206,8 +227,11 @@ class SiteContentSportsFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Safety :{" "}
                         </span>
-                        Sports flooring helps prevent slips and falls, ensuring
-                        a safer environment for athletes of all levels.
+                        {/* Sports flooring helps prevent slips and falls, ensuring
+                        a safer environment for athletes of all levels. */}
+                        Sports flooring lessens the chance of slips and falls,
+                        providing a safe environment for athletes from rookie to
+                        pro.
                       </span>
                     </span>
                   </div>
@@ -222,9 +246,12 @@ class SiteContentSportsFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Durability :{" "}
                         </span>
-                        High-quality sports flooring is designed to withstand
+                        {/* High-quality sports flooring is designed to withstand
                         heavy use and wear over time, making it a long-lasting
-                        investment.
+                        investment. */}
+                        Good sports flooring is made to take a beat, exposing
+                        itself to heavy traffic and wear-and-tear for
+                        long-lasting use.
                       </span>
                     </span>
                   </div>
@@ -240,8 +267,10 @@ class SiteContentSportsFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Versatility :{" "}
                       </span>
-                      Sports flooring can be tailored to suit various sports and
-                      activities, from basketball to gymnastics.
+                      {/* Sports flooring can be tailored to suit various sports and
+                      activities, from basketball to gymnastics. */}
+                      Sports flooring can be custom-designed to cater to various
+                      sports ranging from basketball to gymnastics.
                     </span>
                   </span>
                 </div>
@@ -256,9 +285,11 @@ class SiteContentSportsFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Aesthetics :{" "}
                       </span>
-                      It contributes to the overall aesthetics of the sports
+                      {/* It contributes to the overall aesthetics of the sports
                       facility, creating a professional and visually appealing
-                      environment.
+                      environment. */}
+                      Sports flooring creates a neat and appealing sports
+                      facility.
                     </span>
                   </span>
                 </div>
@@ -273,8 +304,11 @@ class SiteContentSportsFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Easy Maintenance :{" "}
                       </span>
-                      Many sports flooring materials are low-maintenance, saving
-                      time and resources on cleaning and repairs.
+                      {/* Many sports flooring materials are low-maintenance, saving
+                      time and resources on cleaning and repairs. */}
+                      Most of the good sports flooring is quite low-maintenance,
+                      which allows one to save time and preserve a lot of money
+                      for repairs.
                     </span>
                   </span>
                 </div>
@@ -289,8 +323,10 @@ class SiteContentSportsFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Noise Reduction :{" "}
                       </span>
-                      Sports flooring can reduce noise levels, creating a more
-                      comfortable atmosphere for both athletes and spectators.
+                      {/* Sports flooring can reduce noise levels, creating a more
+                      comfortable atmosphere for both athletes and spectators. */}
+                      The sports floor is sound-absorbing in nature, making
+                      comfort for both athletes and spectators.
                     </span>
                   </span>
                 </div>
@@ -305,9 +341,12 @@ class SiteContentSportsFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Hygiene :{" "}
                       </span>
-                      Some sports flooring materials are designed to be
+                      {/* Some sports flooring materials are designed to be
                       antimicrobial, promoting a cleaner and healthier sports
-                      environment.
+                      environment. */}
+                      Certain products for sports floors come treated with
+                      antimicrobial substances, aiding the creation of a clean
+                      and healthy sports environment.
                     </span>
                   </span>
                 </div>

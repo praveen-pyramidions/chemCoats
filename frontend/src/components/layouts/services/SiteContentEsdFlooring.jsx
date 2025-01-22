@@ -72,12 +72,17 @@ class SiteContentEsdFlooring extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    ESD (Electrostatic Discharge) flooring is engineered with
+                    {/* ESD (Electrostatic Discharge) flooring is engineered with
                     conductive materials to provide a controlled path for the
                     dissipation of electrostatic charges, effectively preventing
                     static electricity buildup and protecting sensitive
                     electronic components in environments where electrostatic
-                    discharge poses a risk.
+                    discharge poses a risk. */}
+                    ESD, which stands for Electrostatic Discharge, floors are
+                    designed of conductive material, which directs electrostatic
+                    charge away from sensitive electrical components in cases
+                    where electrostatic discharge is expected to be a factor in
+                    the protection of sensitive components.
                   </p>
                 </div>
               </div>
@@ -106,7 +111,7 @@ class SiteContentEsdFlooring extends Component {
           <div className="flat-content-wrap style-2 clearfix">
             {/* <h5 className="title">SERVICE CONSULTANT</h5> */}
             <p>
-              ESD (Electrostatic Discharge) flooring plays a pivotal role in
+              {/* ESD (Electrostatic Discharge) flooring plays a pivotal role in
               safeguarding sensitive electronic equipment and components. Its
               paramount importance lies in its ability to dissipate
               electrostatic charges, preventing potentially damaging static
@@ -114,7 +119,15 @@ class SiteContentEsdFlooring extends Component {
               lifespan of electronics. By providing a controlled path for static
               discharge, ESD flooring ensures a secure environment for
               manufacturing, assembly, and testing processes, reducing the risk
-              of costly electrostatic damage.
+              of costly electrostatic damage. */}
+              ESD flooring is highly crucial in shielding sensitive electronic
+              equipment and its components. It is most important for its ability
+              to dissipate electrostatic charges, which prevents damage by
+              possible static electricity discharges that can compromise the
+              functionality and lifespan of electronic devices. ESD flooring
+              will ensure a safe environment for manufacturing, assembly, and
+              testing processes by providing a controlled path for static
+              discharge.
             </p>
           </div>
           <div
@@ -134,10 +147,14 @@ class SiteContentEsdFlooring extends Component {
                 />
                 <h5 className="title">Importance of ESD Flooring ?</h5>
                 <p>
-                  ESD (Electrostatic Discharge) flooring serves as a critical
+                  {/* ESD (Electrostatic Discharge) flooring serves as a critical
                   component in industries where static electricity poses a
                   significant threat. Here are ten key reasons for its
-                  importance, along with explanations:
+                  importance, along with explanations: */}
+                  The application of ESD flooring plays a significant role in
+                  sectors where the effect of static electricity is more
+                  dominant. There are ten essential reasons along with their
+                  elaboration as under:
                 </p>
                 <div
                   className="themesflat-spacer clearfix"
@@ -155,9 +172,12 @@ class SiteContentEsdFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Electrostatic Discharge Control :
                         </span>{" "}
-                        ESD flooring effectively controls and dissipates static
+                        {/* ESD flooring effectively controls and dissipates static
                         charges, preventing sudden discharges that can damage
-                        sensitive electronic components.
+                        sensitive electronic components. */}
+                        This flooring effectively controls and dissipates the
+                        static charge. Sudden discharge is therefore averted
+                        that damages the sensitive electronic components.
                       </span>
                     </span>
                   </div>
@@ -172,9 +192,12 @@ class SiteContentEsdFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Protection of Electronics :
                         </span>{" "}
-                        It safeguards electronic equipment, such as microchips
+                        {/* It safeguards electronic equipment, such as microchips
                         and circuit boards, from potentially costly and
-                        disruptive ESD events.
+                        disruptive ESD events. */}
+                        This protects electronic components like microchips and
+                        circuit boards from possible costly and disruptive ESD
+                        events.
                       </span>
                     </span>
                   </div>
@@ -189,9 +212,11 @@ class SiteContentEsdFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Worker Safety :
                         </span>{" "}
-                        ESD flooring ensures the safety of personnel working
+                        {/* ESD flooring ensures the safety of personnel working
                         with electronic devices by reducing the risk of electric
-                        shocks.
+                        shocks. */}
+                        ESD flooring keeps employees handling electronic
+                        equipment safe from the threat of electrical shock.
                       </span>
                     </span>
                   </div>
@@ -206,9 +231,12 @@ class SiteContentEsdFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Prevention of Data Loss :
                         </span>{" "}
-                        ESD events can lead to data loss or corruption; ESD
+                        {/* ESD events can lead to data loss or corruption; ESD
                         flooring minimizes this risk, especially in data centers
-                        and server rooms.
+                        and server rooms. */}
+                        Data loss or corruption can result from an ESD event;
+                        ESD flooring prevents this possibility, especially in
+                        data centers and server rooms.
                       </span>
                     </span>
                   </div>
@@ -223,9 +251,12 @@ class SiteContentEsdFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Fire Hazard Reduction :
                         </span>{" "}
-                        Static electricity can ignite flammable materials in
+                        {/* Static electricity can ignite flammable materials in
                         certain environments; ESD flooring mitigates this fire
-                        hazard.
+                        hazard. */}
+                        Static electricity can light up flammable materials in
+                        particular environments; ESD Flooring reduces this type
+                        of fire hazard.
                       </span>
                     </span>
                   </div>
@@ -241,9 +272,12 @@ class SiteContentEsdFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Compliance with Industry Standards :
                       </span>{" "}
-                      It meets industry-specific ESD control standards and
+                      {/* It meets industry-specific ESD control standards and
                       regulations, ensuring compliance in critical sectors like
-                      aerospace and healthcare.
+                      aerospace and healthcare. */}
+                      It meets industry specific ESD Control standards and
+                      requirements, thereby supporting compliance in important
+                      industries such as aerospace and health care.
                     </span>
                   </span>
                 </div>
@@ -258,8 +292,11 @@ class SiteContentEsdFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Enhanced Productivity :
                       </span>{" "}
-                      By minimizing the disruption caused by ESD events, ESD
+                      {/* By minimizing the disruption caused by ESD events, ESD
                       flooring helps maintain uninterrupted manufacturing and
+                      testing processes. */}
+                      Because it reduces disruptions caused by an ESD event, ESD
+                      flooring supports continuous flow of manufacturing and
                       testing processes.
                     </span>
                   </span>
@@ -275,6 +312,9 @@ class SiteContentEsdFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Long-Term Cost Savings :
                       </span>{" "}
+                      {/* Preventing ESD-related damage extends the lifespan of
+                      electronic components and reduces replacement and repair
+                      costs. */}
                       Preventing ESD-related damage extends the lifespan of
                       electronic components and reduces replacement and repair
                       costs.
@@ -292,9 +332,13 @@ class SiteContentEsdFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Cleanroom Suitability :
                       </span>{" "}
-                      ESD flooring is integral to cleanroom environments, where
+                      {/* ESD flooring is integral to cleanroom environments, where
                       maintaining a contamination-free atmosphere is essential
-                      for product quality.
+                      for product quality. */}
+                      ESD-type flooring includes ESD flooring in this case, and
+                      would be specifically designed where it admits cleanroom
+                      environments and whichever would be a clean air area to
+                      ensure that no contamination affects the product.
                     </span>
                   </span>
                 </div>
@@ -309,9 +353,13 @@ class SiteContentEsdFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Customization Options :
                       </span>{" "}
-                      It offers a range of customization options, including
+                      {/* It offers a range of customization options, including
                       different materials and designs, to meet the specific
-                      needs and aesthetics of different industries.
+                      needs and aesthetics of different industries. */}
+                      It perfectly offers a multiplicity of customization
+                      options with different designs and materials, all designed
+                      to meet the needs and aesthetics of the various
+                      industries.
                     </span>
                   </span>
                 </div>
@@ -323,13 +371,19 @@ class SiteContentEsdFlooring extends Component {
                       <i className="fa fa-check-circle" />
                     </span>
                     <span className="text">
-                      In conclusion, ESD flooring is indispensable in sectors
+                      {/* In conclusion, ESD flooring is indispensable in sectors
                       where static electricity can wreak havoc on sensitive
                       electronics, worker safety, and data integrity. Its
                       ability to control ESD events and meet industry standards
                       ensures a secure and efficient operational environment,
                       ultimately leading to cost savings and improved
-                      productivity.
+                      productivity. */}
+                      In conclusion, ESD flooring is indeed a necessity to keep
+                      the industrial process safe and free from disruption: a
+                      platform that limits all the possible discharge
+                      occurrences, complies with the norms being prescribed by
+                      the industry, creating a safe and functioning environment
+                      conducive to saving on costs yet improving productivity.
                     </span>
                   </span>
                 </div>
