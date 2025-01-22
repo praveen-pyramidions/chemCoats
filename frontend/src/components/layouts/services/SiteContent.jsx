@@ -152,7 +152,7 @@ class SiteContent extends Component {
                 <h5 className="title">Why Epoxy Flooring for industries?</h5>
                 <p>
                   Epoxy flooring plays a vital role in the industry for several
-                  compelling reasons:
+                  compelling reasons :
                 </p>
                 <div
                   className="themesflat-spacer clearfix"
