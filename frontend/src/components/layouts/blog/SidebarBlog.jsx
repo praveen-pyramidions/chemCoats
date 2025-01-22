@@ -52,16 +52,16 @@ export default function SidebarBlog() {
   return (
     <>
       <div id="sidebar">
-      <Helmet>
+        <Helmet>
           <title>Chemcoats Blogs</title>
           <meta
             name="description"
             content="Chemcoats Blogs provide expert insights, tips, and updates on industrial flooring solutions, coatings, and surface treatments. Stay informed with the latest trends, product reviews, and industry best practices for maintaining durable, high-performance floors."
           />
-         
+
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/blog" />
+          <link rel="canonical" href="https://chemcoats.com/blog" />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"
@@ -132,7 +132,10 @@ export default function SidebarBlog() {
                         <h3>
                           <Link
                             onClick={() => {
-                              const slug = blogitem.title.toLowerCase().split(" ").join("-");
+                              const slug = blogitem.title
+                                .toLowerCase()
+                                .split(" ")
+                                .join("-");
                               window.location.href = `/blog/${slug}`;
                             }}
                           >

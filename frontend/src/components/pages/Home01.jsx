@@ -132,7 +132,9 @@ class Home01 extends Component {
                                   data-smobile={60}
                                 />
                               </div>
-                            <h1 className="heading-h1-main">Best Epoxy Floor Coating in Chennai</h1>
+                              <h1 className="heading-h1-main">
+                                Best Epoxy Floor Coating in Chennai
+                              </h1>
                               {this.state.headingchoose1.map((data) => (
                                 <TitleHeading data={data} key={data.id} />
                               ))}

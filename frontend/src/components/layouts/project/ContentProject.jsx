@@ -5,16 +5,16 @@ class ContentProject extends Component {
   render() {
     return (
       <div className="detail-gallery">
-         <Helmet>
+        <Helmet>
           <title>Chemcoats Project Detail | Our Works</title>
           <meta
             name="description"
             content="The installation of ESD protection systems, including anti-static tiles and advanced raised access flooring, has been successfully completed for a software company located in Techno Park, Trivandrum."
           />
-         
+
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/project-detail" />
+          <link rel="canonical" href="https://chemcoats.com/project-detail" />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

@@ -57,8 +57,8 @@ class AboutUs extends Component {
   render() {
     return (
       <div className="header-fixed page no-sidebar header-style-2 topbar-style-1 menu-has-search">
-         {/* SEO Meta Data */}
-         <Helmet>
+        {/* SEO Meta Data */}
+        <Helmet>
           <title>Industrial Floorings and Protective Coatings.</title>
           <meta
             name="description"
@@ -68,7 +68,7 @@ class AboutUs extends Component {
             name="keywords"
             content="Industrial Flooring, Protective Coatings, ESD Flooring, Project Completion, Quality Workmanship, Safety Procedures"
           />
-          <link rel="canonical" href=" https://www.chemcoats.com/about-us" />
+          <link rel="canonical" href=" https://chemcoats.com/about-us" />
           <meta name="robots" content="index, follow" />
           {/* <meta property="og:title" content="About Us - Your Company Name" />
           <meta

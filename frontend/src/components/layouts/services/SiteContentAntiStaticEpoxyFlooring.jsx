@@ -45,7 +45,7 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/anti-static-epoxy-flooring"
+            href="https://chemcoats.com/anti-static-epoxy-flooring"
           />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">
@@ -75,11 +75,15 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Anti static flooring utilizes a material composition that
+                    {/* Anti static flooring utilizes a material composition that
                     helps eliminate the risk of discharge (ESD) by creating a
                     controlled pathway for the safe release of electrical
                     charges. This makes it an essential element, in environments
-                    that’re sensitive, to ESD.
+                    that’re sensitive, to ESD. */}
+                    Anti-static flooring makes use of a unique composition that
+                    eliminates the hazards of a discharge. This implies the
+                    preventive passage of electrical charges and is thus
+                    necessary in sensitive ESD environments.
                   </p>
                 </div>
               </div>
@@ -108,15 +112,26 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
           <div className="flat-content-wrap style-2 clearfix">
             {/* <h5 className="title">SERVICE CONSULTANT</h5> */}
             <p>
-              Anti-static flooring, also called electrostatic discharge (ESD)
+              {/* Anti-static flooring, also called electrostatic discharge (ESD)
               flooring, is designed to control and reduce static electricity
               within sensitive environments. It utilizes materials with high
               electrical conductivity or dissipative properties to redirect and
               disperse static charges, protecting electronic equipment and
               preventing sparks in environments prone to ignition. Anti-static
-              flooring is crucial in industries like electronics manufacturing,
+              flooring is crucial in industries like electronics manufacturing,   
               healthcare, and laboratories to maintain operational safety and
-              equipment integrity.
+              equipment integrity. */}
+              Anti-static flooring, Also known as electrostatic discharge (ESD)
+              flooring, it is specially designed to control and reduce static
+              electricity within sensitive environments. It includes many
+              substances with high electrical conductivity or dissipative
+              properties. The static charge created travels along a path across
+              the flooring and is arrested somewhere else (into the floor),
+              protecting the electronic equipment and thus preventing sparks in
+              areas prone to ignition. In the industries such as electronics,
+              pharmaceuticals, and laboratories, anti-static flooring is
+              precious for the operational sustainability and integrity of the
+              equipment.
             </p>
           </div>
           <div
@@ -157,9 +172,12 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           {" "}
                         </span>
-                        Anti-static flooring safeguards sensitive electronic
+                        {/* Anti-static flooring safeguards sensitive electronic
                         equipment from electrostatic discharge (ESD), which can
-                        damage or disrupt their functionality.
+                        damage or disrupt their functionality. */}
+                        It protects sensitive electronic equipment from ESD
+                        during periods when it is damaged or becomes temporarily
+                        inoperative.
                       </span>
                     </span>
                   </div>
@@ -176,9 +194,12 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                           {" "}
                           Safety :{" "}
                         </span>
-                        It reduces the risk of static shocks to personnel,
+                        {/* It reduces the risk of static shocks to personnel,
                         creating a safer environment, particularly in areas
-                        where people handle volatile substances.
+                        where people handle volatile substances. */}
+                        Reduces the risk of personal static shock, making the
+                        workplace (particularly areas in which workers are
+                        handling volatile materials) safer.
                       </span>
                     </span>
                   </div>
@@ -195,9 +216,13 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                           {" "}
                           Fire Hazard Prevention :{" "}
                         </span>
-                        In industries involving flammable materials, anti-static
+                        {/* In industries involving flammable materials, anti-static
                         flooring prevents sparks that could ignite fires or
-                        explosions, ensuring workplace safety.
+                        explosions, ensuring workplace safety. */}
+                        Anti-static flooring avoids sparks that by any means
+                        could ignite fires or explosions, hence ensuring safety
+                        at the workplace in industries handling flammable
+                        materials.
                       </span>
                     </span>
                   </div>
@@ -214,9 +239,12 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                           {" "}
                           Product Quality :{" "}
                         </span>
-                        ESD can damage or alter the properties of products
+                        {/* ESD can damage or alter the properties of products
                         during manufacturing. Anti-static flooring maintains
-                        product quality by preventing such issues.
+                        product quality by preventing such issues. */}
+                        ESD could destroy or modify the qualities of products
+                        during the manufacturing process. Anti-static flooring
+                        protects product quality from being compromised.
                       </span>
                     </span>
                   </div>
@@ -233,8 +261,11 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                           {" "}
                           Cleanroom Compliance :{" "}
                         </span>
-                        Many cleanroom environments require anti-static flooring
+                        {/* Many cleanroom environments require anti-static flooring
                         to prevent static-related contamination in critical
+                        manufacturing processes. */}
+                        Most cleanroom environments require anti-static flooring
+                        to curb static-related contamination in critical
                         manufacturing processes.
                       </span>
                     </span>
@@ -253,9 +284,13 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                         {" "}
                         Data Center Stability :{" "}
                       </span>
-                      Data centers rely on anti-static flooring to protect
+                      {/* Data centers rely on anti-static flooring to protect
                       servers and data storage equipment from ESD, ensuring
-                      uninterrupted operations.
+                      uninterrupted operations. */}
+                      Data centre protection from ESD induced stray currents is
+                      classic with anti-static flooring. Hence, it is
+                      fundamental for the continuous operation of manufacturing
+                      data storage and servers.
                     </span>
                   </span>
                 </div>
@@ -272,9 +307,13 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                         {" "}
                         Cost Savings :{" "}
                       </span>
-                      By preventing damage to equipment and products,
+                      {/* By preventing damage to equipment and products,
                       anti-static flooring reduces maintenance and replacement
-                      costs.
+                      costs. */}
+                      Its contribution towards the availability and ultimate
+                      functionality of production methods for all equipment
+                      helps stabilise the maintenance and replacement costs
+                      purposely to all leading company businesses.
                     </span>
                   </span>
                 </div>
@@ -291,9 +330,12 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                         {" "}
                         Compliance with Regulations :{" "}
                       </span>
-                      Various industries have strict regulations requiring the
+                      {/* Various industries have strict regulations requiring the
                       use of anti-static flooring to maintain safety and quality
-                      standards.
+                      standards. */}
+                      There are diversified industries that exist by legislative
+                      law concerning the anti-static flooring requirement to
+                      uphold the notions of safety and quality.
                     </span>
                   </span>
                 </div>
@@ -310,8 +352,11 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                         {" "}
                         Employee Comfort :{" "}
                       </span>
-                      Reducing static shocks enhances employee comfort and
-                      productivity, leading to a better work environment.
+                      {/* Reducing static shocks enhances employee comfort and
+                      productivity, leading to a better work environment. */}
+                      The less bothered an employee is when it comes to damping
+                      static shocks, the more comfortable, productive, and
+                      encouraged he'll be
                     </span>
                   </span>
                 </div>
@@ -553,10 +598,14 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                           {" "}
                           Static Dissipation :{" "}
                         </span>
-                        It effectively dissipates static charges to prevent the
+                        {/* It effectively dissipates static charges to prevent the
                         build-up of electrostatic potential on the surface,
                         reducing the risk of ESD damage to sensitive electronic
-                        components.
+                        components. */}
+                        It is efficient enough to dissipate static charges and
+                        does not allow the electrostatic potential on the
+                        surface to build up, thus lessening the possibility of
+                        ESD damage to sensitive electronic components.
                       </span>
                     </span>
                   </div>
@@ -573,10 +622,14 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                           {" "}
                           Durable Surface :{" "}
                         </span>
-                        Anti-static epoxy flooring is highly durable and can
+                        {/* Anti-static epoxy flooring is highly durable and can
                         withstand heavy foot traffic, equipment, and chemical
                         exposure, making it suitable for industrial and
-                        commercial settings.
+                        commercial settings. */}
+                        Anti-static epoxy flooring can withstand heavy foot
+                        traffic, equipment, and chemical exposure and is strong
+                        in this sense, that it can be used for industrial and
+                        commercial purposes.
                       </span>
                     </span>
                   </div>
@@ -593,10 +646,13 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                           {" "}
                           Chemical Resistance :{" "}
                         </span>
-                        It is resistant to a wide range of chemicals, including
+                        {/* It is resistant to a wide range of chemicals, including
                         acids, alkalis, solvents, and oils, ensuring that it
                         remains intact and functional in challenging
-                        environments.
+                        environments. */}
+                        It has good resistance against chemicals such as acids,
+                        alkalis, solvents, and oils and is expected to be robust
+                        and functional even in the toughest of environments.
                       </span>
                     </span>
                   </div>
@@ -613,9 +669,12 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                           {" "}
                           Seamless Installation :{" "}
                         </span>
-                        Anti-static epoxy flooring is applied as a seamless,
+                        {/* Anti-static epoxy flooring is applied as a seamless,
                         monolithic surface, eliminating seams and joints where
-                        static charge can accumulate.
+                        static charge can accumulate. */}
+                        Anti-static epoxy flooring is applied as a seamless,
+                        monolithic surface eliminating seams and joints where
+                        static charge may build up.
                       </span>
                     </span>
                   </div>
@@ -633,8 +692,10 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                         {" "}
                         Low Maintenance :{" "}
                       </span>
-                      This type of flooring is easy to clean and maintain,
-                      reducing long-term operational costs.
+                      {/* This type of flooring is easy to clean and maintain,
+                      reducing long-term operational costs. */}
+                      It is easy to clean and maintain this type of flooring,
+                      and its long-term operational costs will be low.
                     </span>
                   </span>
                 </div>
@@ -651,10 +712,14 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                         {" "}
                         Hygienic Properties :{" "}
                       </span>
-                      Anti-static epoxy flooring can be formulated with
+                      {/* Anti-static epoxy flooring can be formulated with
                       antimicrobial properties, making it suitable for use in
                       healthcare facilities and laboratories where cleanliness
-                      is crucial.
+                      is crucial. */}
+                      Epoxy floors with anti-static properties can also be
+                      developed by adding antimicrobial properties to protect
+                      against microbes for healthcare and lab applications where
+                      hygienic values are high.
                     </span>
                   </span>
                 </div>
@@ -671,8 +736,11 @@ class ServiceDetailAntiStaticEpoxyFlooring extends Component {
                         {" "}
                         Impact Resistance :{" "}
                       </span>
-                      It offers good impact resistance, protecting the substrate
-                      and ensuring the longevity of the flooring system.
+                      {/* It offers good impact resistance, protecting the substrate
+                      and ensuring the longevity of the flooring system. */}
+                      It offers excellent impact resistance protection to the
+                      underlying substrate, thereby sustaining the life cycle of
+                      the floor system.
                     </span>
                   </span>
                 </div>

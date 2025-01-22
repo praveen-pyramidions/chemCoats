@@ -48,10 +48,7 @@ class SiteContent extends Component {
           />
           <meta name="author" content="Chem Coats" />
           <meta name="robots" content="index, follow" />
-          <link
-            rel="canonical"
-            href="https://www.chemcoats.com/epoxy-flooring"
-          />
+          <link rel="canonical" href="https://chemcoats.com/epoxy-flooring" />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">
           <div
@@ -80,12 +77,18 @@ class SiteContent extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Epoxy flooring is known for its exceptional properties,
+                    {/* Epoxy flooring is known for its exceptional properties,
                     including high durability, chemical resistance, seamless and
                     easy-to-clean surface, as well as its ability to bond
                     effectively to various substrates, making it a versatile and
                     long-lasting choice for industrial and commercial
-                    applications.
+                    applications. */}
+                    Epoxy flooring is a high durable flooring system with
+                    remarkable properties, such as chemical resistance, seamless
+                    and easy to clean surface, and its capability to bond
+                    effectively on different substrates, which therefore makes
+                    it a versatile and long-lasting option for industrial and
+                    commercial applications.
                   </p>
                 </div>
               </div>
@@ -115,13 +118,20 @@ class SiteContent extends Component {
           <div className="flat-content-wrap style-2 clearfix">
             {/* <h5 className="title">SERVICE CONSULTANT</h5> */}
             <p>
-              Epoxy flooring is highly regarded in the industrial and commercial
+              {/* Epoxy flooring is highly regarded in the industrial and commercial
               sectors for its exceptional mechanical properties and outstanding
               dimensional stability. When expertly cured, epoxy flooring boasts
               remarkable resistance to chemicals and heat, making it a top
               choice for various applications. Its minimal shrinkage further
               enhances its durability, making epoxy flooring a reliable and
-              long-lasting solution.
+              long-lasting solution. */}
+              Epoxy flooring is highly valued in the industrial and commercial
+              sectors for its excellent mechanical properties and excellent
+              dimensional stability. When properly cured, epoxy flooring has
+              excellent chemical and heat resistance, which makes it a popular
+              choice for many applications. Its low shrinkage also adds to its
+              durability, making epoxy flooring a reliable and long-lasting
+              solution.
             </p>
           </div>
           <div
@@ -142,7 +152,7 @@ class SiteContent extends Component {
                 <h5 className="title">Why Epoxy Flooring for industries?</h5>
                 <p>
                   Epoxy flooring plays a vital role in the industry for several
-                  compelling reasons:
+                  compelling reasons :
                 </p>
                 <div
                   className="themesflat-spacer clearfix"
@@ -157,10 +167,13 @@ class SiteContent extends Component {
                         <i className="fa fa-check-circle" />
                       </span>
                       <span className="text">
-                        Durability: Epoxy coatings are exceptionally tough and
+                        {/* Durability: Epoxy coatings are exceptionally tough and
                         can withstand heavy machinery, high traffic, and even
                         chemical spills, ensuring the longevity of industrial
-                        floors.
+                        floors. */}
+                        Durability: It is extremely resistant to heavy
+                        machinery, high traffic, and even chemical spills.
+                        Hence, it prolongs the lifetime of industrial floors.
                       </span>
                     </span>
                   </div>
@@ -172,9 +185,13 @@ class SiteContent extends Component {
                         <i className="fa fa-check-circle" />
                       </span>
                       <span className="text">
-                        Safety: Epoxy flooring provides a non-slip surface,
+                        {/* Safety: Epoxy flooring provides a non-slip surface,
                         reducing the risk of workplace accidents, and making it
-                        an ideal choice for safety-conscious industries.
+                        an ideal choice for safety-conscious industries. */}
+                        Safety: Epoxy flooring has a non-slip surface. It
+                        minimizes the chances of workplace accidents, hence it
+                        is best suited for industries that are highly
+                        safety-conscious.
                       </span>
                     </span>
                   </div>
@@ -186,10 +203,13 @@ class SiteContent extends Component {
                         <i className="fa fa-check-circle" />
                       </span>
                       <span className="text">
-                        Chemical Resistance: Epoxy coatings are highly resistant
+                        {/* Chemical Resistance: Epoxy coatings are highly resistant
                         to chemicals and corrosive substances, safeguarding the
                         integrity of the flooring in environments where such
-                        exposure is common.
+                        exposure is common. */}
+                        Chemical Resistance: Epoxy coatings are chemically and
+                        corrosion-resistant and do not corrode in places where
+                        such exposure is common.
                       </span>
                     </span>
                   </div>
@@ -201,9 +221,13 @@ class SiteContent extends Component {
                         <i className="fa fa-check-circle" />
                       </span>
                       <span className="text">
-                        Hygiene: Epoxy is easy to clean and maintain, promoting
-                        a hygienic working environment, crucial in industries
-                        like pharmaceuticals and food processing.
+                        {/* Hygiene: Epoxy is easy to clean and maintain, providing
+                        a hygienic working environment, which is important in
+                        the pharmaceutical and food processing industries. */}
+                        Hygiene: Because epoxy is simple to clean and maintain,
+                        working in a clean environment is easy and, thus, highly
+                        tenable. This is vital for both pharmaceutical and food
+                        processing industries.
                       </span>
                     </span>
                   </div>
@@ -215,9 +239,12 @@ class SiteContent extends Component {
                         <i className="fa fa-check-circle" />
                       </span>
                       <span className="text">
-                        Aesthetic Appeal: Beyond functionality, epoxy floors can
+                        {/* Aesthetic Appeal: Beyond functionality, epoxy floors can
                         be customized with various colors and finishes,
-                        enhancing the overall aesthetics of industrial spaces.
+                        enhancing the overall aesthetics of industrial spaces. */}
+                        Aesthetic Appeal: In addition to function, epoxy
+                        flooring can also be customized in color and finish for
+                        aesthetic enhancement in industrial spaces.
                       </span>
                     </span>
                   </div>
@@ -230,9 +257,12 @@ class SiteContent extends Component {
                       <i className="fa fa-check-circle" />
                     </span>
                     <span className="text">
-                      Light Reflectivity: Epoxy floors are reflective, which can
+                      {/* Light Reflectivity: Epoxy floors are reflective, which can
                       help improve visibility and reduce the need for additional
-                      lighting in large industrial facilities.
+                      lighting in large industrial facilities. */}
+                      Light Reflecting: Epoxy floors are reflective and thereby
+                      able to create visibility, thereby reducing the need for
+                      extra lighting in the large industrial environment.
                     </span>
                   </span>
                 </div>
@@ -244,6 +274,9 @@ class SiteContent extends Component {
                       <i className="fa fa-check-circle" />
                     </span>
                     <span className="text">
+                      {/* Cost-Efficiency: Epoxy flooring is a cost-effective choice
+                      due to its long lifespan, minimal maintenance
+                      requirements, and reduced need for frequent replacements. */}
                       Cost-Efficiency: Epoxy flooring is a cost-effective choice
                       due to its long lifespan, minimal maintenance
                       requirements, and reduced need for frequent replacements.
@@ -258,9 +291,12 @@ class SiteContent extends Component {
                       <i className="fa fa-check-circle" />
                     </span>
                     <span className="text">
-                      Seamless Surface: Epoxy provides a seamless surface that
+                      {/* Seamless Surface: Epoxy provides a seamless surface that
                       prevents dust and contaminants from settling into cracks
-                      or crevices, ensuring a cleaner and safer workspace.
+                      or crevices, ensuring a cleaner and safer workspace. */}
+                      Smooth Coating: That means any dust or contaminants do not
+                      settle in the cracks and crevices, and thus it is a clean
+                      and safe working environment.
                     </span>
                   </span>
                 </div>
@@ -272,9 +308,13 @@ class SiteContent extends Component {
                       <i className="fa fa-check-circle" />
                     </span>
                     <span className="text">
-                      Quick Installation: Epoxy flooring can be applied
+                      {/* Quick Installation: Epoxy flooring can be applied
                       relatively quickly, minimizing downtime in industrial
-                      operations and allowing for faster project completion.
+                      operations and allowing for faster project completion. */}
+                      Quick installation: Epoxy flooring takes much less time to
+                      install than other forms of flooring, meaning further
+                      downtime for industries occurs and work can be completed
+                      in a relatively short time span.
                     </span>
                   </span>
                 </div>
@@ -286,10 +326,13 @@ class SiteContent extends Component {
                       <i className="fa fa-check-circle" />
                     </span>
                     <span className="text">
-                      Environmental Benefits: Many epoxy coatings are low in
+                      {/* Environmental Benefits: Many epoxy coatings are low in
                       volatile organic compounds (VOCs), making them
                       environmentally friendly and compliant with sustainability
-                      goals.
+                      goals. */}
+                      Environmental Benefits: Most epoxy coatings are Low VOC,
+                      so they are environment and sustainable enough to meet the
+                      sustainability goals.
                     </span>
                   </span>
                 </div>

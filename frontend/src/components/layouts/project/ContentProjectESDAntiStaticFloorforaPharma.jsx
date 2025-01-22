@@ -5,16 +5,19 @@ class ContentProjectESDAntiStaticFloorforaPharma extends Component {
   render() {
     return (
       <div className="detail-gallery">
-         <Helmet>
+        <Helmet>
           <title> Chemcoats Project ESD Antistatic Floor Fora Pharma</title>
           <meta
             name="description"
             content="An ESD (Electrostatic Discharge) anti-static floor is designed to control the buildup and discharge of static electricity, protecting sensitive electronic equipment and preventing costly damage in environments like electronics manufacturing, clean rooms, and laboratories."
           />
-         
+
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/esd-antistatic-floor-fora-pharma" />
+          <link
+            rel="canonical"
+            href="https://chemcoats.com/esd-antistatic-floor-fora-pharma"
+          />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"
