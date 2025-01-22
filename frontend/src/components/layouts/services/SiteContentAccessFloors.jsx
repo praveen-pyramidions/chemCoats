@@ -43,10 +43,7 @@ class SiteContentAccessFloors extends Component {
           />
           <meta name="author" content="Chem Coats" />
           <meta name="robots" content="index, follow" />
-          <link
-            rel="canonical"
-            href="https://www.chemcoats.com/access-floors"
-          />
+          <link rel="canonical" href="https://chemcoats.com/access-floors" />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">
           <div
@@ -75,12 +72,18 @@ class SiteContentAccessFloors extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Access floors, also known as false floors, are elevated
+                    {/* Access floors, also known as false floors, are elevated
                     flooring systems designed to create a raised platform above
                     a structural floor, providing a space for the distribution
                     of services such as electrical wiring, data cables, and HVAC
                     systems, while facilitating convenient access for
-                    maintenance and reconfiguration.
+                    maintenance and reconfiguration. */}
+                    Access floors, also referred to as false floors, are raised
+                    flooring systems designed to provide a raised platform above
+                    a structural floor to create an area for distributing
+                    services such as electrical wiring, data cables, and HVAC
+                    systems, while allowing for easy access for maintenance and
+                    reconfiguration.
                   </p>
                 </div>
               </div>
@@ -109,7 +112,7 @@ class SiteContentAccessFloors extends Component {
           <div className="flat-content-wrap style-2 clearfix">
             {/* <h5 className="title">SERVICE CONSULTANT</h5> */}
             <p>
-              Access floors, including server room floors, hub room floors,
+              {/* Access floors, including server room floors, hub room floors,
               false floors, Unitile floors, and cavity floors, play a crucial
               role in enhancing the safety, efficiency, and overall productivity
               of various industries. These specialized flooring systems are
@@ -117,7 +120,15 @@ class SiteContentAccessFloors extends Component {
               visible floor surface. By lifting the floor above the structural
               slab, they provide a concealed area for the installation of
               essential infrastructure components, such as cabling, wiring, and
-              HVAC systems.
+              HVAC systems. */}
+              Access floors, like server room floors, hub room floors, false
+              floors, Unitile floors, and cavity floors, are all important in
+              many industries for creating safety, efficiency, and total
+              productivity. Access floors are especially designed to form a
+              functional, adaptable space that lies beneath the visible floor
+              surface. They help create space for the infrastructure necessities
+              like cabling, wiring, and HVAC systems, all enclosed under the
+              raised floor above the structural slab.
             </p>
           </div>
           <div
@@ -158,10 +169,14 @@ class SiteContentAccessFloors extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Cable Management :
                         </span>{" "}
-                        Access floors provide efficient cable management by
+                        {/* Access floors provide efficient cable management by
                         concealing wires, reducing tripping hazards, and
                         enabling accessible maintenance in industries with
-                        complex electrical and data requirements.
+                        complex electrical and data requirements. */}
+                        The access floor aids in proper cable management with
+                        reduction in trip hazards and makes maintenance easier
+                        in industries with high complicated electrical and data
+                        demands.
                       </span>
                     </span>
                   </div>
@@ -173,6 +188,11 @@ class SiteContentAccessFloors extends Component {
                         <i className="fa fa-check-circle" />
                       </span>
                       <span className="text">
+                        {/* The modular nature of access floors allows easy
+                        reconfiguration of workspace layouts, providing a
+                        flexible solution to accommodate evolving needs in
+                        dynamic environments with frequent technological or
+                        organizational changes. */}
                         The modular nature of access floors allows easy
                         reconfiguration of workspace layouts, providing a
                         flexible solution to accommodate evolving needs in
@@ -192,6 +212,11 @@ class SiteContentAccessFloors extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Improved Airflow and Cooling :
                         </span>{" "}
+                        {/* Raised access floors enhance airflow, crucial for
+                        industries like data centers and server rooms. This
+                        dissipates heat from electronic equipment, improving
+                        cooling system efficiency and ensuring the reliability
+                        of sensitive technology. */}
                         Raised access floors enhance airflow, crucial for
                         industries like data centers and server rooms. This
                         dissipates heat from electronic equipment, improving
@@ -211,10 +236,14 @@ class SiteContentAccessFloors extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Enhanced Safety and Accessibility :
                         </span>{" "}
-                        Concealing cables beneath access floors enhances safety
+                        {/* Concealing cables beneath access floors enhances safety
                         by reducing accident risks. It also facilitates easy
                         access for maintenance, promoting a safer working
-                        environment without disrupting the entire workspace.
+                        environment without disrupting the entire workspace. */}
+                        Cables can be hidden under access floors, improving
+                        safety as chances of accidents decrease. It further
+                        makes maintenance work easier and helps to ensure that
+                        the entire space is safe while not being occupied.
                       </span>
                     </span>
                   </div>
@@ -229,9 +258,12 @@ class SiteContentAccessFloors extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Aesthetic Appeal :
                         </span>{" "}
-                        Beyond functionality, epoxy floors can be customized
+                        {/* Beyond functionality, epoxy floors can be customized
                         with various colors and finishes, enhancing the overall
-                        aesthetics of industrial spaces.
+                        aesthetics of industrial spaces. */}
+                        Not only functional, epoxy floors are available in
+                        multiple colors and finishes, making it a beautiful
+                        floor for industrial sites.
                       </span>
                     </span>
                   </div>
@@ -456,6 +488,13 @@ class SiteContentAccessFloors extends Component {
                           {" "}
                           Raised Floors :
                         </span>{" "}
+                        {/* Raised floors, also known as access floors, involve
+                        elevating the floor level to create a space beneath the
+                        surface. This void can be utilized for accommodating
+                        various utilities such as cabling, electrical wiring,
+                        and HVAC systems. By concealing these components beneath
+                        the raised floor, the workspace becomes more organized,
+                        streamlined, and aesthetically pleasing. */}
                         Raised floors, also known as access floors, involve
                         elevating the floor level to create a space beneath the
                         surface. This void can be utilized for accommodating
@@ -482,6 +521,13 @@ class SiteContentAccessFloors extends Component {
                         >
                           Server Room Floors :
                         </span>{" "}
+                        {/* In the context of server rooms, raised floors play a
+                        crucial role in managing the complex network of cables
+                        and providing a cooling infrastructure. The elevated
+                        flooring allows for efficient airflow, helping to
+                        dissipate heat generated by servers. This not only
+                        ensures optimal functioning of the servers but also
+                        contributes to the longevity of the equipment. */}
                         In the context of server rooms, raised floors play a
                         crucial role in managing the complex network of cables
                         and providing a cooling infrastructure. The elevated
@@ -503,6 +549,13 @@ class SiteContentAccessFloors extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Hub Room Floors :
                         </span>{" "}
+                        {/* Similar to server rooms, hub rooms house networking
+                        equipment and infrastructure. Raised floors in hub rooms
+                        facilitate the organized distribution of network cables,
+                        power lines, and other essential connections. This
+                        accessibility simplifies maintenance and upgrades,
+                        reducing downtime and enhancing the overall reliability
+                        of the network. */}
                         Similar to server rooms, hub rooms house networking
                         equipment and infrastructure. Raised floors in hub rooms
                         facilitate the organized distribution of network cables,
@@ -524,6 +577,12 @@ class SiteContentAccessFloors extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           False Floors :
                         </span>{" "}
+                        {/* False floors, synonymous with raised floors, provide a
+                        deceptive appearance of a regular floor while concealing
+                        a space beneath. This design is particularly useful in
+                        environments where aesthetics are a priority, such as
+                        office spaces or commercial buildings. False floors
+                        contribute to a clean and visually appealing atmosphere. */}
                         False floors, synonymous with raised floors, provide a
                         deceptive appearance of a regular floor while concealing
                         a space beneath. This design is particularly useful in
@@ -544,12 +603,19 @@ class SiteContentAccessFloors extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Unitile Floors :
                         </span>{" "}
-                        Unitile is a specific brand of raised floor systems that
+                        {/* Unitile is a specific brand of raised floor systems that
                         offers modular and customizable solutions. These floors
                         are designed to be flexible and adaptable, allowing for
                         easy reconfiguration of the workspace layout. Unitile
                         floors are often chosen for their versatility and the
-                        ability to accommodate changing business needs.
+                        ability to accommodate changing business needs. */}
+                        Unitile floors are a specialized brand of raised floor
+                        systems and provide modularized and customized products.
+                        These floor systems are pliable and very flexible,
+                        ensuring that the workstation layout can easily be
+                        reorganized. Unitile floors are considered versatile and
+                        chosen for their ease in accommodating new business
+                        needs.
                       </span>
                     </span>
                   </div>
@@ -564,6 +630,13 @@ class SiteContentAccessFloors extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Cavity Floors :
                         </span>{" "}
+                        {/* Cavity floors, like raised floors, create a cavity or
+                        void underneath the surface. This space is utilized for
+                        housing various services, including data and power
+                        cables, ensuring a clutter-free and efficient working
+                        environment. Cavity floors are commonly employed in
+                        industries where frequent modifications and upgrades are
+                        anticipated. */}
                         Cavity floors, like raised floors, create a cavity or
                         void underneath the surface. This space is utilized for
                         housing various services, including data and power

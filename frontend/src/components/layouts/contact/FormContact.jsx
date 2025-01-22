@@ -57,7 +57,7 @@ export default function FormContact() {
     <>
       <div className="col-md-6">
         <Helmet>
-          <title>Chemcoats  | Contact +91 88700 67777</title>
+          <title>Chemcoats | Contact +91 88700 67777</title>
           <meta
             name="description"
             content="Our team is ready to assist with all your industrial, commercial, and residential flooring needs. Get in touch today for high-quality service!"
@@ -68,7 +68,7 @@ export default function FormContact() {
           />
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.yourwebsite.com/contact-us" />
+          <link rel="canonical" href="https://chemcoats.com/contact-us" />
         </Helmet>
 
         <div className="themesflat-headings style-2 clearfix">

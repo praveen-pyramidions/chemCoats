@@ -11,10 +11,10 @@ class ServiceSlide extends Component {
             name="description"
             content="Flooring Services offer professional installation, repair, and maintenance of various flooring types, including epoxy, vinyl, hardwood, and more. Ideal for residential, commercial, and industrial spaces, ensuring quality, durability, and customized solutions for every project."
           />
-         
+
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/services" />
+          <link rel="canonical" href="https://chemcoats.com/services" />
         </Helmet>
         <div className="container">
           <div className="row">
@@ -94,8 +94,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="polyurethane-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/polyurethane-flooring";
+                                window.location.href = "/polyurethane-flooring";
                               }}
                             >
                               Polyurethane Flooring
@@ -112,8 +111,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="polyurethane-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/polyurethane-flooring";
+                                window.location.href = "/polyurethane-flooring";
                               }}
                             >
                               DETAILS
@@ -140,8 +138,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="di-elecric-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/di-elecric-flooring";
+                                window.location.href = "/di-elecric-flooring";
                               }}
                             >
                               Di-Electric Flooring
@@ -158,8 +155,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="di-elecric-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/di-elecric-flooring";
+                                window.location.href = "/di-elecric-flooring";
                               }}
                             >
                               DETAILS
@@ -231,8 +227,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="esd-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/esd-flooring";
+                                window.location.href = "/esd-flooring";
                               }}
                             >
                               ESD Flooring
@@ -249,8 +244,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="esd-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/esd-flooring";
+                                window.location.href = "/esd-flooring";
                               }}
                             >
                               DETAILS
@@ -323,8 +317,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="terrazo-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/terrazo-flooring";
+                                window.location.href = "/terrazo-flooring";
                               }}
                             >
                               Terrazzo Flooring
@@ -341,8 +334,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="terrazo-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/terrazo-flooring";
+                                window.location.href = "/terrazo-flooring";
                               }}
                             >
                               DETAILS
@@ -432,8 +424,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="sports-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/sports-flooring";
+                                window.location.href = "/sports-flooring";
                               }}
                             >
                               Epoxy Sports Flooring
@@ -450,8 +441,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="sports-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/sports-flooring";
+                                window.location.href = "/sports-flooring";
                               }}
                             >
                               DETAILS
@@ -616,8 +606,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="di-hygiene-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/di-hygiene-flooring";
+                                window.location.href = "/di-hygiene-flooring";
                               }}
                             >
                               Hygiene epoxy flooring
@@ -634,8 +623,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="di-hygiene-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/di-hygiene-flooring";
+                                window.location.href = "/di-hygiene-flooring";
                               }}
                             >
                               DETAILS
@@ -662,8 +650,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="quartz-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/quartz-flooring";
+                                window.location.href = "/quartz-flooring";
                               }}
                             >
                               Quartz Flooring
@@ -680,8 +667,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="quartz-flooring"
                               onClick={() => {
-                                window.location.href =
-                                  "/quartz-flooring";
+                                window.location.href = "/quartz-flooring";
                               }}
                             >
                               DETAILS
@@ -708,8 +694,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="di-expanison-joints"
                               onClick={() => {
-                                window.location.href =
-                                  "/di-expanison-joints";
+                                window.location.href = "/di-expanison-joints";
                               }}
                             >
                               Expansion joints work
@@ -726,8 +711,7 @@ class ServiceSlide extends Component {
                               to="#"
                               title="di-expanison-joints"
                               onClick={() => {
-                                window.location.href =
-                                  "/di-expanison-joints";
+                                window.location.href = "/di-expanison-joints";
                               }}
                             >
                               DETAILS

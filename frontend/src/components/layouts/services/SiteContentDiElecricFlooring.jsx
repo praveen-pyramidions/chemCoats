@@ -45,7 +45,7 @@ class SiteContentDiElecricFlooring extends Component {
           <meta name="robots" content="index, follow" />
           <link
             rel="canonical"
-            href="https://www.chemcoats.com/di-electric-flooring"
+            href="https://chemcoats.com/di-electric-flooring"
           />
         </Helmet>
 
@@ -76,11 +76,15 @@ class SiteContentDiElecricFlooring extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Dielectric flooring is designed to provide high electrical
+                    {/* Dielectric flooring is designed to provide high electrical
                     insulation properties, preventing the flow of electric
                     current and minimizing the risk of electrical hazards in
                     environments where electrical conductivity must be
-                    minimized.
+                    minimized. */}
+                    Insulation systems delivered via Dielectric Standards
+                    restrict electrical conductivity and provide protection
+                    against shock hazards in areas where it must be kept to a
+                    minimum.
                   </p>
                 </div>
               </div>
@@ -109,14 +113,23 @@ class SiteContentDiElecricFlooring extends Component {
           <div className="flat-content-wrap style-2 clearfix">
             {/* <h5 className="title">SERVICE CONSULTANT</h5> */}
             <p>
-              Dielectric flooring is designed to insulate against electrical
+              {/* Dielectric flooring is designed to insulate against electrical
               conduction, ensuring safety in areas with electrical equipment.
               Its key features include high electrical resistance, preventing
               the flow of electricity. It also offers durability, with materials
               like rubber or vinyl that resist wear and tear. Dielectric
               flooring is non-conductive, reducing the risk of electric shock.
               Moreover, it is easy to clean and maintain, making it ideal for
-              industrial and electrical environments.
+              industrial and electrical environments.  */}
+              Dielectric flooring provides insulation from electrical
+              conduction-this is done to protect areas with electrical
+              equipment. The salient characteristics are high electrical
+              resistance to current flow, which is further complemented by
+              wear-resistant rubbers or vinyl. Dielectric flooring could bestow
+              top properties upon the floor: Because it is not conductive, a
+              person working on it is safe from the effect of an electric shock.
+              It is easily cleanable and low on maintenance, making it very
+              effective for industrial and electrical work environments.
             </p>
           </div>
           <div
@@ -138,9 +151,10 @@ class SiteContentDiElecricFlooring extends Component {
                   Why Di-electric Flooring for industries?
                 </h5>
                 <p>
-                  Dielectric flooring holds significant importance in various
-                  industries due to its unique properties and benefits. Here are
-                  ten key reasons for its importance, along with explanations:
+                  Dielectric flooring is important and relevant to several
+                  industries because of its unique properties and benefits. With
+                  ten significant reasons listed below, we will briefly explain
+                  why this matter is important along with explanations:
                 </p>
                 <div
                   className="themesflat-spacer clearfix"
@@ -158,11 +172,15 @@ class SiteContentDiElecricFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Electrical Insulation :{" "}
                         </span>
-                        Dielectric flooring is an excellent electrical
+                        {/* Dielectric flooring is an excellent electrical
                         insulator, preventing the flow of electrical current.
                         This property is crucial for safety in areas where
                         electrical equipment or high-voltage machinery is
-                        present.
+                        present. */}
+                        Dielectric flooring is a decent electrical insulator and
+                        does not permit electrical flow. This characteristic is
+                        very important in safety applications exposed to
+                        electrical machinery or heavy voltage instruments.
                       </span>
                     </span>
                   </div>
@@ -178,10 +196,14 @@ class SiteContentDiElecricFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Safety in High-Voltage Environments :{" "}
                         </span>
-                        It provides a protective barrier against electrical
+                        {/* It provides a protective barrier against electrical
                         shocks, making it indispensable in high-voltage testing
                         labs, power generation facilities, and electrical
-                        substations.
+                        substations. */}
+                        The applications of dielectric materials are usually in
+                        barriers to electric shocks; this is most prominent in
+                        high-voltage testing laboratories, electric power
+                        generation settlements, and electrical substitution.
                       </span>
                     </span>
                   </div>
@@ -234,9 +256,11 @@ class SiteContentDiElecricFlooring extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           Durability :{" "}
                         </span>
-                        It is designed to withstand heavy traffic, mechanical
+                        {/* It is designed to withstand heavy traffic, mechanical
                         wear, and exposure to harsh chemicals, ensuring a long
-                        service life.
+                        service life. */}
+                        Ideal for sustained heavy traffic, mechanical wear, and
+                        exposure to chemicals, a long service life is assured.
                       </span>
                     </span>
                   </div>
@@ -253,10 +277,14 @@ class SiteContentDiElecricFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Static Dissipation :{" "}
                       </span>
-                      Dielectric flooring can be engineered to dissipate static
+                      {/* Dielectric flooring can be engineered to dissipate static
                       electricity, reducing the risk of electrostatic discharge
                       (ESD) in sensitive environments such as electronics
-                      manufacturing.
+                      manufacturing. */}
+                      The dielectric floor can be engineered to dissipate any
+                      static electricity from the floor and thus minimize the
+                      risk of Electro Static Discharge in sensitive environments
+                      such as electronics manufacturing.
                     </span>
                   </span>
                 </div>
@@ -272,10 +300,13 @@ class SiteContentDiElecricFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Hygienic Properties :{" "}
                       </span>
-                      In healthcare and pharmaceutical settings, dielectric
+                      {/* In healthcare and pharmaceutical settings, dielectric
                       flooring can be installed seamlessly to maintain a
                       hygienic environment, as it is easy to clean and
-                      disinfect.
+                      disinfect. */}
+                      Spaces such as hospital and pharmacy can have dielectric
+                      flooring laid seamlessly; therefore, it is very easy to
+                      clean and disinfect.
                     </span>
                   </span>
                 </div>
@@ -291,9 +322,13 @@ class SiteContentDiElecricFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Customization :{" "}
                       </span>
-                      Available in various thicknesses and colors, dielectric
+                      {/* Available in various thicknesses and colors, dielectric
                       flooring can be tailored to specific needs, enhancing
-                      design aesthetics in addition to functionality.
+                      design aesthetics in addition to functionality. */}
+                      Available in a variety of shades, dielectric flooring can
+                      be customized with a great many thicknesses with respect
+                      to application, adding to both design and functional
+                      value.
                     </span>
                   </span>
                 </div>
@@ -309,9 +344,11 @@ class SiteContentDiElecricFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Low Maintenance :{" "}
                       </span>
-                      Its resistance to stains and ease of cleaning result in
+                      {/* Its resistance to stains and ease of cleaning result in
                       minimal maintenance requirements, reducing operational
-                      costs.
+                      costs. */}
+                      Stain resistance and ease of cleaning mean their upkeep is
+                      very minimal, thus lower operational costs.
                     </span>
                   </span>
                 </div>
@@ -327,9 +364,13 @@ class SiteContentDiElecricFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Regulatory Compliance :{" "}
                       </span>
-                      Dielectric flooring often meets stringent industry
+                      {/* Dielectric flooring often meets stringent industry
                       standards and regulations, ensuring that facilities
-                      maintain safety and compliance.
+                      maintain safety and compliance. */}
+                      Dielectric flooring usually conforms to stringent
+                      standards put forth by the industry and the various
+                      regulations governing it, so the facilities remain safe
+                      and compliant.
                     </span>
                   </span>
                 </div>

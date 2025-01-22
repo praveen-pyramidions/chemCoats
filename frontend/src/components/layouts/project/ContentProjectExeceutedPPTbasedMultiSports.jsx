@@ -5,16 +5,19 @@ class ContentProjectExeceutedPPTbasedMultiSports extends Component {
   render() {
     return (
       <div className="detail-gallery">
-         <Helmet>
+        <Helmet>
           <title>Chemcoats Project | Executed PPT-Based Multi Sports</title>
           <meta
             name="description"
             content="This innovative flooring solution was designed to provide a durable, high-performance surface that can withstand the demands of various sports activities, ensuring safety and comfort for students."
           />
-         
+
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/executed-ppt-based-multi-sports" />
+          <link
+            rel="canonical"
+            href="https://chemcoats.com/executed-ppt-based-multi-sports"
+          />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

@@ -5,7 +5,7 @@ class ContentProjectMandolez extends Component {
   render() {
     return (
       <div className="detail-gallery">
-         <Helmet>
+        <Helmet>
           <title>Chemcoats Project | Mandolez</title>
           <meta
             name="description"
@@ -13,7 +13,7 @@ class ContentProjectMandolez extends Component {
           />
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://www.chemcoats.com/mandolez" />
+          <link rel="canonical" href="https://chemcoats.com/mandolez" />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"
