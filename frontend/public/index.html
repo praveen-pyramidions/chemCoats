@@ -5,8 +5,11 @@
     <link rel="icon" href="%PUBLIC_URL%/icon/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
-    <meta name="robots" content="index">
-    <meta name="google-site-verification" content="bVvynymcrgDchkd4ZYJ46_VPHyWxfEfe53-aPlie5OE" />
+    <meta name="robots" content="index" />
+    <meta
+      name="google-site-verification"
+      content="bVvynymcrgDchkd4ZYJ46_VPHyWxfEfe53-aPlie5OE"
+    />
     <!-- <meta
       name="description"
       content="Web site created using create-react-app"
@@ -32,7 +35,20 @@
       href="%PUBLIC_URL%/assets/icon/apple-touch-icon-158-precomposed.png"
     />
 
-    <!-- <title>Chemcoats</title> -->
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-YDLL399ZP6"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-YDLL399ZP6");
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
