@@ -71,10 +71,13 @@ class SiteContentExpanisonJoints extends Component {
                   </h1>
                   <div className="sep has-width w80 accent-bg margin-top-20 clearfix" />
                   <p className="sub-heading margin-top-33 line-height-24">
-                    Expansion joints function to accommodate the thermal
+                    {/* Expansion joints function to accommodate the thermal
                     expansion and contraction of materials in a structure,
                     preventing cracks and structural damage caused by
-                    temperature variations.
+                    temperature variations. */}
+                    Expansion joints are used to compensate thermal expansion
+                    and contraction of building materials, avoiding cracks and
+                    damage to the structure from temperature changes.
                   </p>
                 </div>
               </div>
@@ -144,11 +147,16 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Stress Mitigation :
                         </span>{" "}
-                        Expansion joints are critical for managing stress and
+                        {/* Expansion joints are critical for managing stress and
                         strain within structures, especially in large buildings,
                         bridges, and infrastructure subjected to temperature
                         fluctuations. They prevent the accumulation of forces
-                        that could lead to structural damage.
+                        that could lead to structural damage. */}
+                        Expansion joints play an important role in controlling
+                        the stress and strain of structures, particularly in big
+                        structures, bridges and infrastructure, which are
+                        subject to temperature changes. They stop the buildup of
+                        stresses that may lead to structural failure.
                       </span>
                     </span>
                   </div>
@@ -165,10 +173,15 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Preventing Cracking :
                         </span>{" "}
-                        These joints are instrumental in averting cracks that
+                        {/* These joints are instrumental in averting cracks that
                         may develop due to thermal expansion, contraction, and
                         settlement, thereby preserving the structural integrity
-                        of materials like concrete and asphalt.
+                        of materials like concrete and asphalt. */}
+                        These articulations play a key role in preventing
+                        potentially damaging cracks that can arise from thermal
+                        expansion, contracting, and settling and, as such,
+                        protect the integrity of the structure of the material
+                        that they are built from, such as concrete and asphalt.
                       </span>
                     </span>
                   </div>
@@ -185,9 +198,12 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Dimensional Stability :
                         </span>{" "}
-                        They maintain dimensional stability, ensuring that
+                        {/* They maintain dimensional stability, ensuring that
                         structures maintain their intended shape and size
-                        despite variations in temperature and humidity.
+                        despite variations in temperature and humidity. */}
+                        They keep dimensional stability, that planes do not
+                        alter shape and size while temperature and humidity
+                        changes occur.
                       </span>
                     </span>
                   </div>
@@ -204,9 +220,13 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Hygiene :
                         </span>{" "}
-                        Epoxy is easy to clean and maintain, promoting a
+                        {/* Epoxy is easy to clean and maintain, promoting a
                         hygienic working environment, crucial in industries like
-                        pharmaceuticals and food processing.
+                        pharmaceuticals and food processing. */}
+                        Epoxy is very easy to clean and to maintain, thereby
+                        creating a very sanitary working environment, which is
+                        of particular importance in industries such as
+                        pharmaceuticals or in processing food.
                       </span>
                     </span>
                   </div>
@@ -223,6 +243,9 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Maintenance Reduction :
                         </span>{" "}
+                        {/* Properly designed expansion joints minimize maintenance
+                        requirements, reducing the need for costly repairs and
+                        enhancing the longevity of structures. */}
                         Properly designed expansion joints minimize maintenance
                         requirements, reducing the need for costly repairs and
                         enhancing the longevity of structures.
@@ -243,6 +266,9 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Safety Assurance :
                       </span>{" "}
+                      {/* Expansion joints enhance safety by preventing trip hazards
+                      that can result from uneven surfaces and surface
+                      discontinuities. */}
                       Expansion joints enhance safety by preventing trip hazards
                       that can result from uneven surfaces and surface
                       discontinuities.
@@ -262,6 +288,9 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Structural Longevity :
                       </span>{" "}
+                      {/* By reducing the risk of damage, expansion joints help
+                      extend the lifespan of infrastructure, such as buildings,
+                      bridges, and pavements. */}
                       By reducing the risk of damage, expansion joints help
                       extend the lifespan of infrastructure, such as buildings,
                       bridges, and pavements.
@@ -281,6 +310,10 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Seismic Resistance :
                       </span>{" "}
+                      {/* In regions prone to seismic activity, expansion joints
+                      play a crucial role in allowing for controlled movement
+                      during an earthquake, thereby enhancing the seismic
+                      resistance of structures. */}
                       In regions prone to seismic activity, expansion joints
                       play a crucial role in allowing for controlled movement
                       during an earthquake, thereby enhancing the seismic
@@ -301,9 +334,12 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Waterproofing :
                       </span>{" "}
-                      They act as a barrier to water infiltration, preventing
+                      {/* They act as a barrier to water infiltration, preventing
                       moisture from seeping into structures and causing damage
-                      over time.
+                      over time. */}
+                      They are a watertight barrier that prevents capillary
+                      absorption of moisture into buildings and deterioration
+                      with time.
                     </span>
                   </span>
                 </div>
@@ -320,10 +356,13 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Architectural Flexibility :
                       </span>{" "}
-                      Expansion joints allow for architectural flexibility by
+                      {/* Expansion joints allow for architectural flexibility by
                       accommodating the movement of different building
                       components, such as facades, without compromising
-                      structural stability.
+                      structural stability. */}
+                      Expansion joints permit structural flexibility to enable
+                      movement of other structural components, e.g., facades,
+                      without affecting structural integrity.
                     </span>
                   </span>
                 </div>
@@ -340,9 +379,12 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Compliance and Codes :
                       </span>{" "}
-                      They are often mandated by building codes and engineering
+                      {/* They are often mandated by building codes and engineering
                       standards, ensuring that structures meet regulatory
-                      requirements for safety and performance.
+                      requirements for safety and performance. */}
+                      These are frequently mandated by building codes and
+                      engineering practices, guaranteeing structures conform to
+                      regulatory guidelines for safety and performance.
                     </span>
                   </span>
                 </div>
@@ -359,10 +401,15 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Infrastructure Functionality :
                       </span>{" "}
-                      In transportation infrastructure like roads and bridges,
+                      {/* In transportation infrastructure like roads and bridges,
                       expansion joints ensure a smooth and safe ride for
                       vehicles by accommodating the expansion and contraction of
-                      materials due to temperature changes.
+                      materials due to temperature changes. */}
+                      In the infrastructure of transportation, such as roads and
+                      bridges, expansion joints do the right job providing a
+                      confortable and safe driving of vehicles by allowing
+                      materials to expand and contract according to temperature
+                      variations.
                     </span>
                   </span>
                 </div>
@@ -379,10 +426,14 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Noise and Vibration Control :
                       </span>{" "}
-                      In some applications, expansion joints can help control
+                      {/* In some applications, expansion joints can help control
                       noise and vibrations generated by the movement of vehicles
                       or machinery, contributing to a more comfortable
-                      environment
+                      environment */}
+                      In certain applications, expansion joints may be used to
+                      regulate noise and vibration caused by the movement of
+                      vehicles and/or machinery which contribute to a quieter
+                      environment.
                     </span>
                   </span>
                 </div>
@@ -577,12 +628,18 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Building Construction :
                         </span>{" "}
-                        In commercial and residential buildings to prevent
+                        {/* In commercial and residential buildings to prevent
                         cracks in concrete floors, walls, and ceilings. In
                         high-rise buildings to allow for vertical movement
                         caused by wind loads and thermal expansion. In facades
                         to accommodate movement between different building
-                        materials.
+                        materials. */}
+                        For building commercial and residential structures with
+                        the aim of preventing concrete floor, wall, and ceiling
+                        cracks. In high-rise buildings to allow for vertical
+                        movement caused by wind loads and thermal expansion. In
+                        facades to accommodate movement between different
+                        building materials.
                       </span>
                     </span>
                   </div>
@@ -598,9 +655,13 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Bridges and Highways :
                         </span>{" "}
-                        Expansion joints are essential in bridge construction to
+                        {/* Expansion joints are essential in bridge construction to
                         accommodate the expansion and contraction of bridge
-                        components due to temperature changes.
+                        components due to temperature changes. */}
+                        Expansion joints are one of the key components in the
+                        construction of bridges for the purpose of the growth
+                        and shrinking of bridge elements caused by the
+                        temperature variation.
                       </span>
                     </span>
                   </div>
@@ -615,9 +676,13 @@ class SiteContentExpanisonJoints extends Component {
                         <span style={{ fontWeight: "500", color: "#000" }}>
                           {" "}
                         </span>{" "}
-                        They are used in highway construction to create smooth
+                        {/* They are used in highway construction to create smooth
                         transitions between different segments of roadways and
-                        prevent damage from vehicle loads and thermal effects.
+                        prevent damage from vehicle loads and thermal effects. */}
+                        These can also be applied to the highway construction
+                        with the aim of providing smooth continuous transitions
+                        between different road sections and avoidance of damage
+                        due to vehicle traffic and thermal effects.
                       </span>
                     </span>
                   </div>
@@ -633,10 +698,13 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Airport Runways and Taxiways :
                         </span>{" "}
-                        Expansion joints are used in airport pavements to
+                        {/* Expansion joints are used in airport pavements to
                         maintain a smooth and safe surface for aircraft, as well
                         as to prevent damage from the weight and movement of
-                        planes.
+                        planes. */}
+                        Expansion joints are incorporated to airport pavements
+                        so that the surface is smooth and safe for aircraft and
+                        to avoid car damage from airplane weight and movement.
                       </span>
                     </span>
                   </div>
@@ -652,10 +720,14 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Railroad Tracks :
                         </span>{" "}
-                        Expansion joints are employed in railway infrastructure
+                        {/* Expansion joints are employed in railway infrastructure
                         to absorb the expansion and contraction of rails caused
                         by temperature variations, ensuring safe and efficient
-                        train operations.
+                        train operations. */}
+                        Expansion joints are used in railway structures to
+                        accommodate the bending and warping of rails due to
+                        thermal expansion and contraction and guarantee safe and
+                        effective train operation.
                       </span>
                     </span>
                   </div>
@@ -672,9 +744,12 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Parking Structures :
                       </span>{" "}
-                      Expansion joints are used in multi-level parking garages
+                      {/* Expansion joints are used in multi-level parking garages
                       to prevent structural damage and provide a smoother
-                      driving surface for vehicles.
+                      driving surface for vehicles. */}
+                      Expansion joints are incorporated into the multi-story
+                      parking garage to avoid structural damage and to create a
+                      more compliant driving surface for vehicles.
                     </span>
                   </span>
                 </div>
@@ -690,10 +765,15 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Industrial Facilities :
                       </span>{" "}
-                      In manufacturing plants and industrial facilities,
+                      {/* In manufacturing plants and industrial facilities,
                       expansion joints are used to absorb vibrations and
                       movements caused by heavy machinery, as well as to prevent
-                      leaks in piping systems.
+                      leaks in piping systems. */}
+                      In manufacturing plants, as well as in industrial plants,
+                      expansion joints are employed to accommodate vibrations
+                      and to compensate for the travelling of heavy machinery,
+                      in addition to serving a major area of piping systems leak
+                      prevention.
                     </span>
                   </span>
                 </div>
@@ -709,9 +789,13 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Water and Wastewater Treatment Plants :
                       </span>{" "}
-                      Expansion joints are used in the construction of tanks,
+                      {/* Expansion joints are used in the construction of tanks,
                       basins, and pipelines to accommodate the movement of water
-                      and prevent damage from settling and ground shifts.
+                      and prevent damage from settling and ground shifts. */}
+                      Expansion joints are applied to the construction of tanks,
+                      basins and pipes to allow for the expansion and
+                      contraction of water and to prevent damage caused by
+                      settling or ground movement.
                     </span>
                   </span>
                 </div>
@@ -727,9 +811,12 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Marine Structures :
                       </span>{" "}
-                      In docks, piers, and seawalls, expansion joints help
+                      {/* In docks, piers, and seawalls, expansion joints help
                       withstand the dynamic forces of water and tides, ensuring
-                      the longevity of maritime infrastructure.
+                      the longevity of maritime infrastructure. */}
+                      Expansion joints in docks, piers, and seawalls protect
+                      against the dynamic loads of water and tides and thus the
+                      lifespans of maritime structures.
                     </span>
                   </span>
                 </div>
@@ -745,9 +832,12 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Oil and Gas Industry :
                       </span>{" "}
-                      Expansion joints are used in pipelines and refineries to
+                      {/* Expansion joints are used in pipelines and refineries to
                       absorb thermal expansion and contraction, reducing stress
-                      and preventing leaks.
+                      and preventing leaks. */}
+                      Expansion joints are incorporated in pipelines and
+                      refineries to accommodate thermal expansion and
+                      contraction, thus relieving stress and preventing leaks.
                     </span>
                   </span>
                 </div>
@@ -763,9 +853,12 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Commercial Kitchens :
                       </span>{" "}
-                      In restaurants and commercial kitchens, expansion joints
+                      {/* In restaurants and commercial kitchens, expansion joints
                       are used in flooring to withstand heavy equipment and
-                      temperature fluctuations.
+                      temperature fluctuations. */}
+                      Expansion joints are included in the floor of restaurants
+                      and commercial kitchens to resist the impacts of heavy
+                      traffic and temperature changes.
                     </span>
                   </span>
                 </div>
@@ -782,8 +875,11 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Sports Stadiums :
                       </span>{" "}
-                      Expansion joints are installed in stadium seating areas to
-                      accommodate movement and ensure spectator safety.
+                      {/* Expansion joints are installed in stadium seating areas to
+                      accommodate movement and ensure spectator safety. */}
+                      Expansion joints are fitted in seating areas of the
+                      stadium to allow for movement and to have a spectator
+                      safety.
                     </span>
                   </span>
                 </div>
@@ -800,9 +896,12 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Public Transportation :
                       </span>{" "}
-                      In subway and light rail systems, expansion joints allow
+                      {/* In subway and light rail systems, expansion joints allow
                       for movement in tunnels and rail tracks to prevent
-                      structural damage.
+                      structural damage. */}
+                      Expansion joints in subway and light rail systems
+                      accommodate expansion in tunnels and rail tracks to
+                      prevent the damage of structures.
                     </span>
                   </span>
                 </div>
@@ -819,9 +918,11 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Tunnels :
                       </span>{" "}
-                      Expansion joints are used in tunnels to accommodate
+                      {/* Expansion joints are used in tunnels to accommodate
                       movement caused by temperature changes and ground
-                      settlement.
+                      settlement. */}
+                      Expansion joints are inserted in tunnel in order to leave
+                      space for thermal expansion and/or settling of the ground.
                     </span>
                   </span>
                 </div>
@@ -837,10 +938,14 @@ class SiteContentExpanisonJoints extends Component {
                         {" "}
                         Energy Generation Facilities :
                       </span>{" "}
-                      In power plants and energy generation facilities,
+                      {/* In power plants and energy generation facilities,
                       expansion joints are used in equipment such as boilers,
                       chimneys, and exhaust systems to withstand thermal
-                      fluctuations.
+                      fluctuations. */}
+                      Expansion joints on equipment (such as boilers and
+                      chimneys and exhaust systems) in power plants and energy
+                      generating plants, due to thermal fluctuations, are
+                      accommodated in the form of expansion joints.
                     </span>
                   </span>
                 </div>
