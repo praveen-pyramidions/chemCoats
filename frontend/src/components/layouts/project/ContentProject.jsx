@@ -143,7 +143,7 @@ class ContentProject extends Component {
           <h5 className="title">PROJECT DESCRIPTION</h5>
           <div className="sep has-width w60 accent-bg margin-top-18 clearfix" />
           <p className="margin-top-28">
-            The installation of ESD protection systems, including anti-static
+            {/* The installation of ESD protection systems, including anti-static
             tiles and advanced raised access flooring, has been successfully
             completed for a software company located in Techno Park, Trivandrum.
             This upgrade not only ensures the highest standards of safety by
@@ -151,17 +151,35 @@ class ContentProject extends Component {
             discharge but also supports flexible infrastructure management. The
             anti-static tiles provide an additional layer of protection, crucial
             in environments where delicate technology and data are handled
-            daily.
+            daily. */}
+            The installation of ESD protection systems, including anti-static
+            tiles and high performance raised access flooring has been
+            accomplished successfully in a software company based in Techno
+            Park, Trivandrum. Moreover, this update, in addition to ensuring the
+            best possible safety (so that extremely sensitive electronic devices
+            are afforded electrostatic discharge protection), also makes it
+            possible to do flexible infrastructure management. Antistatic tiles
+            which provide an additional layer of protection, which is of great
+            significance in daily life in the case of handling high sensitive
+            technology and data.
           </p>
           <p>
-            The raised flooring solution enhances the workspace's adaptability,
+            {/* The raised flooring solution enhances the workspace's adaptability,
             allowing easy access for cable management, electrical wiring, and
             HVAC systems beneath the surface. This modern flooring setup
             contributes to a clean, professional aesthetic and aligns with the
             company's goal of maintaining an efficient and secure working
             environment. With this installation, the facility is now better
             equipped to support its advanced technological operations while
-            providing a safe and productive setting for employees.
+            providing a safe and productive setting for employees. */}
+            The solution can enhance the workspace floor's workability to easily
+            access it for cable management, for electrical wiring and HVAC
+            installation under the floor surface. This contemporary flooring
+            configuration helps produce a neat, formal look and feels in line
+            with the company's mission of running a clean, efficient and safe
+            workplace. With this installation the site is now better able to
+            accommodate its high tech operations and present a safe and
+            productive working environment for the employees.
           </p>
         </div>
       </div>

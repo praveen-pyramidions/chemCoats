@@ -44,13 +44,20 @@ class Home01 extends Component {
           id: 1,
           classnames: "heading",
           // title: "Best Epoxy Floor Coating in Chennai",
-          text: "ChemCoats is the foremost provider of epoxy flooring and professional flooring solutions for a wide range of industries in South India.",
+          // text: "ChemCoats is the foremost provider of epoxy flooring and professional flooring solutions for a wide range of industries in South India.",
+          // text2:
+          //   "Our team of experts boasts extensive experience in managing projects of all sizes, recognizing that each industry possesses unique characteristics. This understanding drives us to provide a wide array of epoxy flooring options.",
+          // text3:
+          //   "In summary, ChemCoats is your all-encompassing solution for enhancing your concrete flooring. With a proven history of excellence, an unwavering commitment to quality, and a comprehensive range of services, we are the ultimate choice for meeting your industrial flooring needs.",
+          // text1:
+          //   "With Over 17 years of experience in industrial epoxy flooring, we offer a comprehensive platform to address concrete flooring challenges, offering solutions such as Epoxy Flooring, Epoxy Coating, PU Flooring, PU Coating, Epoxy Floor Coating, ESD Flooring, Anti-static Epoxy Flooring, Dielectric Flooring, Heavy-Duty Epoxy Flooring, Self-Leveling Epoxy Flooring, Sports Flooring, Hygiene Flooring, Cleanroom Flooring, and Expansion Joint Filling Treatments. Our dedication lies in providing top-tier customer service and delivering products of the highest quality, backed by dependable technical support.",
+          text: "ChemCoats is the market leader in South India for providing epoxy flooring as well as other professional flooring solutions to a diversified industry.",
           text2:
-            "Our team of experts boasts extensive experience in managing projects of all sizes, recognizing that each industry possesses unique characteristics. This understanding drives us to provide a wide array of epoxy flooring options.",
+            "Our staff is very experienced in the handling of any project, small or large, because each industry is different, and that makes us work towards a comprehensive epoxy flooring solution.",
           text3:
-            "In summary, ChemCoats is your all-encompassing solution for enhancing your concrete flooring. With a proven history of excellence, an unwavering commitment to quality, and a comprehensive range of services, we are the ultimate choice for meeting your industrial flooring needs.",
+            "In a nutshell, ChemCoats is your one-stop shop for improving your concrete flooring. Having an excellent history of success, uncompromising commitment to quality, and wide-ranging services, we are the final solution for fulfilling your industrial flooring needs.",
           text1:
-            "With Over 17 years of experience in industrial epoxy flooring, we offer a comprehensive platform to address concrete flooring challenges, offering solutions such as Epoxy Flooring, Epoxy Coating, PU Flooring, PU Coating, Epoxy Floor Coating, ESD Flooring, Anti-static Epoxy Flooring, Dielectric Flooring, Heavy-Duty Epoxy Flooring, Self-Leveling Epoxy Flooring, Sports Flooring, Hygiene Flooring, Cleanroom Flooring, and Expansion Joint Filling Treatments. Our dedication lies in providing top-tier customer service and delivering products of the highest quality, backed by dependable technical support.",
+            "With more than 17 years of experience in industrial epoxy flooring, we provide an extensive platform to solve concrete flooring problems, and our solutions include Epoxy Flooring, Epoxy Coating, PU Flooring, PU Coating, Epoxy Floor Coating, ESD Flooring, Anti-static Epoxy Flooring, Dielectric Flooring, Heavy-Duty Epoxy Flooring, Self-Leveling Epoxy Flooring, Sports Flooring, Hygiene Flooring, Cleanroom Flooring, and Expansion Joint Filling Treatments. We focus on giving excellent customer service and products that are of high quality with good technical support.",
 
           classtext: "sub-heading",
         },

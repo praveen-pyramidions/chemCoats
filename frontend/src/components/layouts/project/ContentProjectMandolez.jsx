@@ -109,17 +109,26 @@ class ContentProjectMandolez extends Component {
           <h5 className="title">PROJECT DESCRIPTION</h5>
           <div className="sep has-width w60 accent-bg margin-top-18 clearfix" />
           <p className="margin-top-28">
-            The Cadbury manufacturing plant in Sri City faced a critical safety
+            {/* The Cadbury manufacturing plant in Sri City faced a critical safety
             concern related to the risk of electrical shocks near high-voltage
             electrical panels, which posed a significant danger to passing work
             crews. To mitigate this hazard and ensure a safe working
             environment, the plant required an effective solution that would
             both prevent electrical shocks and comply with stringent safety
             standards. In response to this urgent need, we acted swiftly to
-            implement a solution that would meet the highest safety standards.
+            implement a solution that would meet the highest safety standards. */}
+            The Cadbury production unit plant in Sri City raised the greatest
+            safety issue in terms of the risk of electrical shocks around
+            high-voltage electrical panels, which represented a serious risk to
+            any work crew walking past them. To avoid this risk and ensure a
+            safe work environment plant required a workable solution that would
+            not only eliminate electroshock sources but also comply with the
+            strictest safety standards. Together with this urgent necessity, we
+            acted immediately to implement a solution that would adhere to the
+            most stringent safety requirements.
           </p>
           <p>
-            Within a short timeframe, our team successfully addressed the
+            {/* Within a short timeframe, our team successfully addressed the
             concern by applying dielectric coatings specifically designed to
             provide electrical insulation and prevent contact with live
             electrical components. The coatings we applied were fully compliant
@@ -127,15 +136,30 @@ class ContentProjectMandolez extends Component {
             specifications for electrical safety in industrial environments.
             This dielectric coating not only enhanced safety by preventing
             accidental electrical contact but also contributed to maintaining
-            the integrity of the plant's electrical systems.
+            the integrity of the plant's electrical systems. */}
+            Over a brief period of time our team successfully resolved the issue
+            by the use of dielectric coatings, designed to act as electrical
+            insulators and to ensure the isolation from live electrical parts.
+            The coatings that we deposited were in accordance with ISO 15652
+            standard, in order to meet the required electrical safety
+            regulations in an industrial environment. Not only did this
+            electrical dielectric coating provide enhanced safety by preventing
+            spurious electrical shunting, it also aided in maintaining the
+            health/integrity of plant power systems.
           </p>
           <p>
-            The quick turnaround and effective solution allowed the plant to
+            {/* The quick turnaround and effective solution allowed the plant to
             continue operations without compromising the safety of their
             workers. By addressing this critical safety issue with precision and
             adherence to industry standards, we helped ensure a secure and
             compliant working environment for all personnel at the Cadbury
-            manufacturing plant in Sri City.
+            manufacturing plant in Sri City. */}
+            The short turnaround and successful solution to the problem enabled
+            the plant to keep running safely that is to say without endangering
+            the workers' health. This critical safety problem we addressed,
+            carefully, and in accordance with industry standards, allowed us to
+            create a secure and compliant working environment for all plant
+            staff at the Cadbury manufacturing plant in Sri City.
           </p>
         </div>
       </div>

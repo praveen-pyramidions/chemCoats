@@ -28,7 +28,7 @@ class Overview extends Component {
         },
         {
           id: 2,
-          text: "We are dedicated to providing high-quality Industrial Flooring and Protective Coating solutions that meet the precise needs of every client. With a decade of industry experience, we focus on delivering personalized service, technical expertise, and tailored solutions that guarantee performance.",
+          text: "We are committed to delivering top-quality Industrial Flooring Protective coating solutions tailored to the exact requirements of every customer. Having operational expertise in the field for a decade we aim to provide customers with a personal touch service, technical knowledge and custom solutions to ensure they always perform well.",
           item: [
             {
               idx: 1,

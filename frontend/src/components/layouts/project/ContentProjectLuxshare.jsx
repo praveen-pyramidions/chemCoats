@@ -142,23 +142,39 @@ class ContentProjectLuxshare extends Component {
           <h5 className="title">PROJECT DESCRIPTION</h5>
           <div className="sep has-width w60 accent-bg margin-top-18 clearfix" />
           <p className="margin-top-28">
-            The manufacturer of Apple Watches recently began construction on
+            {/* The manufacturer of Apple Watches recently began construction on
             their new facility in Chennai, where the need for a server room to
             facilitate seamless data transfer became a priority. Given the
             urgency of the requirement, we were tasked with delivering the
             solution within a very tight timeframe. Despite facing challenges
             such as critical contours and undulations in the existing floor, our
             team worked efficiently and meticulously, completing the server room
-            flooring installation within the promised 24-hour window.
+            flooring installation within the promised 24-hour window. */}
+            Recently, a server room facility for the maker of Apple Watch (i.e.
+            there is not yet a facility for the seamless transfer of data (ie,
+            the absence of which is a central problem). Due to a demand, we were
+            forced to hand over the solution in a very short time frame.
+            Notwithstanding the situation of critical contours and undulations
+            of the floor floor, our group has been meticulously and intensely
+            effort to make the server room floor installation end within the
+            target regulation time of 24hr.
           </p>
           <p>
-            By leveraging advanced floor leveling techniques and specialized
+            {/* By leveraging advanced floor leveling techniques and specialized
             materials, we ensured that the server room met the required
             standards for both electrostatic discharge (ESD) protection and
             operational efficiency. The successful execution of this project not
             only demonstrated our ability to meet demanding deadlines but also
             reinforced our commitment to overcoming complex challenges in order
-            to deliver high-quality results.
+            to deliver high-quality results. */}
+            Using the state of the art, floor leveling technique and special
+            materials, we confirmed that the server room facility complied with
+            the appropriate electrode protection equipment and operational
+            effectiveness standards. Successful completion of that work not only
+            asserted our right to to perform effective work in challenging,
+            stressful conditions, but also demonstrated to our employers our
+            commitment to performing with resilience and under pressure, and to
+            deliver the highest possible standard of work.
           </p>
         </div>
       </div>

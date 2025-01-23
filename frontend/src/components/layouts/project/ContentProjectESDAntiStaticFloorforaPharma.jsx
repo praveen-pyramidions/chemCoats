@@ -113,7 +113,7 @@ class ContentProjectESDAntiStaticFloorforaPharma extends Component {
           <h5 className="title">PROJECT DESCRIPTION</h5>
           <div className="sep has-width w60 accent-bg margin-top-18 clearfix" />
           <p className="margin-top-28">
-            An ESD (Electrostatic Discharge) anti-static floor is designed to
+            {/* An ESD (Electrostatic Discharge) anti-static floor is designed to
             control the buildup and discharge of static electricity, protecting
             sensitive electronic equipment and preventing costly damage in
             environments like electronics manufacturing, clean rooms, and
@@ -126,10 +126,26 @@ class ContentProjectESDAntiStaticFloorforaPharma extends Component {
             essential, such as assembly lines or server rooms. ESD rubber
             flooring, on the other hand, is made from rubber compounds mixed
             with conductive materials, offering excellent slip resistance,
-            comfort underfoot, and durability
+            comfort underfoot, and durability */}
+            An ESD (Electrostatic Discharge) anti-static floor is employed to
+            limit static accumulation (static build-up) and electrostatics
+            discharge (static discharge across working, handled, and exposed
+            areas) of sensitive electronic devices, which in turn safeguards
+            electronic devices and stops costly destructions in areas like
+            electronics production, clean rooms, and laboratories. Floors are
+            made from a series of materials, each of which has its own
+            properties which give them respective advantages in respect of the
+            work space’s needs. ESD vinyl flooring is one of the most common,
+            i.e., with conductive elements it consists of vinyl. It provides a
+            smooth, nonporous, wear-resistant, and easy-to-maintain surface,
+            which is a promising option for applications where continuous
+            required conductivity is needed, such as assembly lines or server
+            rooms. ESD rubber flooring, however, is just rubber compounds
+            impregnated with conductive fillers, and provides the best slip
+            resistance, comfort, as well as durability.
           </p>
           <p>
-            This type of flooring is often used in environments where workers
+            {/* This type of flooring is often used in environments where workers
             stand for long periods or in areas where slip resistance is crucial.
             For those seeking a seamless and highly durable solution, ESD epoxy
             flooring is a popular choice. It consists of a self-leveling epoxy
@@ -141,7 +157,21 @@ class ContentProjectESDAntiStaticFloorforaPharma extends Component {
             environment. Lastly, conductive carpet tiles offer an aesthetic,
             comfortable solution for offices or less industrial settings, where
             a softer walking surface is desired but static control is still
-            important.
+            important. */}
+            Such floorings are routinely used in the situations where the
+            employees are in statuesque position for prolonged periods or where
+            skid resistance is also required. ESD epoxy flooring is a nice
+            solution to those who want a wide and durable construction. Its
+            construction is based on a self-levelling epoxy resin providing a
+            hard, wear-resistant surface suitable for such cutting-edge
+            technologies as clean rooms and laboratories. Electrostatic
+            discharge (ESD) tile flooring (e.g., vinyl or ceramic tiles) provide
+            a plug-and-play option for ESD protection in that, porous tiles,
+            which can get damaged, can be simply replaced without ruining the
+            anti-static field. Second, conductive carpeting tiles offers a
+            visually appealing, comfortable alternative for the office or
+            industrial settings in which a more cushioned surface is desired
+            while static control is required.
           </p>
         </div>
       </div>

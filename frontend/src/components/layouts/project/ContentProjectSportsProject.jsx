@@ -109,7 +109,7 @@ class ContentProjectSportsProject extends Component {
           <h5 className="title">PROJECT DESCRIPTION</h5>
           <div className="sep has-width w60 accent-bg margin-top-18 clearfix" />
           <p className="margin-top-28">
-            A basketball court was required within an exceptionally tight
+            {/* A basketball court was required within an exceptionally tight
             deadline of four or five days to be ready for the opening ceremony
             by the Minister. Despite the time constraints, we successfully
             completed the project in just four days, ensuring the court was
@@ -119,7 +119,18 @@ class ContentProjectSportsProject extends Component {
             Our team worked around the clock to ensure all aspects of the
             project, from surface preparation to final installation, were
             executed with precision and quality, allowing the opening ceremony
-            to proceed as planned without any delays.
+            to proceed as planned without any delays. */}
+            Due to a short deadline of 4 or 5 days, a basketball court needed to
+            be installed for the opening ceremony by the Minister [JCBedlori,
+            2018]. In the limited timeframe, we managed to finish the project in
+            only four days, while the court was active and the visual impact was
+            maintained for the event. This hustle work involved purchases of the
+            materials from Mumbai and delivery of the materials to the site as
+            soon as possible. Our group,working 24/7,managed to accomplish all
+            steps involved in the project, from surface preparation to the most
+            recent installation in the design, all of them being performed
+            perfectly and with quality,so that the opening ceremony could go by
+            without stress and without interruptions.
           </p>
         </div>
       </div>

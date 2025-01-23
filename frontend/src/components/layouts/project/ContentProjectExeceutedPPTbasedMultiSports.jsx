@@ -113,7 +113,7 @@ class ContentProjectExeceutedPPTbasedMultiSports extends Component {
           <h5 className="title">PROJECT DESCRIPTION</h5>
           <div className="sep has-width w60 accent-bg margin-top-18 clearfix" />
           <p className="margin-top-28">
-            We successfully executed a PPT-based multi-sports court for a
+            {/* We successfully executed a PPT-based multi-sports court for a
             leading school, catering to both indoor and outdoor sporting needs.
             This innovative flooring solution was designed to provide a durable,
             high-performance surface that can withstand the demands of various
@@ -121,7 +121,17 @@ class ContentProjectExeceutedPPTbasedMultiSports extends Component {
             project involved meticulous planning and execution to create a
             versatile court that supports multiple sports, enhancing the
             school's facilities and fostering a well-rounded athletic
-            environment.
+            environment. */}
+            We successfully implemented an indoor-outdoor multi-sports court
+            using a PowerPoint presentation (PPT)-based system for a prestigious
+            institution that serves a variety of indoor and outdoor sports
+            needs. This cutting-edge flooring was engineered with a hard,
+            high-performance surface capable of withstanding the stresses of
+            different types of sports activities, thereby providing safety and
+            comfort to students. Planning and carrying out the project has been
+            careful attentional to ensure a multisport versatile court, which
+            adds school infrastructure and offers a rounded approach to sports
+            participation.
           </p>
         </div>
       </div>

@@ -9,19 +9,20 @@ class Faq extends Component {
           id: 1,
           classname: "accordion-item active",
           heading: "What is ESD flooring, and how does it work?",
-          text: "ESD flooring is designed to prevent the buildup of static electricity by providing a controlled pathway for electrical charges to dissipate safely to the ground. This is achieved through conductive veins, filaments, or fibers within the flooring material that draw static electricity away from people or objects as they move across the floor, protecting sensitive electronic equipment from electrostatic discharge events.",
+          text: "ESD flooring is provided as a controlled pathway for electrical charges to move safely to ground, thus preventing accumulation of static electricity. This is done by conductive capillaries, filaments, or fibers in the flooring material that collect static electricity from people or objects as they walk on the floor surface and safely prevents electrostatic discharge events to occur on sensitive electronic devices.",
         },
         {
           id: 2,
           classname: "accordion-item",
           heading: "Does ESD flooring require special maintenance?",
-          text: "Yes, proper maintenance is essential to ensure the effectiveness of ESD flooring. Regular cleaning with appropriate products is necessary to maintain its conductive properties. For instance, StaticSmart® ESD vinyl tile does not require wax or polish but should be cleaned following the manufacturer's guidelines. Similarly, ESD carpet tiles have specific cleaning instructions to preserve their static control capabilities.",
+          text: "Indeed, maintenance according to proper ESD flooring procedures is very important for achieving a successful ESD flooring system. However, regular cleaning with suitable material is required in order to preserve its conductive capacity. For example, StaticSmart® ESD vinyl floor tile does not require wax or polish, but should be cleaned in accordance with the manufacturer's instructions. In the same way, ESD carpet tiles have particular cleaning instructions in order to maintain static control properties.",
         },
         {
           id: 3,
           classname: "accordion-item",
-          heading: "What industries or environments benefit the most from ESD flooring?",
-          text: "ESD flooring is crucial in industries where static electricity can damage sensitive equipment or components. These include electronics manufacturing, data centers, pharmaceutical labs, cleanrooms, and aerospace facilities. It is also commonly used in healthcare settings like operating rooms, where static control is critical for patient safety and equipment functionality.",
+          heading:
+            "What industries or environments benefit the most from ESD flooring?",
+          text: "ESD flooring is very important in the fields in which electric shock can be responsible for damaging delicate equipment or components. They comprise electronics manufacturing, data centers, pharmaceutical laboratories, cleanrooms and, aerospace facilities. There is a further wide adoption in the field of healthcare, such as operating rooms, where the static control plays the main role for the patient safety and the appliance functionality.",
         },
       ],
     };

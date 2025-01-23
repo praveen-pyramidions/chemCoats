@@ -109,7 +109,7 @@ class ContentProjectSyrmaSGS extends Component {
           <h5 className="title">PROJECT DESCRIPTION</h5>
           <div className="sep has-width w60 accent-bg margin-top-18 clearfix" />
           <p className="margin-top-28">
-            Syrma SGS, a prominent motherboard and electronics manufacturing
+            {/* Syrma SGS, a prominent motherboard and electronics manufacturing
             company, required a specialized ESD (Electrostatic Discharge)
             flooring solution that could provide a highly controlled environment
             to prevent static build-up, which could potentially damage sensitive
@@ -118,20 +118,39 @@ class ContentProjectSyrmaSGS extends Component {
             solution that would adhere precisely to the most stringent industry
             standards, including IEC 61340 and ANSI 2020 standards, which are
             internationally recognized for their effectiveness in managing
-            electrostatic discharge in electronic manufacturing environments.
+            electrostatic discharge in electronic manufacturing environments. */}
+            Syrma SGS, a leading motherboard and electronics manufacturing
+            company, needed an advanced static-discharge (ESD) flooring solution
+            that would allow precise control of the ESD environment to avoid
+            electrostatic discharge (ESD), which could lead to damage of
+            electronic components under production. In order to verify the
+            reliability of their advanced manufacturing processes, Syrma SGS
+            purchased a flooring solution that would conform to the most
+            exacting industry standards (including IEC 61340 and ANSI 2020
+            standards, which are the most recognized internationally for
+            mitigating electrostatic discharge in the electronic manufacturing
+            environment).
           </p>
           <p>
-            Understanding the critical nature of this requirement, our team
+            {/* Understanding the critical nature of this requirement, our team
             worked closely with Syrma SGS to design and implement an ESD
             flooring system that met all necessary specifications for
             conductivity, durability, and safety. The flooring solution we
             provided was not only compliant with IEC 61340 (which governs the
             requirements for ESD control in sensitive electronic environments)
             but also met the latest ANSI 2020 standards, ensuring it was up to
-            date with the latest industry practices.
+            date with the latest industry practices. */}
+            Recognizing the critical importance of this requirement, we, a team,
+            partnered closely with Syrma SGS to develop and install an ESD
+            flooring platform, and all its pertinent specifications, i.e.,
+            conductivity, durability, and safety. The flooring solution that we
+            offered was not just in accordance with IEC 61340 (defining the
+            principles of ESD control in sensitive electronic environment) but
+            also in line with the new ANSI 2020 requirements, keeping it up to
+            date with the recent industry standard.
           </p>
           <p>
-            By providing this highly controlled static current floor, we ensured
+            {/* By providing this highly controlled static current floor, we ensured
             that Syrma SGS could maintain a safe and efficient manufacturing
             process for their sensitive electronic components, eliminating the
             risk of electrostatic discharge damage. The successful
@@ -139,7 +158,16 @@ class ContentProjectSyrmaSGS extends Component {
             deliver custom, high-performance solutions that meet the most
             exacting standards in the electronics industry, ensuring compliance
             with industrial safety requirements while enhancing the overall
-            operational efficiency of the facility.
+            operational efficiency of the facility. */}
+            In doing so, we provided this extremely controlled static current
+            floor and thereby allowed Syrma SGS to produce safe and effective
+            manufacturing process for their delicate electronic items without
+            electrostatic discharge damage. The successful deployment of this
+            floor covering solution illustrated our capability to provide
+            tailored, high-performance solutions which conform to the highest
+            standards in the industry of electronics, ensuring industrial safety
+            compliance and improving the overall facility operational
+            effectiveness.
           </p>
         </div>
       </div>

@@ -143,17 +143,25 @@ class ContentProjectFlex extends Component {
           <h5 className="title">PROJECT DESCRIPTION</h5>
           <div className="sep has-width w60 accent-bg margin-top-18 clearfix" />
           <p className="margin-top-28">
-            In the FLEX – INTEL Project, we were tasked with providing an
+            {/* In the FLEX – INTEL Project, we were tasked with providing an
             Anti-Static Flooring solution that would meet the highest industry
             standards, ensuring a controlled environment for the sensitive
             electronics and semiconductor components being manufactured.
             Understanding the critical nature of electrostatic discharge (ESD)
             in these environments, we meticulously designed and implemented a
             flooring system that would provide effective static control while
-            maintaining long-term durability and performance.
+            maintaining long-term durability and performance. */}
+            During the FLEX-INTEL Project, we were tasked with designing the
+            Anti-Static Flooring that would top the industry with a safe
+            environment for the flammable electronic and semiconductor devices
+            that are supposed to be produced. Based on the knowledge that static
+            discharge (ESD) is a major factor in these environments, we
+            deliberately designed and delivered a flooring strategy that would
+            provide good static control while being long-term robust and
+            functional.
           </p>
           <p>
-            Our commitment to quality was central to the success of the project,
+            {/* Our commitment to quality was central to the success of the project,
             and it was reinforced by a rigorous quality control process
             throughout every stage of the project. From initial planning and
             material selection to installation and final inspection, we adhered
@@ -163,17 +171,36 @@ class ContentProjectFlex extends Component {
             incorporated third-party tests at each phase of the process,
             verifying that the product met or exceeded the required
             conductivity, durability, and safety standards for ESD-sensitive
-            environments.
+            environments. */}
+            Quality was at the core of the success of the project and
+            subsequently sustained by a strong quality gate principle, which was
+            applied to every single stage of the project. Conceptually from the
+            outset and in terms of material selection throughout to the final
+            check process, we strictly followed procedures to guarantee that the
+            flooring would meet the requirements of the facility in question. To
+            assure the performance and compliance of the floor system with
+            industry standards, we funded third-party testing at each step of
+            the procedure, to verify that the product met or exceeded the
+            required conductivity, durability, and safety properties in order to
+            be applied to ESD-prone environments.
           </p>
           <p>
-            This comprehensive approach ensured that the Anti-Static Flooring
+            {/* This comprehensive approach ensured that the Anti-Static Flooring
             solution was not only highly effective but also reliable and
             compliant with the demanding requirements of the FLEX – INTEL
             Project. By adhering to the highest quality standards and involving
             independent testing at every stage, we were able to deliver a
             solution that ensured optimal performance, minimized the risk of
             static-related damage, and contributed to the overall efficiency and
-            safety of the facility.
+            safety of the facility. */}
+            This one-stop-shop concept confirmed that both powerful,
+            easy-to-apply and durable, adhesive Anti-Static Flooring solution is
+            also compliant with the demanding criteria of the FLEX INTEL
+            Project. By strictly adhering to the best in class quality standards
+            and independent testing across the pipeline, we were able to present
+            a solution able to achieve maximum performance, while reducing
+            static-induced degradation risk while simultaneously supporting
+            broader facility efficiency and safety.
           </p>
         </div>
       </div>
