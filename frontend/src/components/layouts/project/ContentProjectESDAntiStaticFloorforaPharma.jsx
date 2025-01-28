@@ -14,10 +14,10 @@ class ContentProjectESDAntiStaticFloorforaPharma extends Component {
 
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link
+          {/* <link
             rel="canonical"
             href="https://chemcoats.com/esd-antistatic-floor-fora-pharma"
-          />
+          /> */}
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

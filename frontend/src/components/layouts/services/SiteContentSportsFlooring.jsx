@@ -43,7 +43,7 @@ class SiteContentSportsFlooring extends Component {
           />
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://chemcoats.com/sports-flooring" />
+          {/* <link rel="canonical" href="https://chemcoats.com/sports-flooring" /> */}
         </Helmet>
 
         <div id="inner-content" className="inner-content-wrap">

@@ -14,7 +14,7 @@ class ContentProjectFlex extends Component {
 
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://chemcoats.com/flex" />
+          {/* <link rel="canonical" href="https://chemcoats.com/flex" /> */}
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

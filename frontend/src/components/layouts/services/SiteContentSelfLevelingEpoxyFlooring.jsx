@@ -45,10 +45,10 @@ class SiteContentSelfLevelingEpoxyFlooring extends Component {
           />
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link
+          {/* <link
             rel="canonical"
             href="https://chemcoats.com/di-self-leveling-epoxy-flooring"
-          />
+          /> */}
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">
           <div

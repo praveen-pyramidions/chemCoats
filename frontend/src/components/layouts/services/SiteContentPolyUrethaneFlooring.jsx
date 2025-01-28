@@ -43,10 +43,10 @@ class SiteContentPolyUrethaneFlooring extends Component {
           />
           <meta name="author" content="Chem Coats" />
           <meta name="robots" content="index, follow" />
-          <link
+          {/* <link
             rel="canonical"
             href="https://chemcoats.com/polyurethane-flooring"
-          />
+          /> */}
         </Helmet>
 
         <div id="inner-content" className="inner-content-wrap">

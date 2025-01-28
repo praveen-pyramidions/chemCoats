@@ -68,7 +68,7 @@ class AboutUs extends Component {
             name="keywords"
             content="Industrial Flooring, Protective Coatings, ESD Flooring, Project Completion, Quality Workmanship, Safety Procedures"
           />
-          <link rel="canonical" href=" https://chemcoats.com/about-us" />
+          {/* <link rel="canonical" href=" https://chemcoats.com/about-us" /> */}
           <meta name="robots" content="index, follow" />
           {/* <meta property="og:title" content="About Us - Your Company Name" />
           <meta

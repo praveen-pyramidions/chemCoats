@@ -13,10 +13,10 @@ class ContentProjectAadhiTapeSolutions extends Component {
           />
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link
+          {/* <link
             rel="canonical"
             href=" https://chemcoats.com/aadhitapesolutions"
-          />
+          /> */}
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

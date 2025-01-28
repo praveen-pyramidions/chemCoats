@@ -43,7 +43,7 @@ class SiteContentAccessFloors extends Component {
           />
           <meta name="author" content="Chem Coats" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://chemcoats.com/access-floors" />
+          {/* <link rel="canonical" href="https://chemcoats.com/access-floors" /> */}
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">
           <div
