@@ -103,7 +103,7 @@ class Home01 extends Component {
 
           <meta name="author" content="Chemcoats" />
           <meta name="robots" content="index, follow" />
-          {/* <link rel="canonical" href="https://chemcoats.com/" /> */}
+          <link rel="canonical" href="https://www.chemcoats.com/" />
         </Helmet>
         <div id="wrapper" className="animsition">
           <div id="page" className="clearfix">

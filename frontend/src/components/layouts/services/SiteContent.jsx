@@ -48,7 +48,10 @@ class SiteContent extends Component {
           />
           <meta name="author" content="Chem Coats" />
           <meta name="robots" content="index, follow" />
-          {/* <link rel="canonical" href="https://chemcoats.com/epoxy-flooring" /> */}
+          <link
+            rel="canonical"
+            href="https://www.chemcoats.com/epoxy-flooring"
+          />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">
           <div

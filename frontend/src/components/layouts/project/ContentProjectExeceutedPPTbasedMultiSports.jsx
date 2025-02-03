@@ -14,10 +14,10 @@ class ContentProjectExeceutedPPTbasedMultiSports extends Component {
 
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          {/* <link
+          <link
             rel="canonical"
-            href="https://chemcoats.com/executed-ppt-based-multi-sports"
-          /> */}
+            href="https://www.chemcoats.com/executed-ppt-based-multi-sports"
+          />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

@@ -122,7 +122,10 @@ class TabProject extends Component {
                 />
                 <meta name="author" content="Your Company Name" />
                 <meta name="robots" content="index, follow" />
-                <link rel="canonical" href="https://chemcoats.com/project" />
+                <link
+                  rel="canonical"
+                  href="https://www.chemcoats.com/project"
+                />
               </Helmet>
               <div className="thumb data-effect-item has-effect-icon w40 offset-v-19 offset-h-49">
                 <img

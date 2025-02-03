@@ -14,7 +14,7 @@ class ContentProjectFoxcon extends Component {
 
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          {/* <link rel="canonical" href="https://chemcoats.com/foxcon" /> */}
+          <link rel="canonical" href="https://www.chemcoats.com/foxcon" />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"

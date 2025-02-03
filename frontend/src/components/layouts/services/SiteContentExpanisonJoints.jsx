@@ -38,10 +38,10 @@ class SiteContentExpanisonJoints extends Component {
             content="Expansion Joints are critical components designed to accommodate movement and prevent damage in concrete and flooring systems. Ideal for bridges, highways, and industrial floors, they ensure durability and flexibility by allowing for thermal expansion and contraction."
           />
           <meta name="author" content="Chem Coats" />
-          {/* <link
+          <link
             rel="canonical"
-            href="https://chemcoats.com/di-expanison-joints"
-          /> */}
+            href="https://www.chemcoats.com/di-expanison-joints"
+          />
           <meta name="robots" content="index, follow" />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">

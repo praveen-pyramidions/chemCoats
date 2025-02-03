@@ -42,7 +42,10 @@ class SiteContentTerrazoFlooring extends Component {
 
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          {/* <link rel="canonical" href="https://chemcoats.com/terrazo-flooring" /> */}
+          <link
+            rel="canonical"
+            href="https://www.chemcoats.com/terrazo-flooring"
+          />
         </Helmet>
         <div id="inner-content" className="inner-content-wrap">
           <div

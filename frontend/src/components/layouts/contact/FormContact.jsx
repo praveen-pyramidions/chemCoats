@@ -68,7 +68,7 @@ export default function FormContact() {
           />
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href="https://chemcoats.com/contact-us" />
+          <link rel="canonical" href="https://www.chemcoats.com/contact-us" />
         </Helmet>
 
         <div className="themesflat-headings style-2 clearfix">
