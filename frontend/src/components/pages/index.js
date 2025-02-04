@@ -72,7 +72,7 @@ const routes = [
   { path: "/login", component: Login },
   // { path: "/blog-single", component: BlogSingle },
   { path: "/blog/:id", component: BlogSingle },
-  //{ path: "/createblog", component: CreateBlog },
+  { path: "/createblog", component: CreateBlog },
   { path: "/editblog/:id", component: EditBlog },
 
   // {
