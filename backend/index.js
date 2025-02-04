@@ -16,7 +16,18 @@ app.use(fileUpload());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(bodyParser.json());
-app.use(cors({ origin: ["http://localhost:3000"], credentials: true }));
+const allowedOrigins = ["https://chemcoats.com", "https://www.chemcoats.com"];
+
+app.use(cors({
+  origin: function (origin, callback) {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error("Not allowed by CORS"));
+    }
+  },
+  credentials: true,
+}));
 // connect to DB
 try {
   mongoose.connect(process.env.mongoUrl);
