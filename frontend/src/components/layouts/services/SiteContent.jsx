@@ -641,9 +641,20 @@ class SiteContent extends Component {
                       <i className="fa fa-check-circle" />
                     </span>
                     <span className="text">
-                      The core vision of Chemcoats is to fulfill all the
-                      industrial flooring requirements of our esteemed clients
-                      and deliver unparalleled service
+                      The core vision of{" "}
+                      <a
+                        href="https://www.chemcoats.com/epoxy-flooring "
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{
+                          color: "#e46b26",
+                          textDecoration: "underline",
+                        }}
+                      >
+                        Chemcoats
+                      </a>{" "}
+                      is to fulfill all the industrial flooring requirements of
+                      our esteemed clients and deliver unparalleled service
                     </span>
                   </span>
                 </div>

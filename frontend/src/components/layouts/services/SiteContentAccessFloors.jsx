@@ -498,13 +498,25 @@ class SiteContentAccessFloors extends Component {
                         and HVAC systems. By concealing these components beneath
                         the raised floor, the workspace becomes more organized,
                         streamlined, and aesthetically pleasing. */}
-                        Raised floors, also known as access floors, involve
-                        elevating the floor level to create a space beneath the
-                        surface. This void can be utilized for accommodating
-                        various utilities such as cabling, electrical wiring,
-                        and HVAC systems. By concealing these components beneath
-                        the raised floor, the workspace becomes more organized,
-                        streamlined, and aesthetically pleasing.
+                        Raised floors, also known as{" "}
+                        <a
+                          href="https://www.chemcoats.com/contact/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style={{
+                            color: "#e46b26",
+                            textDecoration: "underline",
+                          }}
+                        >
+                          access floors,
+                        </a>{" "}
+                        involve elevating the floor level to create a space
+                        beneath the surface. This void can be utilized for
+                        accommodating various utilities such as cabling,
+                        electrical wiring, and HVAC systems. By concealing these
+                        components beneath the raised floor, the workspace
+                        becomes more organized, streamlined, and aesthetically
+                        pleasing.
                       </span>
                     </span>
                   </div>

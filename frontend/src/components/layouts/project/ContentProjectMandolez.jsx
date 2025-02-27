@@ -143,9 +143,18 @@ class ContentProjectMandolez extends Component {
             The coatings that we deposited were in accordance with ISO 15652
             standard, in order to meet the required electrical safety
             regulations in an industrial environment. Not only did this
-            electrical dielectric coating provide enhanced safety by preventing
-            spurious electrical shunting, it also aided in maintaining the
-            health/integrity of plant power systems.
+            electrical{" "}
+            <a
+              href="https://www.chemcoats.com/di-electric-flooring "
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#e46b26", textDecoration: "underline" }}
+            >
+              dielectric coating
+            </a>{" "}
+            provide enhanced safety by preventing spurious electrical shunting,
+            it also aided in maintaining the health/integrity of plant power
+            systems.
           </p>
           <p>
             {/* The quick turnaround and effective solution allowed the plant to

@@ -1,9 +1,6 @@
 import Home01 from "./Home01";
 import Home02 from "./Home02";
 import AboutUs from "./AboutUs";
-import AboutDetails from "./AboutDetails";
-import AboutTeam from "./AboutTeam";
-import AboutCarres from "./AboutCarres";
 import Services from "./Services";
 import ServiceDetail from "./ServiceDetail";
 
@@ -58,7 +55,7 @@ const routes = [
   { path: "/", component: Home01 },
   { path: "/home-02", component: Home02 },
   { path: "/about-us", component: AboutUs },
-  { path: "/about-detail", component: AboutDetails },
+  // { path: "/about-detail", component: AboutDetails },
   // { path: "/about-team", component: AboutTeam },
   // { path: "/about-carees", component: AboutCarres },
   { path: "/services", component: Services },

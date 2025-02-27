@@ -179,10 +179,18 @@ class ContentProject extends Component {
             access it for cable management, for electrical wiring and HVAC
             installation under the floor surface. This contemporary flooring
             configuration helps produce a neat, formal look and feels in line
-            with the company's mission of running a clean, efficient and safe
-            workplace. With this installation the site is now better able to
-            accommodate its high tech operations and present a safe and
-            productive working environment for the employees.
+            with the company's mission of running a clean,{" "}
+            <a
+              href="https://www.chemcoats.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#e46b26", textDecoration: "underline" }}
+            >
+              efficient and safe workplace.
+            </a>{" "}
+            With this installation the site is now better able to accommodate
+            its high tech operations and present a safe and productive working
+            environment for the employees.
           </p>
         </div>
       </div>

@@ -169,12 +169,20 @@ class ContentProjectLuxshare extends Component {
             to deliver high-quality results. */}
             Using the state of the art, floor leveling technique and special
             materials, we confirmed that the server room facility complied with
-            the appropriate electrode protection equipment and operational
-            effectiveness standards. Successful completion of that work not only
-            asserted our right to to perform effective work in challenging,
-            stressful conditions, but also demonstrated to our employers our
-            commitment to performing with resilience and under pressure, and to
-            deliver the highest possible standard of work.
+            the appropriate electrode{" "}
+            <a
+              href="https://www.chemcoats.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#e46b26", textDecoration: "underline" }}
+            >
+              protection equipment
+            </a>{" "}
+            and operational effectiveness standards. Successful completion of
+            that work not only asserted our right to to perform effective work
+            in challenging, stressful conditions, but also demonstrated to our
+            employers our commitment to performing with resilience and under
+            pressure, and to deliver the highest possible standard of work.
           </p>
         </div>
       </div>

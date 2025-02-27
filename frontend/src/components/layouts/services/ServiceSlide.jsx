@@ -58,9 +58,17 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Industrial epoxy flooring provides an exceptional
-                            blend of long-lasting performance, resistance to
-                            chemicals, and visually appealing aesthetics.
+                            <Link
+                              to="#"
+                              title="epoxy-flooring"
+                              onClick={() => {
+                                window.location.href = "/epoxy-flooring";
+                              }}
+                            >
+                              Industrial epoxy flooring provides an exceptional
+                              blend of long-lasting performance, resistance to
+                              chemicals, and visually appealing aesthetics.
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -101,10 +109,18 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Polyurethane flooring holds immense significance in
-                            various industries and applications due to its
-                            exceptional qualities. Its durability and resistance
-                            ..
+                            <Link
+                              to="#"
+                              title="polyurethane-flooring"
+                              onClick={() => {
+                                window.location.href = "/polyurethane-flooring";
+                              }}
+                            >
+                              Polyurethane flooring holds immense significance
+                              in various industries and applications due to its
+                              exceptional qualities. Its durability and
+                              resistance ..{" "}
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -145,10 +161,18 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Dielectric flooring is specifically engineered to
-                            offer electrical insulation, thus rendering it a
-                            secure option for environments where
-                            safeguarding........
+                            <Link
+                              to="#"
+                              title="di-elecric-flooring"
+                              onClick={() => {
+                                window.location.href = "/di-elecric-flooring";
+                              }}
+                            >
+                              Dielectric flooring is specifically engineered to
+                              offer electrical insulation, thus rendering it a
+                              secure option for environments where
+                              safeguarding........
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -190,9 +214,19 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Anti-static flooring plays a crucial role in various
-                            industries and environments where electrostatic
-                            discharge can pose a significant risk....
+                            <Link
+                              to="#"
+                              title="anti-static-epoxy-flooring"
+                              onClick={() => {
+                                window.location.href =
+                                  "/anti-static-epoxy-flooring";
+                              }}
+                            >
+                              Anti-static flooring plays a crucial role in
+                              various industries and environments where
+                              electrostatic discharge can pose a significant
+                              risk....
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -234,10 +268,18 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            ESD (Electrostatic Discharge) flooring plays a
-                            pivotal role in environments where static
-                            electricity poses a serious risk to both sensitive
-                            electronic......
+                            <Link
+                              to="#"
+                              title="esd-flooring"
+                              onClick={() => {
+                                window.location.href = "/esd-flooring";
+                              }}
+                            >
+                              ESD (Electrostatic Discharge) flooring plays a
+                              pivotal role in environments where static
+                              electricity poses a serious risk to both sensitive
+                              electronic......
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -279,10 +321,19 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Car park deck flooring plays a vital role in urban
-                            infrastructure, ensuring the safety, longevity, and
-                            functionality of multi-level parking
-                            structures........
+                            <Link
+                              to="#"
+                              title="car-park-deck-flooring"
+                              onClick={() => {
+                                window.location.href =
+                                  "/car-park-deck-flooring";
+                              }}
+                            >
+                              Car park deck flooring plays a vital role in urban
+                              infrastructure, ensuring the safety, longevity,
+                              and functionality of multi-level parking
+                              structures........
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -324,10 +375,19 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Terrazzo flooring is essential for both its
-                            aesthetic appeal and durability, as it not only adds
-                            a timeless elegance to spaces but also withstands
-                            heavy use and traffic, ensuring a long-lasting..
+                            <Link
+                              to="#"
+                              title="terrazo-flooring"
+                              onClick={() => {
+                                window.location.href = "/terrazo-flooring";
+                              }}
+                            >
+                              Terrazzo flooring is essential for both its
+                              aesthetic appeal and durability, as it not only
+                              adds a timeless elegance to spaces but also
+                              withstands heavy use and traffic, ensuring a
+                              long-lasting..
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -369,10 +429,19 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Polished concrete is of utmost importance in modern
-                            architectural design, offering a sustainable and
-                            visually striking flooring option that enhances
-                            light reflection...
+                            <Link
+                              to="#"
+                              title="di-polished-concrete-flooring"
+                              onClick={() => {
+                                window.location.href =
+                                  "/di-polished-concrete-flooring";
+                              }}
+                            >
+                              Polished concrete is of utmost importance in
+                              modern architectural design, offering a
+                              sustainable and visually striking flooring option
+                              that enhances light reflection...
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -431,10 +500,18 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Sport epoxy flooring is crucial for athletes and
-                            fitness enthusiasts as it not only provides a
-                            durable and non-slip surface but also enhances
-                            safety and....
+                            <Link
+                              to="#"
+                              title="sports-flooring"
+                              onClick={() => {
+                                window.location.href = "/sports-flooring";
+                              }}
+                            >
+                              Sport epoxy flooring is crucial for athletes and
+                              fitness enthusiasts as it not only provides a
+                              durable and non-slip surface but also enhances
+                              safety and....
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -476,10 +553,19 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Self-leveling epoxy flooring is crucial for creating
-                            a seamless and durable surface that not only
-                            enhances the aesthetics of a space but also provides
-                            exceptional performance....
+                            <Link
+                              to="#"
+                              title="di-self-leveling-epoxy-flooring"
+                              onClick={() => {
+                                window.location.href =
+                                  "/di-self-leveling-epoxy-flooring";
+                              }}
+                            >
+                              Self-leveling epoxy flooring is crucial for
+                              creating a seamless and durable surface that not
+                              only enhances the aesthetics of a space but also
+                              provides exceptional performance....
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -522,10 +608,19 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Clean room flooring is crucial because it plays a
-                            fundamental role in maintaining the sterile
-                            environment necessary for sensitive manufacturing
-                            processes and research,...
+                            <Link
+                              to="#"
+                              title="di-clean-room-flooring"
+                              onClick={() => {
+                                window.location.href =
+                                  "/di-clean-room-flooring";
+                              }}
+                            >
+                              Clean room flooring is crucial because it plays a
+                              fundamental role in maintaining the sterile
+                              environment necessary for sensitive manufacturing
+                              processes and research,...
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -568,10 +663,19 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Heavy-duty epoxy flooring is essential for
-                            industrial settings as it provides exceptional
-                            durability and chemical resistance, ensuring a safe
-                            and long-lasting surface that can....
+                            <Link
+                              to="#"
+                              title="di-heavy-duty-epoxy-flooring"
+                              onClick={() => {
+                                window.location.href =
+                                  "/di-heavy-duty-epoxy-flooring";
+                              }}
+                            >
+                              Heavy-duty epoxy flooring is essential for
+                              industrial settings as it provides exceptional
+                              durability and chemical resistance, ensuring a
+                              safe and long-lasting surface that can....
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -613,10 +717,18 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Hygiene epoxy flooring is paramount in healthcare
-                            facilities and food processing plants, as it creates
-                            a seamless, easy-to-clean surface that helps prevent
-                            the growth....
+                            <Link
+                              to="#"
+                              title="di-hygiene-flooring"
+                              onClick={() => {
+                                window.location.href = "/di-hygiene-flooring";
+                              }}
+                            >
+                              Hygiene epoxy flooring is paramount in healthcare
+                              facilities and food processing plants, as it
+                              creates a seamless, easy-to-clean surface that
+                              helps prevent the growth....
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -657,10 +769,18 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Quartz flooring is vital in commercial and
-                            high-traffic areas due to its exceptional strength
-                            and resistance to wear, making it an ideal choice
-                            for maintaining....
+                            <Link
+                              to="#"
+                              title="quartz-flooring"
+                              onClick={() => {
+                                window.location.href = "/quartz-flooring";
+                              }}
+                            >
+                              Quartz flooring is vital in commercial and
+                              high-traffic areas due to its exceptional strength
+                              and resistance to wear, making it an ideal choice
+                              for maintaining....
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link
@@ -701,10 +821,18 @@ class ServiceSlide extends Component {
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Expansion joints are crucial in construction to
-                            accommodate the natural movement and temperature
-                            changes of structures, preventing cracks and damage
-                            by allowing....
+                            <Link
+                              to="#"
+                              title="di-expanison-joints"
+                              onClick={() => {
+                                window.location.href = "/di-expanison-joints";
+                              }}
+                            >
+                              Expansion joints are crucial in construction to
+                              accommodate the natural movement and temperature
+                              changes of structures, preventing cracks and
+                              damage by allowing....
+                            </Link>
                           </p>
                           <div className="elm-readmore">
                             <Link

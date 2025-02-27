@@ -407,10 +407,21 @@ class SiteContentHygieneFlooring extends Component {
                       functionality. It comes in a variety of colors and
                       designs, allowing businesses to create visually appealing
                       spaces while maintaining high hygiene standards. */}
-                      Hygiene flooring does not have to forego aesthetics for
-                      functionality. It has various colors and layouts, allowing
-                      businesses to build visually attractive spaces while
-                      keeping up high standards of hygiene.
+                      <a
+                        href="https://www.chemcoats.com/contact/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{
+                          color: "#e46b26",
+                          textDecoration: "underline",
+                        }}
+                      >
+                        Hygiene flooring
+                      </a>{" "}
+                      does not have to forego aesthetics for functionality. It
+                      has various colors and layouts, allowing businesses to
+                      build visually attractive spaces while keeping up high
+                      standards of hygiene.
                     </span>
                   </span>
                 </div>

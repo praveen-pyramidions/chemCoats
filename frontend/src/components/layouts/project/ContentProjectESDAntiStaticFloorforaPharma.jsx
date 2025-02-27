@@ -160,17 +160,25 @@ class ContentProjectESDAntiStaticFloorforaPharma extends Component {
             important. */}
             Such floorings are routinely used in the situations where the
             employees are in statuesque position for prolonged periods or where
-            skid resistance is also required. ESD epoxy flooring is a nice
-            solution to those who want a wide and durable construction. Its
-            construction is based on a self-levelling epoxy resin providing a
-            hard, wear-resistant surface suitable for such cutting-edge
-            technologies as clean rooms and laboratories. Electrostatic
-            discharge (ESD) tile flooring (e.g., vinyl or ceramic tiles) provide
-            a plug-and-play option for ESD protection in that, porous tiles,
-            which can get damaged, can be simply replaced without ruining the
-            anti-static field. Second, conductive carpeting tiles offers a
-            visually appealing, comfortable alternative for the office or
-            industrial settings in which a more cushioned surface is desired
+            skid resistance is also required.{" "}
+            <a
+              href="https://www.chemcoats.com/esd-flooring "
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-500 underline"
+            >
+              ESD epoxy flooring
+            </a>{" "}
+            is a nice solution to those who want a wide and durable
+            construction. Its construction is based on a self-levelling epoxy
+            resin providing a hard, wear-resistant surface suitable for such
+            cutting-edge technologies as clean rooms and laboratories.
+            Electrostatic discharge (ESD) tile flooring (e.g., vinyl or ceramic
+            tiles) provide a plug-and-play option for ESD protection in that,
+            porous tiles, which can get damaged, can be simply replaced without
+            ruining the anti-static field. Second, conductive carpeting tiles
+            offers a visually appealing, comfortable alternative for the office
+            or industrial settings in which a more cushioned surface is desired
             while static control is required.
           </p>
         </div>

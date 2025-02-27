@@ -876,10 +876,23 @@ class SiteContentPolyUrethaneFlooring extends Component {
                     <span className="icon">
                       <i className="fa fa-check-circle" />
                     </span>
-                    <span className="text">
+                    {/* <span className="text">
                       The core vision of Chemcoats is to fulfill all the
                       industrial flooring requirements of our esteemed clients
                       and deliver unparalleled service
+                    </span> */}
+                    <span className="text">
+                      The core vision of{" "}
+                      <a
+                        href="https://www.chemcoats.com/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-500 underline"
+                      >
+                        Chemcoats
+                      </a>{" "}
+                      is to fulfill all the industrial flooring requirements of
+                      our esteemed clients and deliver unparalleled service
                     </span>
                   </span>
                 </div>

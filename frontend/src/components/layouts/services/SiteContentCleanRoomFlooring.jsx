@@ -740,9 +740,20 @@ class SiteContentCleanRoomFlooring extends Component {
                         {/* Some clean room flooring materials offer ESD protection,
                         preventing static discharge that could damage sensitive
                         electronic components. */}
-                        Some of the clean room floorings are resistant to ESD
-                        discharges possible from the surrounding environment,
-                        sustaining an untarnished product.
+                        Some of the clean room floorings are resistant to{" "}
+                        <a
+                          href="https://www.chemcoats.com/esd-flooring"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style={{
+                            color: "#e46b26",
+                            textDecoration: "underline",
+                          }}
+                        >
+                          ESD
+                        </a>{" "}
+                        ESD discharges possible from the surrounding
+                        environment, sustaining an untarnished product.
                       </span>
                     </span>
                   </div>

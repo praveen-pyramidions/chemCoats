@@ -891,9 +891,20 @@ class SiteContentSportsFlooring extends Component {
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Safety Feature :{" "}
                       </span>
-                      Advanced sports flooring systems may include safety
-                      features like impact protection for athletes and
-                      underfloor heating for comfort.
+                      Advanced{" "}
+                      <a
+                        href="https://www.chemcoats.com/contact/ "
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{
+                          color: "#e46b26",
+                          textDecoration: "underline",
+                        }}
+                      >
+                        sports flooring
+                      </a>{" "}
+                      systems may include safety features like impact protection
+                      for athletes and underfloor heating for comfort.
                     </span>
                   </span>
                 </div>

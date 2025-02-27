@@ -632,9 +632,17 @@ class SiteContentQuartzFlooring extends Component {
                       {/* Research labs and pharmaceutical facilities require the
                       hygienic and chemical-resistant properties of quartz
                       flooring. */}
-                      Quartz flooring has hygienic and chemical-resistant
-                      properties, which is essential in a research laboratory or
-                      a pharmaceutical facility.
+                      <a
+                        href="http://chemcoats.com/contact/ "
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-500 underline"
+                      >
+                        Quartz flooring ,
+                      </a>
+                      has hygienic and chemical-resistant properties, which is
+                      essential in a research laboratory or a pharmaceutical
+                      facility.
                     </span>
                   </span>
                 </div>

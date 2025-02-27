@@ -169,9 +169,17 @@ class ContentProjectFoxcon extends Component {
             standard quality, but also the importance of maintaining the
             environment under control, for instance, preventing electrostatic
             discharge, which may damage not only the delicate equipment and the
-            products. Considering future-advanced third-party validation of
-            ESD-floor and -embedding, as a part of the workflows, then Foxconn
-            also achieves the stringent criteria of its production line, and the
+            products. Considering future-advanced third-party validation of{" "}
+            <a
+              href="https://www.chemcoats.com/esd-flooring"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#e46b26", textDecoration: "underline" }}
+            >
+              ESD-floor
+            </a>{" "}
+            and -embedding, as a part of the workflows, then Foxconn also
+            achieves the stringent criteria of its production line, and the
             safety and reliability of the products are ensured.
           </p>
         </div>

@@ -141,13 +141,21 @@ class ContentProjectSyrmaSGS extends Component {
             but also met the latest ANSI 2020 standards, ensuring it was up to
             date with the latest industry practices. */}
             Recognizing the critical importance of this requirement, we, a team,
-            partnered closely with Syrma SGS to develop and install an ESD
-            flooring platform, and all its pertinent specifications, i.e.,
-            conductivity, durability, and safety. The flooring solution that we
-            offered was not just in accordance with IEC 61340 (defining the
-            principles of ESD control in sensitive electronic environment) but
-            also in line with the new ANSI 2020 requirements, keeping it up to
-            date with the recent industry standard.
+            partnered closely with Syrma SGS to develop and install an ,
+            <a
+              href="https://www.chemcoats.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#e46b26", textDecoration: "underline" }}
+            >
+              ESD flooring platform ,
+            </a>
+            and all its pertinent specifications, i.e., conductivity,
+            durability, and safety. The flooring solution that we offered was
+            not just in accordance with IEC 61340 (defining the principles of
+            ESD control in sensitive electronic environment) but also in line
+            with the new ANSI 2020 requirements, keeping it up to date with the
+            recent industry standard.
           </p>
           <p>
             {/* By providing this highly controlled static current floor, we ensured
