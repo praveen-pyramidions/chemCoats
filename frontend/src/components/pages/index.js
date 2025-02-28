@@ -1,5 +1,5 @@
 import Home01 from "./Home01";
-import Home02 from "./Home02";
+// import Home02 from "./Home02";
 import AboutUs from "./AboutUs";
 import Services from "./Services";
 import ServiceDetail from "./ServiceDetail";
@@ -36,16 +36,16 @@ import ProjectDetailSportsProject from "./ProjectDetailSportsProject";
 import ProjectDetail from "./ProjectDetail";
 
 import Projects from "./Projects";
-import ProjectFullWidth from "./ProjectFullWidth";
-import Testimonial from "./Testimonial";
-import PricePage from "./PricePage";
+// import ProjectFullWidth from "./ProjectFullWidth";
+// import Testimonial from "./Testimonial";
+// import PricePage from "./PricePage";
 import Blog from "./Blog";
 import BlogSingle from "./BlogSingle";
 import Contact from "./Contact";
-import Contact02 from "./Contact02";
-import WhyChooseEpoxy from "./WhyChooseEpoxy";
+// import Contact02 from "./Contact02";
+// import WhyChooseEpoxy from "./WhyChooseEpoxy";
 import UncontrolledExample from "./HeroBannerSlider";
-import HeroBanner from "./HeroBannerSlider";
+// import HeroBanner from "./HeroBannerSlider";
 import Protect from "../layouts/blog/Authentication/Protected";
 import CreateBlog from "../layouts/blog/CreateBlog";
 import EditBlog from "../layouts/blog/EditBlog";
@@ -53,7 +53,7 @@ import Login from "../layouts/blog/Authentication/LoginPage";
 
 const routes = [
   { path: "/", component: Home01 },
-  { path: "/home-02", component: Home02 },
+  // { path: "/home-02", component: Home02 },
   { path: "/about-us", component: AboutUs },
   // { path: "/about-detail", component: AboutDetails },
   // { path: "/about-team", component: AboutTeam },
@@ -61,7 +61,7 @@ const routes = [
   { path: "/services", component: Services },
   { path: "/epoxy-flooring", component: ServiceDetail },
   { path: "/project", component: Projects },
-  { path: "/project-full-width", component: ProjectFullWidth },
+  // { path: "/project-full-width", component: ProjectFullWidth },
   { path: "/esd-protection-systems", component: ProjectDetail },
   // { path: "/page-testimonial", component: Testimonial },
   // { path: "/page-pricing", component: PricePage },

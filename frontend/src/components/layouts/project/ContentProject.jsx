@@ -14,10 +14,7 @@ class ContentProject extends Component {
 
           <meta name="author" content="Your Company Name" />
           <meta name="robots" content="index, follow" />
-          <link
-            rel="canonical"
-            href="https://www.chemcoats.com/project-detail"
-          />
+          <link rel="canonical" href="https://www.chemcoats.com/project" />
         </Helmet>
         <div
           className="themesflat-spacer clearfix"
